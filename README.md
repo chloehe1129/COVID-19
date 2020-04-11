@@ -1,7 +1,8 @@
 # COVID-19
-Transmission Rate county-level
-
-US_state and US_counties Data:
+PROJECT NAME: Transmission Rate county-level
+DATA descriptions: 
+1. County-level 04-10-2020 (By JHU github)
+2. US_state and US_counties Data:
 Copyright 2020 by The New York Times Company 
 
 In light of the current public health emergency, The New York Times Company is
