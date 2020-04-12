@@ -1,27 +1,19 @@
-# COVID-19
-PROJECT NAME: Transmission Rate county-level
-DATA descriptions: 
+# COVID-19 PROJECT
+# Aim1: Estimate US county-level R0 
+# Aim2: Association between county-level R0 and covariates 
+# Adjusting Covariates: 
+(1) Population Density: Population/Area in sq miles
+(2) % of essential workers : classified by NAISC codes
+(3) weather : in F
+(4) income 
+(5) education: % of college degree or above
+(6) time between test and test results - time-dependent variable
+(7) social distancing (0 or 1)         - time-dependent variable
+(8) shelter in place order (0 or 1)    - time-dependent variable
+(9) currently testing (0 or 1)         - time-dependent variable
+
+# Data Set
 1. County-level 04-10-2020 (By JHU github)
-2. US_state and US_counties Data:
-Copyright 2020 by The New York Times Company 
-
-In light of the current public health emergency, The New York Times Company is
-providing this database under the following free-of-cost, perpetual,
-non-exclusive license. Anyone may copy, distribute, and display the database, or
-any part thereof, and make derivative works based on it, provided  (a) any such
-use is for non-commercial purposes only and (b) credit is given to The New York
-Times in any public display of the database, in any publication derived in part
-or in full from the database, and in any other public use of the data contained
-in or derived from the database.
+2. US_state and US_counties Data: Copyright 2020 by The New York Times Company 
+3. Demographic data: US Census Administration
   
-By accessing or copying any part of the database, the user accepts the terms of
-this license. Anyone seeking to use the database for other purposes is required
-to contact The New York Times Company at covid-data@nytimes.com to obtain
-permission.
-
-The New York Times has made every effort to ensure the accuracy of the
-information. However, the database may contain typographic errors or
-inaccuracies and may not be complete or current at any given time. Licensees
-further agree to assume all liability for any claims that may arise from or
-relate in any way to their use of the database and to hold The New York Times
-Company harmless from any such claims.
