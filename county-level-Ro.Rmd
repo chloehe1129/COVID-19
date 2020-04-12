@@ -1,0 +1,43 @@
+---
+title: "county-level R0"
+author: "Shan He"
+date: "4/12/2020"
+output: html_document
+---
+Library
+```{r}
+library(R0)
+options(warn=-1)
+```
+
+Create three columns to store 3 R0 
+```{r}
+population$Ro_AR = NULL
+population$Ro_EG = NULL
+population$Ro_ML = NULL
+colnames(population) = c("countyFIPS","County.Name","State","population","Ro_AR","Ro_EG","Ro_ML")
+```
+
+Data 
+```{r}
+county_case <- read.csv("us-counties.csv") 
+county_case <- county_case[order(county_case$fips),] # order based on fips number 
+
+number_of_counties <- length(unique(county_case$fips)) # 2618
+
+# focus on one county at a time and calculate 3 Ro
+for (i in 1:number_of_counties){
+  subset_county <- subset(county_case,county_case$fips==unique(county_case$fips)[i])
+  
+  a <- est.GT(serial.interval = subset_county$cases)
+  mGT <- generation.time("weibull", c(a$mean, a$sd))
+  
+  pop.size = as.numeric(population[population$countyFIPS==unique(county_case$fips)[i],][4])
+  AR = as.numeric(tail(subset_county,1)[5]/pop.size)
+  
+  population[population$countyFIPS==unique(county_case$fips)[i],5] = as.numeric(est.R0.AR(pop.size=pop.size,AR=AR)[2])
+  population[population$countyFIPS==unique(county_case$fips)[i],6] = as.numeric(est.R0.EG(subset_county$cases,mGT)[1])
+  population[population$countyFIPS==unique(county_case$fips)[i],7] = as.numeric(est.R0.ML(subset_county$cases,mGT)[1])
+}
+```
+
