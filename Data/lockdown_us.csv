@@ -1,0 +1,173 @@
+Country,State,County,Date,Type
+United States,Alabama,,4/4/20,Stay at home
+United States,Alabama,Birmingham,3/24/20,Shelter in place
+United States,Alaska,,3/28/20,Stay at home
+United States,Arizona,,3/31/20,Stay at home
+United States,California,,3/19/20,Stay at home
+United States,Colorado,,3/26/20,Stay at home
+United States,Connecticut,,3/23/20,Stay at home
+United States,Delaware,,3/24/20,Shelter in place
+United States,District of Columbia,,4/1/20,Stay at home
+United States,Florida,,4/3/20,Stay at home
+United States,Florida,Alachua,3/24/20,Stay at home
+United States,Florida,Broward,3/27/20,Shelter in place
+United States,Florida,Hillsborough,3/27/20,Stay at home
+United States,Florida,Leon,3/25/20,Stay at home
+United States,Florida,Miami,3/25/20,Stay at home
+United States,Florida,Dade,3/25/20,Stay at home
+United States,Florida,Monroe,3/30/20,Stay at home
+United States,Florida,Orange,3/26/20,Stay at home
+United States,Florida,Osceola,3/26/20,Stay at home
+United States,Florida,Palm Beach,3/30/20,Stay at home
+United States,Florida,Pinellas,3/26/20,Stay at home
+United States,Georgia,,4/3/20,Shelter in place
+United States,Georgia,Altlanta,3/24/20,Stay at home
+United States,Georgia,Avondale Estates,3/26/20,Stay at home
+United States,Georgia,Blakely,3/24/20,Shelter in place
+United States,Georgia,Brookhaven,3/24/20,Shelter in place
+United States,Georgia,Carrollton,3/25/20,Shelter in place
+United States,Georgia,Chamblee,3/28/20,Stay at home
+United States,Georgia,Clarkston,3/29/20,Stay at home
+United States,Georgia,Decatur,3/25/20,Stay at home
+United States,Georgia,Doraville,3/26/20,Stay at home
+United States,Georgia,Dunwoody,3/29/20,Stay at home
+United States,Georgia,Forest Park,3/30/20,Stay at home
+United States,Georgia,Savannah,3/24/20,Shelter in place
+United States,Georgia,Athens,3/20/20,Shelter in place
+United States,Georgia,Clarke,3/20/20,Shelter in place
+United States,Georgia,Cobb,3/25/20,Shelter in place
+United States,Georgia,Dougherty,3/21/20,Shelter in place
+United States,Georgia,Gwinnett,3/28/20,Stay at home
+United States,Hawaii,,3/25/20,Stay at home
+United States,Idaho,,3/25/20,Stay at home
+United States,Illinois,,3/21/20,Stay at home
+United States,Indiana,,3/25/20,Stay at home
+United States,Kansas,,3/30/20,Stay at home
+United States,Kentucky,,3/26/20,Stay at home
+United States,Louisiana,,3/23/20,Stay at home
+United States,Maine,,4/2/20,Stay at home
+United States,Maine,Portland,3/25/20,Stay at home
+United States,Maryland,,3/30/20,Stay at home
+United States,Massachusetts,,3/24/20,Stay at home
+United States,Michigan,,3/24/20,Stay at home
+United States,Minnesota,,3/28/20,Stay at home
+United States,Mississippi,,4/3/20,Shelter in place
+United States,Mississippi,Oxford,3/22/20,Stay at home
+United States,Mississippi,Tupelo,3/22/20,Shelter in place
+United States,Mississippi,Lauderdale,3/21/20,Shelter in place
+United States,Missouri,,4/6/20,Stay at home
+United States,Missouri,Kansas City,3/24/20,Stay at home
+United States,Missouri,St. Joseph,3/24/20,Shelter in place
+United States,Missouri,St. Louis City,3/23/20,Stay at home
+United States,Missouri,Boone,3/25/20,Stay at home
+United States,Missouri,Cass,3/24/20,Stay at home
+United States,Missouri,Clay,3/24/20,Stay at home
+United States,Missouri,Cole,3/23/20,Stay at home
+United States,Missouri,Greene,3/26/20,Stay at home
+United States,Missouri,Jackson,3/24/20,Stay at home
+United States,Missouri,Jefferson,3/24/20,Stay at home
+United States,Missouri,Platte,3/24/20,Shelter in place
+United States,Missouri,Randolph,3/25/20,Stay at home
+United States,Missouri,Ray,3/25/20,Stay at home
+United States,Missouri,St. Louis,3/23/20,Stay at home
+United States,Montana,,3/28/20,Stay at home
+Unites States,Nevada,,4/1/20,Stay at home
+United States,New Hampshire,,3/28/20,Stay at home
+United States,New Jersey,,3/21/20,Stay at home
+United States,New Mexico,,3/24/20,Stay at home
+United States,New York,,3/22/20,Stay at home
+United States,North Carolina,,3/30/20,Stay at home
+United States,Ohio,,3/24/20,Stay at home
+United States,Oklahoma,Claremore,4/6/20,Stay at home
+United States,Oklahoma,Edmond,3/31/20,Shelter in place
+United States,Oklahoma,Moore,4/5/20,Shelter in place
+United States,Oklahoma,Norman,3/25/20,Stay at home
+United States,Oklahoma,Oklahoma City,3/29/20,Shelter in place
+United States,Oklahoma,Sallisaw,4/5/20,Shelter in place
+United States,Oklahoma,Stillwater,3/31/20,Shelter in place
+United States,Oklahoma,Tulsa,3/29/20,Shelter in place
+United States,Oregon,,3/23/20,Stay at home
+United States,Pennsylvania,,4/1/20,Stay at home
+United States,Pennsylvania,Allegheny,3/23/20,Stay at home
+United States,Pennsylvania,Beaver,3/28/20,Stay at home
+United States,Pennsylvania,Berks,3/27/20,Stay at home
+United States,Pennsylvania,Bucks,3/23/20,Stay at home
+United States,Pennsylvania,Butler,3/27/20,Stay at home
+United States,Pennsylvania,Carbon,3/30/20,Stay at home
+United States,Pennsylvania,Centre,3/28/20,Stay at home
+United States,Pennsylvania,Chester,3/23/20,Stay at home
+United States,Pennsylvania,Cumberland,3/30/20,Stay at home
+United States,Pennsylvania,Dauphin,3/30/20,Stay at home
+United States,Pennsylvania,Delaware,3/23/20,Stay at home
+United States,Pennsylvania,Erie,3/24/20,Stay at home
+United States,Pennsylvania,Lackawanna,3/27/20,Stay at home
+United States,Pennsylvania,Lancaster,3/27/20,Stay at home
+United States,Pennsylvania,Lehigh,3/25/20,Stay at home
+United States,Pennsylvania,Luzerne,3/27/20,Stay at home
+United States,Pennsylvania,Monroe,3/23/20,Stay at home
+United States,Pennsylvania,Montgomery,3/23/20,Stay at home
+United States,Pennsylvania,Northampton,3/25/20,Stay at home
+United States,Pennsylvania,Philadelphia,3/23/20,Stay at home
+United States,Pennsylvania,Pike,3/27/20,Stay at home
+United States,Pennsylvania,Schuylkill,3/30/20,Stay at home
+United States,Pennsylvania,Washington,3/28/20,Stay at home
+United States,Pennsylvania,Wayne,3/27/20,Stay at home
+United States,Pennsylvania,Westmoreland,3/27/20,Stay at home
+United States,Pennsylvania,York,3/27/20,Stay at home
+United States,Puerto Rico,,3/15/20,Curfew
+United States,Rhode Island,,3/28/20,Stay at home
+United States,South Carolina,,4/7/20,Stay at home
+United States,South Carolina,Charleston,3/26/20,Stay at home
+United States,South Carolina,Columbia,3/29/20,Stay at home
+United States,Tennessee,,4/1/20,Stay at home
+United States,Tennessee,Franklin,3/25/20,Stay at home
+United States,Tennessee,Davidson,3/23/20,Stay at home
+United States,Tennessee,Knox,3/24/20,Stay at home
+United States,Tennessee,Shelby,3/24/20,Shelter in place
+United States,Texas,,4/2/20,Stay at home
+United States,Texas,Amarillo,3/31/20,Stay at home
+United States,Texas,Lubbock,3/30/20,Stay at home
+United States,Texas,Bell,3/24/20,Shelter in place
+United States,Texas,Bexar,3/25/20,Stay at home
+United States,Texas,Brazoria,3/26/20,Stay at home
+United States,Texas,Cameron,3/25/20,Shelter in place
+United States,Texas,Chambers,3/25/20,Shelter in place
+United States,Texas,Collin,3/24/20,Stay at home
+United States,Texas,Dallas,3/24/20,Shelter in place
+United States,Texas,Denton,3/26/20,Stay at home
+United States,Texas,El Paso,3/25/20,Stay at home
+United States,Texas,Ellis,3/26/20,Stay at home
+United States,Texas,Fort Bend,3/25/20,Stay at home
+United States,Texas,Galveston,3/25/20,Stay at home
+United States,Texas,Gregg,3/27/20,Shelter in place
+United States,Texas,Harris,3/25/20,Stay at home
+United States,Texas,Harrison,4/1/20,Stay at home
+United States,Texas,Hays,3/26/20,Stay at home
+United States,Texas,Hildalgo,3/27/20,Shelter in place
+United States,Texas,Hunt,3/25/20,Shelter in place
+United States,Texas,Kaufman,3/26/20,Shelter in place
+United States,Texas,Liberty,3/25/20,Stay at home
+United States,Texas,McLennan,3/24/20,Shelter in place
+United States,Texas,Nacogdoches,3/30/20,Stay at home
+United States,Texas,Nueces,3/27/20,Stay at home
+United States,Texas,Polk,3/28/20,Stay at home
+United States,Texas,Robertson,3/25/20,Shelter in place
+United States,Texas,Rockwall,3/25/20,Stay at home
+United States,Texas,San Jacinto,3/25/20,Stay at home
+United States,Texas,Scurry,3/28/20,Shelter in place
+United States,Texas,Smith,3/28/20,Stay at home
+United States,Texas,Starr,3/25/20,Stay at home
+United States,Texas,Tarrant,3/25/20,Stay at home
+United States,Texas,Travis,3/25/20,Stay at home
+United States,Texas,Wichita,3/28/20,Shelter in place
+United States,Texas,Willacy,3/26/20,Shelter in place
+United States,Texas,Williamson,3/25/20,Stay at home
+United States,Utah,Davis,4/2/20,Stay at home
+United States,Utah,Salt Lake,3/30/20,Stay at home
+United States,Utah,Summit,3/27/20,Stay at home
+United States,Vermont,,3/25/20,Stay at home
+United States,Virginia,,3/30/20,Stay at home
+United States,Washington,,3/23/20,Stay at home
+United States,West Virginia,,3/24/20,Stay at home
+United States,Wisconsin,,3/25/20,Stay at home
+United States,Wyoming,Jackson,3/28/20,Stay at home
