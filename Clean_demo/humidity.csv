@@ -1,0 +1,2985 @@
+"","State_abbrev","Countynames","rank","AvgHumid","State","FIPS"
+"1","AL","Autauga",2258,"75.97%","Alabama",1001
+"2","AL","Baldwin",2316,"75.84%","Alabama",1003
+"3","AL","Barbour",2336,"75.76%","Alabama",1005
+"4","AL","Bibb",1835,"76.98%","Alabama",1007
+"5","AL","Blount",1199,"78.56%","Alabama",1009
+"6","AL","Bullock",1349,"78.19%","Alabama",1011
+"7","AL","Butler",1695,"77.30%","Alabama",1013
+"8","AL","Calhoun",2294,"75.89%","Alabama",1015
+"9","AL","Chambers",2845,"73.46%","Alabama",1017
+"10","AL","Cherokee",2504,"75.11%","Alabama",1019
+"11","AL","Chilton",2208,"76.08%","Alabama",1021
+"12","AL","Choctaw",2710,"74.32%","Alabama",1023
+"13","AL","Clarke",2497,"75.14%","Alabama",1025
+"14","AL","Clay",2635,"74.66%","Alabama",1027
+"15","AL","Cleburne",2722,"74.27%","Alabama",1029
+"16","AL","Coffee",2032,"76.48%","Alabama",1031
+"17","AL","Colbert",2020,"76.51%","Alabama",1033
+"18","AL","Conecuh",1477,"77.84%","Alabama",1035
+"19","AL","Coosa",2233,"76.02%","Alabama",1037
+"20","AL","Covington",1943,"76.69%","Alabama",1039
+"21","AL","Crenshaw",1465,"77.87%","Alabama",1041
+"22","AL","Cullman",1208,"78.55%","Alabama",1043
+"23","AL","Dale",2089,"76.36%","Alabama",1045
+"24","AL","Dallas",1920,"76.75%","Alabama",1047
+"25","AL","Elmore",2436,"75.36%","Alabama",1051
+"26","AL","Escambia",1500,"77.78%","Alabama",1053
+"27","AL","Etowah",2226,"76.03%","Alabama",1055
+"28","AL","Fayette",1640,"77.45%","Alabama",1057
+"29","AL","Franklin",1956,"76.67%","Alabama",1059
+"30","AL","Geneva",2692,"74.41%","Alabama",1061
+"31","AL","Greene",1842,"76.96%","Alabama",1063
+"32","AL","Hale",2086,"76.36%","Alabama",1065
+"33","AL","Henry",1922,"76.75%","Alabama",1067
+"34","AL","Houston",2432,"75.37%","Alabama",1069
+"35","AL","Jackson",2546,"74.98%","Alabama",1071
+"36","AL","Jefferson",1235,"78.49%","Alabama",1073
+"37","AL","Lamar",2101,"76.33%","Alabama",1075
+"38","AL","Lauderdale",1618,"77.49%","Alabama",1077
+"39","AL","Lawrence",1307,"78.30%","Alabama",1079
+"40","AL","Lee",2194,"76.12%","Alabama",1081
+"41","AL","Limestone",1990,"76.58%","Alabama",1083
+"42","AL","Lowndes",2188,"76.13%","Alabama",1085
+"43","AL","Macon",1473,"77.86%","Alabama",1087
+"44","AL","Madison",2337,"75.75%","Alabama",1089
+"45","AL","Marengo",2459,"75.28%","Alabama",1091
+"46","AL","Marion",1458,"77.89%","Alabama",1093
+"47","AL","Marshall",1703,"77.28%","Alabama",1095
+"48","AL","Mobile",2740,"74.17%","Alabama",1097
+"49","AL","Monroe",2252,"75.97%","Alabama",1099
+"50","AL","Montgomery",1772,"77.13%","Alabama",1101
+"51","AL","Morgan",1102,"78.84%","Alabama",1103
+"52","AL","Perry",2223,"76.03%","Alabama",1105
+"53","AL","Pickens",1919,"76.75%","Alabama",1107
+"54","AL","Pike",1386,"78.08%","Alabama",1109
+"55","AL","Randolph",3005,"71.85%","Alabama",1111
+"56","AL","Russell",2469,"75.22%","Alabama",1113
+"57","AL","Shelby",1676,"77.37%","Alabama",1117
+"58","AL","Sumter",1986,"76.59%","Alabama",1119
+"59","AL","Talladega",2355,"75.71%","Alabama",1121
+"60","AL","Tallapoosa",2453,"75.30%","Alabama",1123
+"61","AL","Tuscaloosa",1904,"76.80%","Alabama",1125
+"62","AL","Walker",1125,"78.75%","Alabama",1127
+"63","AL","Washington",2644,"74.60%","Alabama",1129
+"64","AL","Wilcox",1892,"76.85%","Alabama",1131
+"65","AL","Winston",1120,"78.77%","Alabama",1133
+"66","AR","Arkansas",2446,"75.31%","Arkansas",5001
+"67","AR","Ashley",2339,"75.75%","Arkansas",5003
+"68","AR","Baxter",1795,"77.06%","Arkansas",5005
+"69","AR","Benton",1851,"76.95%","Arkansas",5007
+"70","AR","Boone",1823,"77.00%","Arkansas",5009
+"71","AR","Bradley",2700,"74.37%","Arkansas",5011
+"72","AR","Calhoun",2627,"74.69%","Arkansas",5013
+"73","AR","Carroll",2085,"76.36%","Arkansas",5015
+"74","AR","Chicot",2609,"74.75%","Arkansas",5017
+"75","AR","Clark",2030,"76.48%","Arkansas",5019
+"76","AR","Clay",510,"80.76%","Arkansas",5021
+"77","AR","Cleburne",1861,"76.93%","Arkansas",5023
+"78","AR","Cleveland",2490,"75.17%","Arkansas",5025
+"79","AR","Columbia",2751,"74.12%","Arkansas",5027
+"80","AR","Conway",1671,"77.38%","Arkansas",5029
+"81","AR","Craighead",861,"79.54%","Arkansas",5031
+"82","AR","Crawford",1588,"77.56%","Arkansas",5033
+"83","AR","Crittenden",1067,"78.97%","Arkansas",5035
+"84","AR","Cross",1256,"78.45%","Arkansas",5037
+"85","AR","Dallas",2236,"76.01%","Arkansas",5039
+"86","AR","Desha",2440,"75.34%","Arkansas",5041
+"87","AR","Drew",2496,"75.14%","Arkansas",5043
+"88","AR","Faulkner",2140,"76.23%","Arkansas",5045
+"89","AR","Franklin",1327,"78.26%","Arkansas",5047
+"90","AR","Fulton",1680,"77.36%","Arkansas",5049
+"91","AR","Garland",2279,"75.93%","Arkansas",5051
+"92","AR","Grant",2123,"76.29%","Arkansas",5053
+"93","AR","Greene",555,"80.53%","Arkansas",5055
+"94","AR","Hempstead",2784,"73.91%","Arkansas",5057
+"95","AR","Hot Spring",2040,"76.46%","Arkansas",5059
+"96","AR","Howard",2960,"72.51%","Arkansas",5061
+"97","AR","Independence",2031,"76.48%","Arkansas",5063
+"98","AR","Izard",2198,"76.10%","Arkansas",5065
+"99","AR","Jackson",1808,"77.03%","Arkansas",5067
+"100","AR","Jefferson",1790,"77.08%","Arkansas",5069
+"101","AR","Johnson",845,"79.58%","Arkansas",5071
+"102","AR","Lafayette",2878,"73.25%","Arkansas",5073
+"103","AR","Lawrence",1306,"78.30%","Arkansas",5075
+"104","AR","Lee",1448,"77.91%","Arkansas",5077
+"105","AR","Lincoln",2103,"76.33%","Arkansas",5079
+"106","AR","Little River",3040,"71.19%","Arkansas",5081
+"107","AR","Logan",1230,"78.50%","Arkansas",5083
+"108","AR","Lonoke",2091,"76.35%","Arkansas",5085
+"109","AR","Madison",1724,"77.24%","Arkansas",5087
+"110","AR","Marion",1701,"77.29%","Arkansas",5089
+"111","AR","Miller",2996,"71.95%","Arkansas",5091
+"112","AR","Mississippi",993,"79.19%","Arkansas",5093
+"113","AR","Monroe",2298,"75.88%","Arkansas",5095
+"114","AR","Montgomery",2057,"76.44%","Arkansas",5097
+"115","AR","Nevada",2715,"74.30%","Arkansas",5099
+"116","AR","Newton",1614,"77.50%","Arkansas",5101
+"117","AR","Ouachita",2629,"74.69%","Arkansas",5103
+"118","AR","Perry",1621,"77.48%","Arkansas",5105
+"119","AR","Phillips",2289,"75.89%","Arkansas",5107
+"120","AR","Pike",2555,"74.95%","Arkansas",5109
+"121","AR","Poinsett",973,"79.25%","Arkansas",5111
+"122","AR","Polk",2114,"76.31%","Arkansas",5113
+"123","AR","Pope",1393,"78.07%","Arkansas",5115
+"124","AR","Prairie",2009,"76.53%","Arkansas",5117
+"125","AR","Pulaski",1656,"77.41%","Arkansas",5119
+"126","AR","Randolph",1492,"77.81%","Arkansas",5121
+"127","AR","Saline",2159,"76.18%","Arkansas",5125
+"128","AR","Scott",1685,"77.35%","Arkansas",5127
+"129","AR","Searcy",1579,"77.59%","Arkansas",5129
+"130","AR","Sebastian",1684,"77.35%","Arkansas",5131
+"131","AR","Sevier",3047,"71.08%","Arkansas",5133
+"132","AR","Sharp",1899,"76.82%","Arkansas",5135
+"133","AR","Stone",1517,"77.75%","Arkansas",5137
+"134","AR","Union",2718,"74.28%","Arkansas",5139
+"135","AR","Van Buren",1706,"77.28%","Arkansas",5141
+"136","AR","Washington",1523,"77.73%","Arkansas",5143
+"137","AR","White",2214,"76.07%","Arkansas",5145
+"138","AR","Woodruff",1839,"76.97%","Arkansas",5147
+"139","AR","Yell",1351,"78.19%","Arkansas",5149
+"140","AZ","Apache",1397,"78.06%","Arizona",4001
+"141","AZ","Cochise",807,"79.70%","Arizona",4003
+"142","AZ","Coconino",444,"81.01%","Arizona",4005
+"143","AZ","Gila",1219,"78.52%","Arizona",4007
+"144","AZ","Graham",656,"80.20%","Arizona",4009
+"145","AZ","Greenlee",898,"79.46%","Arizona",4011
+"146","AZ","La Paz",1886,"76.87%","Arizona",4012
+"147","AZ","Maricopa",545,"80.59%","Arizona",4013
+"148","AZ","Mohave",191,"82.43%","Arizona",4015
+"149","AZ","Navajo",1425,"77.99%","Arizona",4017
+"150","AZ","Pima",1016,"79.11%","Arizona",4019
+"151","AZ","Pinal",853,"79.56%","Arizona",4021
+"152","AZ","Santa Cruz",740,"79.93%","Arizona",4023
+"153","AZ","Yavapai",1554,"77.64%","Arizona",4025
+"154","AZ","Yuma",1373,"78.12%","Arizona",4027
+"155","CA","Alameda",1532,"77.71%","California",6001
+"156","CA","Alpine",671,"80.14%","California",6003
+"157","CA","Amador",34,"84.60%","California",6005
+"158","CA","Butte",289,"81.75%","California",6007
+"159","CA","Calaveras",84,"83.53%","California",6009
+"160","CA","Colusa",127,"83.02%","California",6011
+"161","CA","Contra Costa",2442,"75.33%","California",6013
+"162","CA","Del Norte",60,"83.94%","California",6015
+"163","CA","El Dorado",80,"83.60%","California",6017
+"164","CA","Fresno",1072,"78.93%","California",6019
+"165","CA","Glenn",55,"84.11%","California",6021
+"166","CA","Humboldt",5,"86.15%","California",6023
+"167","CA","Imperial",175,"82.55%","California",6025
+"168","CA","Inyo",1978,"76.61%","California",6027
+"169","CA","Kern",1859,"76.93%","California",6029
+"170","CA","Kings",619,"80.34%","California",6031
+"171","CA","Lake",141,"82.81%","California",6033
+"172","CA","Lassen",558,"80.52%","California",6035
+"173","CA","Los Angeles",981,"79.23%","California",6037
+"174","CA","Madera",1115,"78.81%","California",6039
+"175","CA","Marin",16,"85.41%","California",6041
+"176","CA","Mariposa",770,"79.84%","California",6043
+"177","CA","Mendocino",1,"88.96%","California",6045
+"178","CA","Merced",886,"79.48%","California",6047
+"179","CA","Modoc",910,"79.42%","California",6049
+"180","CA","Mono",2017,"76.52%","California",6051
+"181","CA","Monterey",9,"85.79%","California",6053
+"182","CA","Napa",207,"82.29%","California",6055
+"183","CA","Nevada",681,"80.11%","California",6057
+"184","CA","Orange",735,"79.96%","California",6059
+"185","CA","Placer",339,"81.51%","California",6061
+"186","CA","Plumas",2153,"76.20%","California",6063
+"187","CA","Riverside",187,"82.44%","California",6065
+"188","CA","Sacramento",633,"80.29%","California",6067
+"189","CA","San Benito",483,"80.85%","California",6069
+"190","CA","San Bernardino",1491,"77.81%","California",6071
+"191","CA","San Diego",103,"83.22%","California",6073
+"192","CA","San Francisco",2,"87.41%","California",6075
+"193","CA","San Joaquin",1488,"77.82%","California",6077
+"194","CA","San Luis Obispo",91,"83.41%","California",6079
+"195","CA","San Mateo",92,"83.41%","California",6081
+"196","CA","Santa Barbara",1412,"78.03%","California",6083
+"197","CA","Santa Clara",343,"81.51%","California",6085
+"198","CA","Santa Cruz",4,"86.24%","California",6087
+"199","CA","Shasta",778,"79.81%","California",6089
+"200","CA","Sierra",1185,"78.61%","California",6091
+"201","CA","Siskiyou",227,"82.15%","California",6093
+"202","CA","Solano",2548,"74.98%","California",6095
+"203","CA","Sonoma",49,"84.21%","California",6097
+"204","CA","Stanislaus",746,"79.91%","California",6099
+"205","CA","Sutter",340,"81.51%","California",6101
+"206","CA","Tehama",240,"82.08%","California",6103
+"207","CA","Trinity",663,"80.16%","California",6105
+"208","CA","Tulare",2196,"76.11%","California",6107
+"209","CA","Tuolumne",797,"79.75%","California",6109
+"210","CA","Ventura",349,"81.47%","California",6111
+"211","CA","Yolo",374,"81.35%","California",6113
+"212","CA","Yuba",404,"81.16%","California",6115
+"213","CO","Adams",313,"81.61%","Colorado",8001
+"214","CO","Alamosa",682,"80.11%","Colorado",8003
+"215","CO","Arapahoe",440,"81.03%","Colorado",8005
+"216","CO","Archuleta",955,"79.29%","Colorado",8007
+"217","CO","Baca",2934,"72.78%","Colorado",8009
+"218","CO","Bent",2857,"73.37%","Colorado",8011
+"219","CO","Boulder",411,"81.14%","Colorado",8013
+"220","CO","Chaffee",990,"79.20%","Colorado",8015
+"221","CO","Cheyenne",1406,"78.05%","Colorado",8017
+"222","CO","Clear Creek",640,"80.27%","Colorado",8019
+"223","CO","Conejos",831,"79.64%","Colorado",8021
+"224","CO","Costilla",646,"80.23%","Colorado",8023
+"225","CO","Crowley",2139,"76.23%","Colorado",8025
+"226","CO","Custer",895,"79.46%","Colorado",8027
+"227","CO","Delta",1838,"76.98%","Colorado",8029
+"228","CO","Denver",461,"80.94%","Colorado",8031
+"229","CO","Dolores",2134,"76.25%","Colorado",8033
+"230","CO","Douglas",515,"80.74%","Colorado",8035
+"231","CO","Eagle",1002,"79.16%","Colorado",8037
+"232","CO","El Paso",752,"79.88%","Colorado",8041
+"233","CO","Elbert",283,"81.78%","Colorado",8039
+"234","CO","Fremont",806,"79.71%","Colorado",8043
+"235","CO","Garfield",1910,"76.78%","Colorado",8045
+"236","CO","Gilpin",519,"80.72%","Colorado",8047
+"237","CO","Grand",570,"80.46%","Colorado",8049
+"238","CO","Gunnison",1340,"78.21%","Colorado",8051
+"239","CO","Hinsdale",1791,"77.07%","Colorado",8053
+"240","CO","Huerfano",1021,"79.10%","Colorado",8055
+"241","CO","Jackson",621,"80.34%","Colorado",8057
+"242","CO","Jefferson",414,"81.12%","Colorado",8059
+"243","CO","Kiowa",2704,"74.36%","Colorado",8061
+"244","CO","Kit Carson",353,"81.45%","Colorado",8063
+"245","CO","La Plata",1811,"77.02%","Colorado",8067
+"246","CO","Lake",1015,"79.11%","Colorado",8065
+"247","CO","Larimer",290,"81.73%","Colorado",8069
+"248","CO","Las Animas",2508,"75.10%","Colorado",8071
+"249","CO","Lincoln",888,"79.48%","Colorado",8073
+"250","CO","Logan",586,"80.41%","Colorado",8075
+"251","CO","Mesa",2232,"76.02%","Colorado",8077
+"252","CO","Mineral",1494,"77.80%","Colorado",8079
+"253","CO","Moffat",2531,"75.04%","Colorado",8081
+"254","CO","Montezuma",2237,"76.01%","Colorado",8083
+"255","CO","Montrose",2173,"76.16%","Colorado",8085
+"256","CO","Morgan",192,"82.43%","Colorado",8087
+"257","CO","Otero",2458,"75.28%","Colorado",8089
+"258","CO","Ouray",1856,"76.94%","Colorado",8091
+"259","CO","Park",966,"79.26%","Colorado",8093
+"260","CO","Phillips",179,"82.50%","Colorado",8095
+"261","CO","Pitkin",1182,"78.63%","Colorado",8097
+"262","CO","Prowers",2943,"72.67%","Colorado",8099
+"263","CO","Pueblo",1654,"77.41%","Colorado",8101
+"264","CO","Rio Blanco",2084,"76.37%","Colorado",8103
+"265","CO","Rio Grande",747,"79.91%","Colorado",8105
+"266","CO","Routt",881,"79.50%","Colorado",8107
+"267","CO","Saguache",1291,"78.37%","Colorado",8109
+"268","CO","San Juan",2152,"76.20%","Colorado",8111
+"269","CO","San Miguel",2418,"75.42%","Colorado",8113
+"270","CO","Sedgwick",583,"80.42%","Colorado",8115
+"271","CO","Summit",776,"79.83%","Colorado",8117
+"272","CO","Teller",825,"79.65%","Colorado",8119
+"273","CO","Washington",338,"81.52%","Colorado",8121
+"274","CO","Weld",533,"80.64%","Colorado",8123
+"275","CO","Yuma",131,"82.96%","Colorado",8125
+"276","CT","Fairfield",460,"80.95%","Connecticut",9001
+"277","CT","Hartford",911,"79.41%","Connecticut",9003
+"278","CT","Litchfield",1906,"76.78%","Connecticut",9005
+"279","CT","Middlesex",729,"79.97%","Connecticut",9007
+"280","CT","New Haven",451,"80.99%","Connecticut",9009
+"281","CT","New London",1144,"78.72%","Connecticut",9011
+"282","CT","Tolland",1190,"78.61%","Connecticut",9013
+"283","CT","Windham",1660,"77.40%","Connecticut",9015
+"284","DE","Kent",2933,"72.78%","Delaware",10001
+"285","DE","New Castle",3106,"68.37%","Delaware",10003
+"286","DE","Sussex",1317,"78.28%","Delaware",10005
+"287","FL","Alachua",2376,"75.62%","Florida",12001
+"288","FL","Baker",606,"80.38%","Florida",12003
+"289","FL","Bay",2234,"76.01%","Florida",12005
+"290","FL","Bradford",1891,"76.85%","Florida",12007
+"291","FL","Brevard",2680,"74.47%","Florida",12009
+"292","FL","Broward",1609,"77.51%","Florida",12011
+"293","FL","Calhoun",923,"79.38%","Florida",12013
+"294","FL","Charlotte",1551,"77.65%","Florida",12015
+"295","FL","Citrus",1353,"78.18%","Florida",12017
+"296","FL","Clay",1478,"77.84%","Florida",12019
+"297","FL","Collier",1272,"78.42%","Florida",12021
+"298","FL","Columbia",937,"79.33%","Florida",12023
+"299","FL","Dixie",3077,"70.08%","Florida",12029
+"300","FL","Duval",1559,"77.63%","Florida",12031
+"301","FL","Escambia",1302,"78.31%","Florida",12033
+"302","FL","Flagler",2543,"74.99%","Florida",12035
+"303","FL","Franklin",1894,"76.84%","Florida",12037
+"304","FL","Gadsden",2023,"76.51%","Florida",12039
+"305","FL","Gilchrist",2988,"72.13%","Florida",12041
+"306","FL","Glades",1989,"76.58%","Florida",12043
+"307","FL","Gulf",744,"79.92%","Florida",12045
+"308","FL","Hamilton",1109,"78.82%","Florida",12047
+"309","FL","Hardee",1785,"77.10%","Florida",12049
+"310","FL","Hendry",1973,"76.63%","Florida",12051
+"311","FL","Hernando",2148,"76.21%","Florida",12053
+"312","FL","Highlands",1268,"78.43%","Florida",12055
+"313","FL","Hillsborough",1486,"77.83%","Florida",12057
+"314","FL","Holmes",2685,"74.45%","Florida",12059
+"315","FL","Indian River",1052,"79.02%","Florida",12061
+"316","FL","Jackson",2119,"76.30%","Florida",12063
+"317","FL","Jefferson",2340,"75.74%","Florida",12065
+"318","FL","Lafayette",3068,"70.29%","Florida",12067
+"319","FL","Lake",2799,"73.74%","Florida",12069
+"320","FL","Lee",629,"80.31%","Florida",12071
+"321","FL","Leon",2211,"76.07%","Florida",12073
+"322","FL","Levy",1595,"77.54%","Florida",12075
+"323","FL","Liberty",1179,"78.64%","Florida",12077
+"324","FL","Madison",1862,"76.93%","Florida",12079
+"325","FL","Manatee",2400,"75.51%","Florida",12081
+"326","FL","Marion",1212,"78.53%","Florida",12083
+"327","FL","Martin",1647,"77.42%","Florida",12085
+"328","FL","Miami-Dade",284,"81.76%","Florida",12086
+"329","FL","Monroe",928,"79.36%","Florida",12087
+"330","FL","Nassau",480,"80.86%","Florida",12089
+"331","FL","Okaloosa",2650,"74.58%","Florida",12091
+"332","FL","Okeechobee",590,"80.41%","Florida",12093
+"333","FL","Orange",2493,"75.15%","Florida",12095
+"334","FL","Osceola",2277,"75.93%","Florida",12097
+"335","FL","Palm Beach",2783,"73.91%","Florida",12099
+"336","FL","Pasco",1937,"76.72%","Florida",12101
+"337","FL","Pinellas",1095,"78.86%","Florida",12103
+"338","FL","Polk",1699,"77.29%","Florida",12105
+"339","FL","Putnam",1865,"76.92%","Florida",12107
+"340","FL","Santa Rosa",1145,"78.72%","Florida",12113
+"341","FL","Sarasota",1429,"77.97%","Florida",12115
+"342","FL","Seminole",1580,"77.59%","Florida",12117
+"343","FL","Sumter",2591,"74.81%","Florida",12119
+"344","FL","Suwannee",2359,"75.69%","Florida",12121
+"345","FL","Taylor",2789,"73.85%","Florida",12123
+"346","FL","Union",1794,"77.06%","Florida",12125
+"347","FL","Volusia",1788,"77.08%","Florida",12127
+"348","FL","Wakulla",2785,"73.91%","Florida",12129
+"349","FL","Walton",2885,"73.19%","Florida",12131
+"350","FL","Washington",2485,"75.18%","Florida",12133
+"351","GA","Appling",369,"81.36%","Georgia",13001
+"352","GA","Atkinson",635,"80.29%","Georgia",13003
+"353","GA","Bacon",128,"83.00%","Georgia",13005
+"354","GA","Baker",2481,"75.19%","Georgia",13007
+"355","GA","Baldwin",2067,"76.42%","Georgia",13009
+"356","GA","Banks",2530,"75.04%","Georgia",13011
+"357","GA","Barrow",1984,"76.59%","Georgia",13013
+"358","GA","Bartow",2844,"73.46%","Georgia",13015
+"359","GA","Ben Hill",1410,"78.04%","Georgia",13017
+"360","GA","Berrien",1526,"77.72%","Georgia",13019
+"361","GA","Bibb",2275,"75.94%","Georgia",13021
+"362","GA","Bleckley",2455,"75.29%","Georgia",13023
+"363","GA","Brantley",57,"84.05%","Georgia",13025
+"364","GA","Brooks",2005,"76.54%","Georgia",13027
+"365","GA","Bryan",2209,"76.08%","Georgia",13029
+"366","GA","Bulloch",2817,"73.64%","Georgia",13031
+"367","GA","Burke",1441,"77.93%","Georgia",13033
+"368","GA","Butts",2653,"74.56%","Georgia",13035
+"369","GA","Calhoun",2707,"74.36%","Georgia",13037
+"370","GA","Camden",24,"85.07%","Georgia",13039
+"371","GA","Candler",2731,"74.23%","Georgia",13043
+"372","GA","Carroll",3025,"71.46%","Georgia",13045
+"373","GA","Catoosa",2593,"74.81%","Georgia",13047
+"374","GA","Charlton",361,"81.39%","Georgia",13049
+"375","GA","Chatham",2569,"74.90%","Georgia",13051
+"376","GA","Chattahoochee",2947,"72.63%","Georgia",13053
+"377","GA","Chattooga",2816,"73.64%","Georgia",13055
+"378","GA","Cherokee",2863,"73.32%","Georgia",13057
+"379","GA","Clarke",1976,"76.62%","Georgia",13059
+"380","GA","Clay",1728,"77.24%","Georgia",13061
+"381","GA","Clayton",1987,"76.59%","Georgia",13063
+"382","GA","Clinch",274,"81.85%","Georgia",13065
+"383","GA","Cobb",2541,"75.00%","Georgia",13067
+"384","GA","Coffee",484,"80.85%","Georgia",13069
+"385","GA","Colquitt",2090,"76.35%","Georgia",13071
+"386","GA","Columbia",1549,"77.65%","Georgia",13073
+"387","GA","Cook",1934,"76.72%","Georgia",13075
+"388","GA","Coweta",2881,"73.23%","Georgia",13077
+"389","GA","Crawford",2563,"74.92%","Georgia",13079
+"390","GA","Crisp",2807,"73.67%","Georgia",13081
+"391","GA","Dade",2452,"75.30%","Georgia",13083
+"392","GA","Dawson",2850,"73.41%","Georgia",13085
+"393","GA","Decatur",2550,"74.97%","Georgia",13087
+"394","GA","Dodge",2247,"75.98%","Georgia",13091
+"395","GA","Dooly",2901,"73.11%","Georgia",13093
+"396","GA","Dougherty",2594,"74.80%","Georgia",13095
+"397","GA","Douglas",2503,"75.11%","Georgia",13097
+"398","GA","Early",2008,"76.53%","Georgia",13099
+"399","GA","Echols",847,"79.58%","Georgia",13101
+"400","GA","Effingham",3035,"71.23%","Georgia",13103
+"401","GA","Elbert",2964,"72.44%","Georgia",13105
+"402","GA","Emanuel",2473,"75.21%","Georgia",13107
+"403","GA","Evans",2308,"75.86%","Georgia",13109
+"404","GA","Fannin",2961,"72.50%","Georgia",13111
+"405","GA","Fayette",2517,"75.07%","Georgia",13113
+"406","GA","Floyd",2757,"74.05%","Georgia",13115
+"407","GA","Forsyth",2450,"75.30%","Georgia",13117
+"408","GA","Franklin",2829,"73.57%","Georgia",13119
+"409","GA","Fulton",2175,"76.16%","Georgia",13121
+"410","GA","Gilmer",2997,"71.93%","Georgia",13123
+"411","GA","Glascock",2149,"76.21%","Georgia",13125
+"412","GA","Glynn",13,"85.55%","Georgia",13127
+"413","GA","Gordon",2641,"74.63%","Georgia",13129
+"414","GA","Grady",2422,"75.40%","Georgia",13131
+"415","GA","Greene",2414,"75.43%","Georgia",13133
+"416","GA","Gwinnett",1753,"77.19%","Georgia",13135
+"417","GA","Habersham",2049,"76.45%","Georgia",13137
+"418","GA","Hall",2312,"75.85%","Georgia",13139
+"419","GA","Hancock",2282,"75.92%","Georgia",13141
+"420","GA","Haralson",2684,"74.46%","Georgia",13143
+"421","GA","Harris",3031,"71.30%","Georgia",13145
+"422","GA","Hart",3002,"71.87%","Georgia",13147
+"423","GA","Heard",3006,"71.84%","Georgia",13149
+"424","GA","Henry",2283,"75.92%","Georgia",13151
+"425","GA","Houston",2882,"73.22%","Georgia",13153
+"426","GA","Irwin",1687,"77.34%","Georgia",13155
+"427","GA","Jackson",2006,"76.54%","Georgia",13157
+"428","GA","Jasper",2743,"74.16%","Georgia",13159
+"429","GA","Jeff Davis",772,"79.84%","Georgia",13161
+"430","GA","Jefferson",972,"79.25%","Georgia",13163
+"431","GA","Jenkins",2571,"74.90%","Georgia",13165
+"432","GA","Johnson",1398,"78.06%","Georgia",13167
+"433","GA","Jones",2403,"75.50%","Georgia",13169
+"434","GA","Lamar",2655,"74.56%","Georgia",13171
+"435","GA","Lanier",788,"79.78%","Georgia",13173
+"436","GA","Laurens",2556,"74.95%","Georgia",13175
+"437","GA","Lee",2985,"72.16%","Georgia",13177
+"438","GA","Liberty",1594,"77.54%","Georgia",13179
+"439","GA","Lincoln",2386,"75.56%","Georgia",13181
+"440","GA","Long",786,"79.79%","Georgia",13183
+"441","GA","Lowndes",1238,"78.49%","Georgia",13185
+"442","GA","Lumpkin",2900,"73.12%","Georgia",13187
+"443","GA","Macon",2983,"72.16%","Georgia",13193
+"444","GA","Madison",2687,"74.44%","Georgia",13195
+"445","GA","Marion",3049,"71.05%","Georgia",13197
+"446","GA","Meriwether",3034,"71.24%","Georgia",13199
+"447","GA","Miller",2848,"73.43%","Georgia",13201
+"448","GA","Mitchell",2375,"75.62%","Georgia",13205
+"449","GA","Monroe",2611,"74.74%","Georgia",13207
+"450","GA","Montgomery",1964,"76.65%","Georgia",13209
+"451","GA","Morgan",2470,"75.22%","Georgia",13211
+"452","GA","Murray",2701,"74.37%","Georgia",13213
+"453","GA","Muscogee",2939,"72.72%","Georgia",13215
+"454","GA","Newton",2325,"75.81%","Georgia",13217
+"455","GA","Oconee",2098,"76.34%","Georgia",13219
+"456","GA","Oglethorpe",2319,"75.84%","Georgia",13221
+"457","GA","Paulding",2311,"75.85%","Georgia",13223
+"458","GA","Peach",2815,"73.65%","Georgia",13225
+"459","GA","Pickens",2941,"72.69%","Georgia",13227
+"460","GA","Pierce",41,"84.43%","Georgia",13229
+"461","GA","Pike",2761,"74.03%","Georgia",13231
+"462","GA","Polk",2737,"74.18%","Georgia",13233
+"463","GA","Pulaski",2651,"74.57%","Georgia",13235
+"464","GA","Putnam",2730,"74.25%","Georgia",13237
+"465","GA","Quitman",1686,"77.34%","Georgia",13239
+"466","GA","Rabun",2456,"75.29%","Georgia",13241
+"467","GA","Randolph",2488,"75.17%","Georgia",13243
+"468","GA","Richmond",982,"79.23%","Georgia",13245
+"469","GA","Rockdale",1756,"77.18%","Georgia",13247
+"470","GA","Schley",3032,"71.25%","Georgia",13249
+"471","GA","Screven",2932,"72.78%","Georgia",13251
+"472","GA","Seminole",2475,"75.20%","Georgia",13253
+"473","GA","Spalding",2409,"75.45%","Georgia",13255
+"474","GA","Stephens",2899,"73.12%","Georgia",13257
+"475","GA","Stewart",2906,"73.08%","Georgia",13259
+"476","GA","Sumter",3029,"71.35%","Georgia",13261
+"477","GA","Talbot",3001,"71.89%","Georgia",13263
+"478","GA","Taliaferro",2444,"75.32%","Georgia",13265
+"479","GA","Tattnall",1530,"77.72%","Georgia",13267
+"480","GA","Taylor",2931,"72.78%","Georgia",13269
+"481","GA","Telfair",1332,"78.25%","Georgia",13271
+"482","GA","Terrell",2973,"72.38%","Georgia",13273
+"483","GA","Thomas",2652,"74.57%","Georgia",13275
+"484","GA","Tift",1941,"76.70%","Georgia",13277
+"485","GA","Toombs",1923,"76.74%","Georgia",13279
+"486","GA","Towns",2624,"74.70%","Georgia",13281
+"487","GA","Treutlen",2552,"74.96%","Georgia",13283
+"488","GA","Troup",2994,"71.97%","Georgia",13285
+"489","GA","Turner",2081,"76.37%","Georgia",13287
+"490","GA","Twiggs",2351,"75.72%","Georgia",13289
+"491","GA","Union",2917,"72.98%","Georgia",13291
+"492","GA","Upson",2796,"73.76%","Georgia",13293
+"493","GA","Walker",2647,"74.59%","Georgia",13295
+"494","GA","Walton",2118,"76.30%","Georgia",13297
+"495","GA","Ware",198,"82.38%","Georgia",13299
+"496","GA","Warren",2365,"75.66%","Georgia",13301
+"497","GA","Washington",1189,"78.61%","Georgia",13303
+"498","GA","Wayne",40,"84.43%","Georgia",13305
+"499","GA","Webster",3042,"71.14%","Georgia",13307
+"500","GA","Wheeler",2143,"76.22%","Georgia",13309
+"501","GA","White",2572,"74.89%","Georgia",13311
+"502","GA","Whitfield",2566,"74.92%","Georgia",13313
+"503","GA","Wilcox",2206,"76.08%","Georgia",13315
+"504","GA","Wilkes",2489,"75.17%","Georgia",13317
+"505","GA","Wilkinson",1514,"77.75%","Georgia",13319
+"506","GA","Worth",2321,"75.83%","Georgia",13321
+"507","HI","Hawaii",2576,"74.88%","Hawaii",15001
+"508","HI","Honolulu",2803,"73.72%","Hawaii",15003
+"509","HI","Kauai",2076,"76.39%","Hawaii",15007
+"510","HI","Maui",2771,"73.96%","Hawaii",15009
+"511","IA","Adair",839,"79.61%","Iowa",19001
+"512","IA","Adams",321,"81.58%","Iowa",19003
+"513","IA","Allamakee",473,"80.88%","Iowa",19005
+"514","IA","Appanoose",1241,"78.48%","Iowa",19007
+"515","IA","Audubon",230,"82.14%","Iowa",19009
+"516","IA","Benton",101,"83.23%","Iowa",19011
+"517","IA","Black Hawk",68,"83.73%","Iowa",19013
+"518","IA","Boone",212,"82.26%","Iowa",19015
+"519","IA","Bremer",44,"84.33%","Iowa",19017
+"520","IA","Buchanan",83,"83.53%","Iowa",19019
+"521","IA","Buena Vista",259,"81.94%","Iowa",19021
+"522","IA","Butler",150,"82.73%","Iowa",19023
+"523","IA","Calhoun",392,"81.23%","Iowa",19025
+"524","IA","Carroll",531,"80.65%","Iowa",19027
+"525","IA","Cass",294,"81.70%","Iowa",19029
+"526","IA","Cedar",25,"85.04%","Iowa",19031
+"527","IA","Cerro Gordo",89,"83.43%","Iowa",19033
+"528","IA","Cherokee",314,"81.61%","Iowa",19035
+"529","IA","Chickasaw",96,"83.31%","Iowa",19037
+"530","IA","Clarke",1043,"79.04%","Iowa",19039
+"531","IA","Clay",224,"82.17%","Iowa",19041
+"532","IA","Clayton",176,"82.54%","Iowa",19043
+"533","IA","Clinton",231,"82.13%","Iowa",19045
+"534","IA","Crawford",513,"80.75%","Iowa",19047
+"535","IA","Dallas",645,"80.24%","Iowa",19049
+"536","IA","Davis",509,"80.77%","Iowa",19051
+"537","IA","Decatur",1127,"78.75%","Iowa",19053
+"538","IA","Delaware",79,"83.61%","Iowa",19055
+"539","IA","Des Moines",107,"83.19%","Iowa",19057
+"540","IA","Dickinson",302,"81.67%","Iowa",19059
+"541","IA","Dubuque",66,"83.75%","Iowa",19061
+"542","IA","Emmet",88,"83.45%","Iowa",19063
+"543","IA","Fayette",52,"84.20%","Iowa",19065
+"544","IA","Floyd",136,"82.84%","Iowa",19067
+"545","IA","Franklin",139,"82.82%","Iowa",19069
+"546","IA","Fremont",298,"81.68%","Iowa",19071
+"547","IA","Greene",312,"81.62%","Iowa",19073
+"548","IA","Grundy",246,"82.06%","Iowa",19075
+"549","IA","Guthrie",743,"79.92%","Iowa",19077
+"550","IA","Hamilton",167,"82.59%","Iowa",19079
+"551","IA","Hancock",87,"83.46%","Iowa",19081
+"552","IA","Hardin",252,"81.99%","Iowa",19083
+"553","IA","Harrison",395,"81.21%","Iowa",19085
+"554","IA","Henry",63,"83.81%","Iowa",19087
+"555","IA","Howard",370,"81.36%","Iowa",19089
+"556","IA","Humboldt",160,"82.61%","Iowa",19091
+"557","IA","Ida",385,"81.28%","Iowa",19093
+"558","IA","Iowa",17,"85.34%","Iowa",19095
+"559","IA","Jackson",228,"82.14%","Iowa",19097
+"560","IA","Jasper",696,"80.06%","Iowa",19099
+"561","IA","Jefferson",133,"82.89%","Iowa",19101
+"562","IA","Johnson",6,"86.12%","Iowa",19103
+"563","IA","Jones",42,"84.40%","Iowa",19105
+"564","IA","Keokuk",61,"83.90%","Iowa",19107
+"565","IA","Kossuth",93,"83.37%","Iowa",19109
+"566","IA","Lee",432,"81.05%","Iowa",19111
+"567","IA","Linn",28,"84.88%","Iowa",19113
+"568","IA","Louisa",23,"85.12%","Iowa",19115
+"569","IA","Lucas",829,"79.65%","Iowa",19117
+"570","IA","Lyon",492,"80.82%","Iowa",19119
+"571","IA","Madison",1031,"79.08%","Iowa",19121
+"572","IA","Mahaska",316,"81.60%","Iowa",19123
+"573","IA","Marion",805,"79.71%","Iowa",19125
+"574","IA","Marshall",303,"81.66%","Iowa",19127
+"575","IA","Mills",423,"81.09%","Iowa",19129
+"576","IA","Mitchell",181,"82.47%","Iowa",19131
+"577","IA","Monona",611,"80.36%","Iowa",19133
+"578","IA","Monroe",997,"79.17%","Iowa",19135
+"579","IA","Montgomery",154,"82.70%","Iowa",19137
+"580","IA","Muscatine",21,"85.18%","Iowa",19139
+"581","IA","Osceola",213,"82.25%","Iowa",19143
+"582","IA","Page",257,"81.96%","Iowa",19145
+"583","IA","Palo Alto",119,"83.11%","Iowa",19147
+"584","IA","Plymouth",382,"81.30%","Iowa",19149
+"585","IA","Pocahontas",157,"82.65%","Iowa",19151
+"586","IA","Polk",652,"80.22%","Iowa",19153
+"587","IA","Pottawattamie",468,"80.92%","Iowa",19155
+"588","IA","Poweshiek",153,"82.70%","Iowa",19157
+"589","IA","Ringgold",720,"79.99%","Iowa",19159
+"590","IA","Sac",428,"81.06%","Iowa",19161
+"591","IA","Scott",165,"82.60%","Iowa",19163
+"592","IA","Shelby",366,"81.38%","Iowa",19165
+"593","IA","Sioux",336,"81.52%","Iowa",19167
+"594","IA","Story",208,"82.28%","Iowa",19169
+"595","IA","Tama",169,"82.56%","Iowa",19171
+"596","IA","Taylor",407,"81.15%","Iowa",19173
+"597","IA","Union",859,"79.55%","Iowa",19175
+"598","IA","Van Buren",305,"81.65%","Iowa",19177
+"599","IA","Wapello",245,"82.06%","Iowa",19179
+"600","IA","Warren",817,"79.68%","Iowa",19181
+"601","IA","Washington",19,"85.26%","Iowa",19183
+"602","IA","Wayne",1246,"78.47%","Iowa",19185
+"603","IA","Webster",267,"81.91%","Iowa",19187
+"604","IA","Winnebago",155,"82.66%","Iowa",19189
+"605","IA","Winneshiek",217,"82.22%","Iowa",19191
+"606","IA","Woodbury",424,"81.09%","Iowa",19193
+"607","IA","Worth",254,"81.97%","Iowa",19195
+"608","IA","Wright",229,"82.14%","Iowa",19197
+"609","ID","Ada",1211,"78.53%","Idaho",16001
+"610","ID","Adams",162,"82.60%","Idaho",16003
+"611","ID","Bannock",2435,"75.36%","Idaho",16005
+"612","ID","Bear Lake",2642,"74.61%","Idaho",16007
+"613","ID","Benewah",239,"82.10%","Idaho",16009
+"614","ID","Bingham",2039,"76.46%","Idaho",16011
+"615","ID","Blaine",679,"80.11%","Idaho",16013
+"616","ID","Boise",1435,"77.95%","Idaho",16015
+"617","ID","Bonner",840,"79.61%","Idaho",16017
+"618","ID","Bonneville",2361,"75.68%","Idaho",16019
+"619","ID","Boundary",441,"81.02%","Idaho",16021
+"620","ID","Butte",924,"79.38%","Idaho",16023
+"621","ID","Camas",388,"81.26%","Idaho",16025
+"622","ID","Canyon",1358,"78.16%","Idaho",16027
+"623","ID","Caribou",2501,"75.12%","Idaho",16029
+"624","ID","Cassia",1570,"77.61%","Idaho",16031
+"625","ID","Clark",637,"80.29%","Idaho",16033
+"626","ID","Clearwater",8,"86.02%","Idaho",16035
+"627","ID","Custer",642,"80.27%","Idaho",16037
+"628","ID","Elmore",707,"80.02%","Idaho",16039
+"629","ID","Franklin",2839,"73.51%","Idaho",16041
+"630","ID","Fremont",636,"80.29%","Idaho",16043
+"631","ID","Gem",1334,"78.23%","Idaho",16045
+"632","ID","Gooding",285,"81.76%","Idaho",16047
+"633","ID","Idaho",10,"85.78%","Idaho",16049
+"634","ID","Jefferson",1157,"78.69%","Idaho",16051
+"635","ID","Jerome",537,"80.62%","Idaho",16053
+"636","ID","Kootenai",904,"79.43%","Idaho",16055
+"637","ID","Latah",85,"83.49%","Idaho",16057
+"638","ID","Lemhi",292,"81.72%","Idaho",16059
+"639","ID","Lewis",11,"85.77%","Idaho",16061
+"640","ID","Lincoln",410,"81.14%","Idaho",16063
+"641","ID","Madison",1893,"76.85%","Idaho",16065
+"642","ID","Minidoka",1188,"78.61%","Idaho",16067
+"643","ID","Nez Perce",35,"84.58%","Idaho",16069
+"644","ID","Oneida",2854,"73.38%","Idaho",16071
+"645","ID","Owyhee",297,"81.69%","Idaho",16073
+"646","ID","Payette",1308,"78.30%","Idaho",16075
+"647","ID","Power",2383,"75.57%","Idaho",16077
+"648","ID","Shoshone",174,"82.55%","Idaho",16079
+"649","ID","Teton",1737,"77.22%","Idaho",16081
+"650","ID","Twin Falls",149,"82.74%","Idaho",16083
+"651","ID","Valley",200,"82.33%","Idaho",16085
+"652","ID","Washington",477,"80.87%","Idaho",16087
+"653","IL","Adams",779,"79.81%","Illinois",17001
+"654","IL","Alexander",1296,"78.33%","Illinois",17003
+"655","IL","Bond",457,"80.97%","Illinois",17005
+"656","IL","Boone",2614,"74.73%","Illinois",17007
+"657","IL","Brown",624,"80.32%","Illinois",17009
+"658","IL","Bureau",1469,"77.86%","Illinois",17011
+"659","IL","Calhoun",253,"81.99%","Illinois",17013
+"660","IL","Carroll",878,"79.51%","Illinois",17015
+"661","IL","Cass",542,"80.59%","Illinois",17017
+"662","IL","Champaign",1050,"79.02%","Illinois",17019
+"663","IL","Christian",596,"80.40%","Illinois",17021
+"664","IL","Clark",653,"80.22%","Illinois",17023
+"665","IL","Clay",1110,"78.82%","Illinois",17025
+"666","IL","Clinton",893,"79.46%","Illinois",17027
+"667","IL","Coles",275,"81.83%","Illinois",17029
+"668","IL","Cook",2980,"72.19%","Illinois",17031
+"669","IL","Crawford",753,"79.88%","Illinois",17033
+"670","IL","Cumberland",488,"80.84%","Illinois",17035
+"671","IL","Douglas",448,"81.00%","Illinois",17041
+"672","IL","Edgar",822,"79.66%","Illinois",17045
+"673","IL","Edwards",2112,"76.31%","Illinois",17047
+"674","IL","Effingham",530,"80.66%","Illinois",17049
+"675","IL","Fayette",467,"80.92%","Illinois",17051
+"676","IL","Ford",2589,"74.82%","Illinois",17053
+"677","IL","Franklin",2317,"75.84%","Illinois",17055
+"678","IL","Fulton",677,"80.13%","Illinois",17057
+"679","IL","Gallatin",2632,"74.67%","Illinois",17059
+"680","IL","Greene",364,"81.38%","Illinois",17061
+"681","IL","Grundy",3048,"71.06%","Illinois",17063
+"682","IL","Hamilton",2142,"76.23%","Illinois",17065
+"683","IL","Hancock",879,"79.50%","Illinois",17067
+"684","IL","Hardin",2037,"76.47%","Illinois",17069
+"685","IL","Henderson",354,"81.43%","Illinois",17071
+"686","IL","Henry",578,"80.44%","Illinois",17073
+"687","IL","Iroquois",2597,"74.79%","Illinois",17075
+"688","IL","Jackson",1616,"77.49%","Illinois",17077
+"689","IL","Jasper",577,"80.44%","Illinois",17079
+"690","IL","Jefferson",1700,"77.29%","Illinois",17081
+"691","IL","Jersey",138,"82.82%","Illinois",17083
+"692","IL","Jo Daviess",346,"81.49%","Illinois",17085
+"693","IL","Johnson",2207,"76.08%","Illinois",17087
+"694","IL","Kane",2987,"72.14%","Illinois",17089
+"695","IL","Kankakee",2910,"73.06%","Illinois",17091
+"696","IL","Kendall",3063,"70.44%","Illinois",17093
+"697","IL","Knox",949,"79.30%","Illinois",17095
+"698","IL","Lake",3024,"71.50%","Illinois",17097
+"699","IL","Lawrence",1279,"78.40%","Illinois",17101
+"700","IL","Lee",2111,"76.31%","Illinois",17103
+"701","IL","Livingston",2147,"76.22%","Illinois",17105
+"702","IL","Logan",818,"79.67%","Illinois",17107
+"703","IL","Macon",673,"80.14%","Illinois",17115
+"704","IL","Macoupin",383,"81.29%","Illinois",17117
+"705","IL","Madison",628,"80.31%","Illinois",17119
+"706","IL","Marion",1223,"78.51%","Illinois",17121
+"707","IL","Marshall",1874,"76.89%","Illinois",17123
+"708","IL","Mason",669,"80.14%","Illinois",17125
+"709","IL","Massac",1991,"76.58%","Illinois",17127
+"710","IL","Menard",571,"80.46%","Illinois",17129
+"711","IL","Mercer",143,"82.79%","Illinois",17131
+"712","IL","Monroe",908,"79.43%","Illinois",17133
+"713","IL","Montgomery",925,"79.38%","Illinois",17135
+"714","IL","Morgan",668,"80.14%","Illinois",17137
+"715","IL","Moultrie",443,"81.01%","Illinois",17139
+"716","IL","Ogle",2132,"76.25%","Illinois",17141
+"717","IL","Peoria",1113,"78.81%","Illinois",17143
+"718","IL","Perry",2296,"75.88%","Illinois",17145
+"719","IL","Piatt",591,"80.41%","Illinois",17147
+"720","IL","Pike",497,"80.81%","Illinois",17149
+"721","IL","Pope",2121,"76.29%","Illinois",17151
+"722","IL","Pulaski",1784,"77.10%","Illinois",17153
+"723","IL","Putnam",1982,"76.60%","Illinois",17155
+"724","IL","Randolph",1764,"77.15%","Illinois",17157
+"725","IL","Richland",1426,"77.99%","Illinois",17159
+"726","IL","Rock Island",177,"82.54%","Illinois",17161
+"727","IL","Saline",2562,"74.93%","Illinois",17165
+"728","IL","Sangamon",445,"81.00%","Illinois",17167
+"729","IL","Schuyler",489,"80.82%","Illinois",17169
+"730","IL","Scott",820,"79.67%","Illinois",17171
+"731","IL","Shelby",538,"80.61%","Illinois",17173
+"732","IL","Stark",1210,"78.55%","Illinois",17175
+"733","IL","Stephenson",1549,"77.65%","Illinois",17177
+"734","IL","Tazewell",799,"79.74%","Illinois",17179
+"735","IL","Union",1542,"77.67%","Illinois",17181
+"736","IL","Vermilion",2505,"75.11%","Illinois",17183
+"737","IL","Wabash",1508,"77.76%","Illinois",17185
+"738","IL","Warren",421,"81.10%","Illinois",17187
+"739","IL","Washington",1691,"77.31%","Illinois",17189
+"740","IL","Wayne",1828,"77.00%","Illinois",17191
+"741","IL","White",2395,"75.52%","Illinois",17193
+"742","IL","Whiteside",965,"79.26%","Illinois",17195
+"743","IL","Will",3064,"70.43%","Illinois",17197
+"744","IL","Williamson",2366,"75.66%","Illinois",17199
+"745","IL","Winnebago",2487,"75.17%","Illinois",17201
+"746","IL","Woodford",1512,"77.76%","Illinois",17203
+"747","IN","Adams",1857,"76.94%","Indiana",18001
+"748","IN","Allen",768,"79.84%","Indiana",18003
+"749","IN","Bartholomew",1761,"77.16%","Indiana",18005
+"750","IN","Benton",2777,"73.94%","Indiana",18007
+"751","IN","Blackford",2160,"76.18%","Indiana",18009
+"752","IN","Boone",2595,"74.80%","Indiana",18011
+"753","IN","Brown",1236,"78.49%","Indiana",18013
+"754","IN","Carroll",2948,"72.62%","Indiana",18015
+"755","IN","Cass",3004,"71.86%","Indiana",18017
+"756","IN","Clark",1183,"78.62%","Indiana",18019
+"757","IN","Clay",815,"79.69%","Indiana",18021
+"758","IN","Clinton",2725,"74.26%","Indiana",18023
+"759","IN","Crawford",851,"79.56%","Indiana",18025
+"760","IN","Daviess",896,"79.46%","Indiana",18027
+"761","IN","Dearborn",2172,"76.16%","Indiana",18029
+"762","IN","Decatur",2227,"76.03%","Indiana",18031
+"763","IN","Delaware",2042,"76.46%","Indiana",18035
+"764","IN","Dubois",1098,"78.85%","Indiana",18037
+"765","IN","Elkhart",3028,"71.42%","Indiana",18039
+"766","IN","Fayette",2093,"76.35%","Indiana",18041
+"767","IN","Floyd",1424,"77.99%","Indiana",18043
+"768","IN","Fountain",2350,"75.72%","Indiana",18045
+"769","IN","Franklin",2547,"74.98%","Indiana",18047
+"770","IN","Fulton",3102,"68.71%","Indiana",18049
+"771","IN","Gibson",1504,"77.77%","Indiana",18051
+"772","IN","Grant",2681,"74.47%","Indiana",18053
+"773","IN","Greene",1175,"78.65%","Indiana",18055
+"774","IN","Hamilton",2379,"75.60%","Indiana",18057
+"775","IN","Hancock",2200,"76.10%","Indiana",18059
+"776","IN","Harrison",1267,"78.43%","Indiana",18061
+"777","IN","Hendricks",2255,"75.97%","Indiana",18063
+"778","IN","Henry",1985,"76.59%","Indiana",18065
+"779","IN","Howard",2719,"74.28%","Indiana",18067
+"780","IN","Huntington",2245,"75.99%","Indiana",18069
+"781","IN","Jackson",1149,"78.71%","Indiana",18071
+"782","IN","Jasper",3079,"70.06%","Indiana",18073
+"783","IN","Jay",2199,"76.10%","Indiana",18075
+"784","IN","Jefferson",1619,"77.49%","Indiana",18077
+"785","IN","Jennings",1743,"77.21%","Indiana",18079
+"786","IN","Johnson",1897,"76.83%","Indiana",18081
+"787","IN","Knox",1197,"78.57%","Indiana",18083
+"788","IN","Kosciusko",3056,"70.74%","Indiana",18085
+"789","IN","Lake",3115,"67.99%","Indiana",18089
+"790","IN","Lawrence",1000,"79.16%","Indiana",18093
+"791","IN","Madison",2278,"75.93%","Indiana",18095
+"792","IN","Marion",2323,"75.82%","Indiana",18097
+"793","IN","Marshall",3118,"67.55%","Indiana",18099
+"794","IN","Martin",961,"79.27%","Indiana",18101
+"795","IN","Miami",2865,"73.29%","Indiana",18103
+"796","IN","Monroe",1225,"78.51%","Indiana",18105
+"797","IN","Montgomery",2587,"74.84%","Indiana",18107
+"798","IN","Morgan",1462,"77.89%","Indiana",18109
+"799","IN","Newton",2995,"71.95%","Indiana",18111
+"800","IN","Noble",1085,"78.89%","Indiana",18113
+"801","IN","Ohio",1875,"76.88%","Indiana",18115
+"802","IN","Orange",813,"79.69%","Indiana",18117
+"803","IN","Owen",631,"80.30%","Indiana",18119
+"804","IN","Parke",1239,"78.49%","Indiana",18121
+"805","IN","Perry",1074,"78.93%","Indiana",18123
+"806","IN","Pike",1126,"78.75%","Indiana",18125
+"807","IN","Porter",3135,"63.65%","Indiana",18127
+"808","IN","Posey",1688,"77.34%","Indiana",18129
+"809","IN","Pulaski",3112,"68.24%","Indiana",18131
+"810","IN","Putnam",1247,"78.47%","Indiana",18133
+"811","IN","Randolph",1314,"78.29%","Indiana",18135
+"812","IN","Ripley",2315,"75.84%","Indiana",18137
+"813","IN","Rush",2220,"76.05%","Indiana",18139
+"814","IN","Scott",1068,"78.94%","Indiana",18143
+"815","IN","Shelby",2070,"76.40%","Indiana",18145
+"816","IN","Spencer",1288,"78.37%","Indiana",18147
+"817","IN","Starke",3123,"66.77%","Indiana",18149
+"818","IN","Steuben",362,"81.38%","Indiana",18151
+"819","IN","Sullivan",766,"79.85%","Indiana",18153
+"820","IN","Switzerland",1610,"77.51%","Indiana",18155
+"821","IN","Tippecanoe",2945,"72.65%","Indiana",18157
+"822","IN","Tipton",2507,"75.10%","Indiana",18159
+"823","IN","Union",2238,"76.01%","Indiana",18161
+"824","IN","Vanderburgh",1776,"77.12%","Indiana",18163
+"825","IN","Vermillion",1376,"78.12%","Indiana",18165
+"826","IN","Vigo",785,"79.79%","Indiana",18167
+"827","IN","Wabash",2970,"72.39%","Indiana",18169
+"828","IN","Warren",2514,"75.08%","Indiana",18171
+"829","IN","Warrick",1328,"78.26%","Indiana",18173
+"830","IN","Washington",922,"79.38%","Indiana",18175
+"831","IN","Wayne",1830,"76.99%","Indiana",18177
+"832","IN","Wells",1930,"76.73%","Indiana",18179
+"833","IN","White",3057,"70.73%","Indiana",18181
+"834","IN","Whitley",2221,"76.05%","Indiana",18183
+"835","KS","Allen",1479,"77.84%","Kansas",20001
+"836","KS","Anderson",1028,"79.09%","Kansas",20003
+"837","KS","Atchison",547,"80.57%","Kansas",20005
+"838","KS","Barber",617,"80.35%","Kansas",20007
+"839","KS","Barton",999,"79.16%","Kansas",20009
+"840","KS","Bourbon",2164,"76.18%","Kansas",20011
+"841","KS","Brown",816,"79.68%","Kansas",20013
+"842","KS","Butler",724,"79.98%","Kansas",20015
+"843","KS","Chase",846,"79.58%","Kansas",20017
+"844","KS","Chautauqua",1287,"78.37%","Kansas",20019
+"845","KS","Cherokee",2334,"75.77%","Kansas",20021
+"846","KS","Cheyenne",130,"82.98%","Kansas",20023
+"847","KS","Clark",1049,"79.03%","Kansas",20025
+"848","KS","Clay",800,"79.74%","Kansas",20027
+"849","KS","Cloud",1161,"78.69%","Kansas",20029
+"850","KS","Coffey",951,"79.30%","Kansas",20031
+"851","KS","Comanche",625,"80.31%","Kansas",20033
+"852","KS","Cowley",905,"79.43%","Kansas",20035
+"853","KS","Crawford",1993,"76.58%","Kansas",20037
+"854","KS","Decatur",1384,"78.09%","Kansas",20039
+"855","KS","Dickinson",1374,"78.12%","Kansas",20041
+"856","KS","Doniphan",764,"79.86%","Kansas",20043
+"857","KS","Douglas",166,"82.59%","Kansas",20045
+"858","KS","Edwards",941,"79.32%","Kansas",20047
+"859","KS","Elk",998,"79.16%","Kansas",20049
+"860","KS","Ellis",676,"80.13%","Kansas",20051
+"861","KS","Ellsworth",1105,"78.84%","Kansas",20053
+"862","KS","Finney",1921,"76.75%","Kansas",20055
+"863","KS","Ford",790,"79.77%","Kansas",20057
+"864","KS","Franklin",172,"82.56%","Kansas",20059
+"865","KS","Geary",1520,"77.74%","Kansas",20061
+"866","KS","Gove",838,"79.61%","Kansas",20063
+"867","KS","Graham",1209,"78.55%","Kansas",20065
+"868","KS","Grant",2737,"74.18%","Kansas",20067
+"869","KS","Gray",1568,"77.61%","Kansas",20069
+"870","KS","Greeley",1490,"77.81%","Kansas",20071
+"871","KS","Greenwood",769,"79.84%","Kansas",20073
+"872","KS","Hamilton",2908,"73.07%","Kansas",20075
+"873","KS","Harper",526,"80.67%","Kansas",20077
+"874","KS","Harvey",1012,"79.13%","Kansas",20079
+"875","KS","Haskell",2040,"76.46%","Kansas",20081
+"876","KS","Hodgeman",1037,"79.06%","Kansas",20083
+"877","KS","Jackson",465,"80.93%","Kansas",20085
+"878","KS","Jefferson",248,"82.05%","Kansas",20087
+"879","KS","Jewell",1611,"77.51%","Kansas",20089
+"880","KS","Johnson",321,"81.58%","Kansas",20091
+"881","KS","Kearny",2753,"74.10%","Kansas",20093
+"882","KS","Kingman",751,"79.89%","Kansas",20095
+"883","KS","Kiowa",930,"79.35%","Kansas",20097
+"884","KS","Labette",2368,"75.65%","Kansas",20099
+"885","KS","Lane",1474,"77.85%","Kansas",20101
+"886","KS","Leavenworth",397,"81.21%","Kansas",20103
+"887","KS","Lincoln",1006,"79.14%","Kansas",20105
+"888","KS","Linn",1493,"77.80%","Kansas",20107
+"889","KS","Logan",561,"80.51%","Kansas",20109
+"890","KS","Lyon",576,"80.45%","Kansas",20111
+"891","KS","Marion",979,"79.24%","Kansas",20115
+"892","KS","Marshall",585,"80.41%","Kansas",20117
+"893","KS","Meade",1330,"78.25%","Kansas",20119
+"894","KS","Miami",1017,"79.11%","Kansas",20121
+"895","KS","Mitchell",1746,"77.21%","Kansas",20123
+"896","KS","Montgomery",2036,"76.47%","Kansas",20125
+"897","KS","Morris",1213,"78.53%","Kansas",20127
+"898","KS","Morton",3000,"71.90%","Kansas",20129
+"899","KS","Nemaha",639,"80.28%","Kansas",20131
+"900","KS","Neosho",1646,"77.42%","Kansas",20133
+"901","KS","Ness",964,"79.26%","Kansas",20135
+"902","KS","Norton",1833,"76.98%","Kansas",20137
+"903","KS","Osage",375,"81.34%","Kansas",20139
+"904","KS","Osborne",1139,"78.73%","Kansas",20141
+"905","KS","Ottawa",1221,"78.51%","Kansas",20143
+"906","KS","Pawnee",729,"79.97%","Kansas",20145
+"907","KS","Phillips",2269,"75.95%","Kansas",20147
+"908","KS","Pottawatomie",798,"79.74%","Kansas",20149
+"909","KS","Pratt",685,"80.10%","Kansas",20151
+"910","KS","Rawlins",363,"81.38%","Kansas",20153
+"911","KS","Reno",969,"79.25%","Kansas",20155
+"912","KS","Republic",812,"79.69%","Kansas",20157
+"913","KS","Rice",978,"79.24%","Kansas",20159
+"914","KS","Riley",1437,"77.94%","Kansas",20161
+"915","KS","Rooks",1198,"78.57%","Kansas",20163
+"916","KS","Rush",750,"79.90%","Kansas",20165
+"917","KS","Russell",1226,"78.51%","Kansas",20167
+"918","KS","Saline",1600,"77.53%","Kansas",20169
+"919","KS","Scott",1972,"76.63%","Kansas",20171
+"920","KS","Sedgwick",758,"79.87%","Kansas",20173
+"921","KS","Seward",1318,"78.28%","Kansas",20175
+"922","KS","Shawnee",205,"82.30%","Kansas",20177
+"923","KS","Sheridan",1159,"78.69%","Kansas",20179
+"924","KS","Sherman",300,"81.68%","Kansas",20181
+"925","KS","Smith",1852,"76.94%","Kansas",20183
+"926","KS","Stafford",693,"80.08%","Kansas",20185
+"927","KS","Stanton",3007,"71.82%","Kansas",20187
+"928","KS","Stevens",2712,"74.31%","Kansas",20189
+"929","KS","Sumner",544,"80.59%","Kansas",20191
+"930","KS","Thomas",422,"81.10%","Kansas",20193
+"931","KS","Trego",734,"79.96%","Kansas",20195
+"932","KS","Wabaunsee",857,"79.55%","Kansas",20197
+"933","KS","Wallace",511,"80.75%","Kansas",20199
+"934","KS","Washington",649,"80.23%","Kansas",20201
+"935","KS","Wichita",1166,"78.67%","Kansas",20203
+"936","KS","Wilson",1968,"76.63%","Kansas",20205
+"937","KS","Woodson",1782,"77.11%","Kansas",20207
+"938","KS","Wyandotte",433,"81.05%","Kansas",20209
+"939","KY","Adair",3083,"69.98%","Kentucky",21001
+"940","KY","Allen",3086,"69.90%","Kentucky",21003
+"941","KY","Anderson",1864,"76.92%","Kentucky",21005
+"942","KY","Ballard",1651,"77.41%","Kentucky",21007
+"943","KY","Barren",3059,"70.66%","Kentucky",21009
+"944","KY","Bath",1271,"78.42%","Kentucky",21011
+"945","KY","Bell",2599,"74.79%","Kentucky",21013
+"946","KY","Boone",1715,"77.26%","Kentucky",21015
+"947","KY","Bourbon",1181,"78.63%","Kentucky",21017
+"948","KY","Boyd",687,"80.10%","Kentucky",21019
+"949","KY","Boyle",2879,"73.24%","Kentucky",21021
+"950","KY","Bracken",331,"81.54%","Kentucky",21023
+"951","KY","Breathitt",1457,"77.90%","Kentucky",21025
+"952","KY","Breckinridge",1361,"78.16%","Kentucky",21027
+"953","KY","Bullitt",1645,"77.43%","Kentucky",21029
+"954","KY","Butler",2585,"74.84%","Kentucky",21031
+"955","KY","Caldwell",1855,"76.94%","Kentucky",21033
+"956","KY","Calloway",2135,"76.24%","Kentucky",21035
+"957","KY","Campbell",694,"80.08%","Kentucky",21037
+"958","KY","Carlisle",1869,"76.91%","Kentucky",21039
+"959","KY","Carroll",1668,"77.38%","Kentucky",21041
+"960","KY","Carter",503,"80.78%","Kentucky",21043
+"961","KY","Casey",3023,"71.51%","Kentucky",21045
+"962","KY","Christian",2578,"74.87%","Kentucky",21047
+"963","KY","Clark",2260,"75.97%","Kentucky",21049
+"964","KY","Clay",2767,"73.99%","Kentucky",21051
+"965","KY","Clinton",3099,"69.00%","Kentucky",21053
+"966","KY","Crittenden",1997,"76.57%","Kentucky",21055
+"967","KY","Cumberland",3107,"68.32%","Kentucky",21057
+"968","KY","Daviess",1896,"76.83%","Kentucky",21059
+"969","KY","Edmonson",2762,"74.01%","Kentucky",21061
+"970","KY","Elliott",814,"79.69%","Kentucky",21063
+"971","KY","Estill",2592,"74.81%","Kentucky",21065
+"972","KY","Fayette",1705,"77.28%","Kentucky",21067
+"973","KY","Fleming",615,"80.35%","Kentucky",21069
+"974","KY","Floyd",1222,"78.51%","Kentucky",21071
+"975","KY","Franklin",1438,"77.94%","Kentucky",21073
+"976","KY","Fulton",2284,"75.90%","Kentucky",21075
+"977","KY","Gallatin",957,"79.28%","Kentucky",21077
+"978","KY","Garrard",2930,"72.79%","Kentucky",21079
+"979","KY","Grant",943,"79.32%","Kentucky",21081
+"980","KY","Graves",2620,"74.71%","Kentucky",21083
+"981","KY","Grayson",2088,"76.36%","Kentucky",21085
+"982","KY","Green",3021,"71.54%","Kentucky",21087
+"983","KY","Greenup",328,"81.55%","Kentucky",21089
+"984","KY","Hancock",1371,"78.14%","Kentucky",21091
+"985","KY","Hardin",1831,"76.99%","Kentucky",21093
+"986","KY","Harlan",2536,"75.02%","Kentucky",21095
+"987","KY","Harrison",563,"80.51%","Kentucky",21097
+"988","KY","Hart",2664,"74.53%","Kentucky",21099
+"989","KY","Henderson",1683,"77.35%","Kentucky",21101
+"990","KY","Henry",1360,"78.16%","Kentucky",21103
+"991","KY","Hickman",2560,"74.94%","Kentucky",21105
+"992","KY","Hopkins",2434,"75.37%","Kentucky",21107
+"993","KY","Jackson",2819,"73.62%","Kentucky",21109
+"994","KY","Jefferson",1368,"78.14%","Kentucky",21111
+"995","KY","Jessamine",2619,"74.73%","Kentucky",21113
+"996","KY","Johnson",1214,"78.53%","Kentucky",21115
+"997","KY","Kenton",1174,"78.65%","Kentucky",21117
+"998","KY","Knott",1708,"77.27%","Kentucky",21119
+"999","KY","Knox",2733,"74.23%","Kentucky",21121
+"1000","KY","Larue",2443,"75.32%","Kentucky",21123
+"1001","KY","Laurel",2890,"73.17%","Kentucky",21125
+"1002","KY","Lawrence",1087,"78.89%","Kentucky",21127
+"1003","KY","Lee",1626,"77.47%","Kentucky",21129
+"1004","KY","Leslie",2364,"75.67%","Kentucky",21131
+"1005","KY","Letcher",2181,"76.15%","Kentucky",21133
+"1006","KY","Lewis",476,"80.88%","Kentucky",21135
+"1007","KY","Lincoln",3003,"71.87%","Kentucky",21137
+"1008","KY","Livingston",1841,"76.96%","Kentucky",21139
+"1009","KY","Logan",3009,"71.74%","Kentucky",21141
+"1010","KY","Lyon",1502,"77.77%","Kentucky",21143
+"1011","KY","Madison",2823,"73.60%","Kentucky",21151
+"1012","KY","Magoffin",1058,"79.00%","Kentucky",21153
+"1013","KY","Marion",2915,"73.00%","Kentucky",21155
+"1014","KY","Marshall",1924,"76.74%","Kentucky",21157
+"1015","KY","Martin",1652,"77.41%","Kentucky",21159
+"1016","KY","Mason",282,"81.78%","Kentucky",21161
+"1017","KY","Meade",1436,"77.95%","Kentucky",21163
+"1018","KY","Menifee",1346,"78.20%","Kentucky",21165
+"1019","KY","Mercer",2285,"75.90%","Kentucky",21167
+"1020","KY","Metcalfe",3094,"69.71%","Kentucky",21169
+"1021","KY","Monroe",3117,"67.73%","Kentucky",21171
+"1022","KY","Montgomery",1641,"77.45%","Kentucky",21173
+"1023","KY","Morgan",1071,"78.94%","Kentucky",21175
+"1024","KY","Muhlenberg",2665,"74.53%","Kentucky",21177
+"1025","KY","Nelson",2617,"74.73%","Kentucky",21179
+"1026","KY","Nicholas",1032,"79.08%","Kentucky",21181
+"1027","KY","Ohio",1805,"77.03%","Kentucky",21183
+"1028","KY","Oldham",1342,"78.20%","Kentucky",21185
+"1029","KY","Owen",984,"79.23%","Kentucky",21187
+"1030","KY","Owsley",2406,"75.47%","Kentucky",21189
+"1031","KY","Pendleton",632,"80.30%","Kentucky",21191
+"1032","KY","Perry",1803,"77.04%","Kentucky",21193
+"1033","KY","Pike",1275,"78.42%","Kentucky",21195
+"1034","KY","Powell",1927,"76.73%","Kentucky",21197
+"1035","KY","Pulaski",3012,"71.72%","Kentucky",21199
+"1036","KY","Robertson",494,"80.81%","Kentucky",21201
+"1037","KY","Rockcastle",2991,"72.02%","Kentucky",21203
+"1038","KY","Rowan",1069,"78.94%","Kentucky",21205
+"1039","KY","Russell",3103,"68.56%","Kentucky",21207
+"1040","KY","Scott",1180,"78.63%","Kentucky",21209
+"1041","KY","Shelby",1845,"76.95%","Kentucky",21211
+"1042","KY","Simpson",3073,"70.20%","Kentucky",21213
+"1043","KY","Spencer",2108,"76.32%","Kentucky",21215
+"1044","KY","Taylor",3044,"71.13%","Kentucky",21217
+"1045","KY","Todd",2880,"73.24%","Kentucky",21219
+"1046","KY","Trigg",2052,"76.44%","Kentucky",21221
+"1047","KY","Trimble",1408,"78.05%","Kentucky",21223
+"1048","KY","Union",2228,"76.03%","Kentucky",21225
+"1049","KY","Warren",3008,"71.78%","Kentucky",21227
+"1050","KY","Washington",2645,"74.59%","Kentucky",21229
+"1051","KY","Wayne",3097,"69.21%","Kentucky",21231
+"1052","KY","Webster",1971,"76.63%","Kentucky",21233
+"1053","KY","Whitley",2812,"73.66%","Kentucky",21235
+"1054","KY","Wolfe",1511,"77.76%","Kentucky",21237
+"1055","KY","Woodford",1880,"76.87%","Kentucky",21239
+"1056","LA","Acadia",3055,"70.90%","Louisiana",22001
+"1057","LA","Allen",2805,"73.68%","Louisiana",22003
+"1058","LA","Ascension",1844,"76.95%","Louisiana",22005
+"1059","LA","Assumption",1304,"78.31%","Louisiana",22007
+"1060","LA","Avoyelles",1533,"77.70%","Louisiana",22009
+"1061","LA","Beauregard",2826,"73.58%","Louisiana",22011
+"1062","LA","Bienville",2575,"74.88%","Louisiana",22013
+"1063","LA","Bossier",2858,"73.35%","Louisiana",22015
+"1064","LA","Caddo",2758,"74.05%","Louisiana",22017
+"1065","LA","Calcasieu",2750,"74.13%","Louisiana",22019
+"1066","LA","Caldwell",1312,"78.29%","Louisiana",22021
+"1067","LA","Cameron",2801,"73.73%","Louisiana",22023
+"1068","LA","Catahoula",1140,"78.73%","Louisiana",22025
+"1069","LA","Claiborne",2551,"74.96%","Louisiana",22027
+"1070","LA","Concordia",1111,"78.82%","Louisiana",22029
+"1071","LA","De Soto",2835,"73.55%","Louisiana",22031
+"1072","LA","East Baton Rouge",1740,"77.21%","Louisiana",22033
+"1073","LA","East Carroll",2158,"76.19%","Louisiana",22035
+"1074","LA","East Feliciana",1613,"77.50%","Louisiana",22037
+"1075","LA","Evangeline",2892,"73.16%","Louisiana",22039
+"1076","LA","Franklin",1678,"77.36%","Louisiana",22041
+"1077","LA","Grant",2660,"74.54%","Louisiana",22043
+"1078","LA","Iberia",1201,"78.56%","Louisiana",22045
+"1079","LA","Iberville",1932,"76.72%","Louisiana",22047
+"1080","LA","Jackson",2502,"75.12%","Louisiana",22049
+"1081","LA","Jefferson",2189,"76.13%","Louisiana",22051
+"1082","LA","Jefferson Davis",3093,"69.73%","Louisiana",22053
+"1083","LA","La Salle",1649,"77.41%","Louisiana",22059
+"1084","LA","Lafayette",2739,"74.18%","Louisiana",22055
+"1085","LA","Lafourche",1281,"78.40%","Louisiana",22057
+"1086","LA","Lincoln",2388,"75.56%","Louisiana",22061
+"1087","LA","Livingston",1518,"77.74%","Louisiana",22063
+"1088","LA","Madison",2170,"76.17%","Louisiana",22065
+"1089","LA","Morehouse",2045,"76.45%","Louisiana",22067
+"1090","LA","Natchitoches",2717,"74.28%","Louisiana",22069
+"1091","LA","Orleans",2883,"73.22%","Louisiana",22071
+"1092","LA","Ouachita",2454,"75.30%","Louisiana",22073
+"1093","LA","Plaquemines",2105,"76.33%","Louisiana",22075
+"1094","LA","Pointe Coupee",1389,"78.08%","Louisiana",22077
+"1095","LA","Rapides",2613,"74.74%","Louisiana",22079
+"1096","LA","Red River",2661,"74.54%","Louisiana",22081
+"1097","LA","Richland",2001,"76.56%","Louisiana",22083
+"1098","LA","Sabine",2648,"74.58%","Louisiana",22085
+"1099","LA","Tangipahoa",1323,"78.27%","Louisiana",22105
+"1100","LA","Tensas",2013,"76.52%","Louisiana",22107
+"1101","LA","Terrebonne",1383,"78.10%","Louisiana",22109
+"1102","LA","Union",2663,"74.54%","Louisiana",22111
+"1103","LA","Vermilion",3058,"70.69%","Louisiana",22113
+"1104","LA","Vernon",2912,"73.04%","Louisiana",22115
+"1105","LA","Washington",1935,"76.72%","Louisiana",22117
+"1106","LA","Webster",2608,"74.76%","Louisiana",22119
+"1107","LA","West Baton Rouge",1766,"77.14%","Louisiana",22121
+"1108","LA","West Carroll",2144,"76.22%","Louisiana",22123
+"1109","LA","West Feliciana",1176,"78.64%","Louisiana",22125
+"1110","LA","Winn",2324,"75.81%","Louisiana",22127
+"1111","MA","Barnstable",359,"81.41%","Massachusetts",25001
+"1112","MA","Berkshire",2859,"73.35%","Massachusetts",25003
+"1113","MA","Bristol",1114,"78.81%","Massachusetts",25005
+"1114","MA","Dukes",529,"80.66%","Massachusetts",25007
+"1115","MA","Essex",1723,"77.24%","Massachusetts",25009
+"1116","MA","Franklin",1999,"76.56%","Massachusetts",25011
+"1117","MA","Hampden",1847,"76.95%","Massachusetts",25013
+"1118","MA","Hampshire",2533,"75.03%","Massachusetts",25015
+"1119","MA","Middlesex",3030,"71.31%","Massachusetts",25017
+"1120","MA","Nantucket",27,"84.93%","Massachusetts",25019
+"1121","MA","Norfolk",3026,"71.44%","Massachusetts",25021
+"1122","MA","Plymouth",948,"79.30%","Massachusetts",25023
+"1123","MA","Suffolk",3088,"69.80%","Massachusetts",25025
+"1124","MA","Worcester",1080,"78.90%","Massachusetts",25027
+"1125","MD","Allegany",2478,"75.20%","Maryland",24001
+"1126","MD","Anne Arundel",2860,"73.34%","Maryland",24003
+"1127","MD","Baltimore",3022,"71.54%","Maryland",24005
+"1128","MD","Calvert",1752,"77.19%","Maryland",24009
+"1129","MD","Caroline",2903,"73.09%","Maryland",24011
+"1130","MD","Carroll",2853,"73.40%","Maryland",24013
+"1131","MD","Cecil",2894,"73.15%","Maryland",24015
+"1132","MD","Charles",741,"79.93%","Maryland",24017
+"1133","MD","Dorchester",1914,"76.77%","Maryland",24019
+"1134","MD","Frederick",1876,"76.88%","Maryland",24021
+"1135","MD","Garrett",2981,"72.18%","Maryland",24023
+"1136","MD","Harford",2977,"72.29%","Maryland",24025
+"1137","MD","Howard",3052,"71.04%","Maryland",24027
+"1138","MD","Kent",3033,"71.25%","Maryland",24029
+"1139","MD","Montgomery",2428,"75.38%","Maryland",24031
+"1140","MD","Somerset",1801,"77.04%","Maryland",24039
+"1141","MD","Talbot",2842,"73.47%","Maryland",24041
+"1142","MD","Washington",2280,"75.92%","Maryland",24043
+"1143","MD","Wicomico",1172,"78.65%","Maryland",24045
+"1144","MD","Worcester",146,"82.76%","Maryland",24047
+"1145","ME","Androscoggin",1670,"77.38%","Maine",23001
+"1146","ME","Aroostook",873,"79.52%","Maine",23003
+"1147","ME","Cumberland",2938,"72.72%","Maine",23005
+"1148","ME","Franklin",368,"81.37%","Maine",23007
+"1149","ME","Hancock",792,"79.77%","Maine",23009
+"1150","ME","Kennebec",135,"82.85%","Maine",23011
+"1151","ME","Knox",1380,"78.11%","Maine",23013
+"1152","ME","Lincoln",455,"80.97%","Maine",23015
+"1153","ME","Oxford",864,"79.54%","Maine",23017
+"1154","ME","Penobscot",14,"85.48%","Maine",23019
+"1155","ME","Piscataquis",120,"83.10%","Maine",23021
+"1156","ME","Sagadahoc",543,"80.59%","Maine",23023
+"1157","ME","Somerset",124,"83.04%","Maine",23025
+"1158","ME","Waldo",38,"84.47%","Maine",23027
+"1159","ME","Washington",29,"84.82%","Maine",23029
+"1160","ME","York",1583,"77.59%","Maine",23031
+"1161","MI","Alcona",2342,"75.74%","Michigan",26001
+"1162","MI","Alger",2574,"74.88%","Michigan",26003
+"1163","MI","Allegan",3119,"67.46%","Michigan",26005
+"1164","MI","Alpena",2266,"75.96%","Michigan",26007
+"1165","MI","Antrim",3120,"67.18%","Michigan",26009
+"1166","MI","Arenac",2923,"72.87%","Michigan",26011
+"1167","MI","Baraga",916,"79.40%","Michigan",26013
+"1168","MI","Barry",1653,"77.41%","Michigan",26015
+"1169","MI","Bay",3082,"70.00%","Michigan",26017
+"1170","MI","Benzie",2967,"72.42%","Michigan",26019
+"1171","MI","Berrien",3104,"68.48%","Michigan",26021
+"1172","MI","Branch",1359,"78.16%","Michigan",26023
+"1173","MI","Calhoun",471,"80.90%","Michigan",26025
+"1174","MI","Cass",3051,"71.05%","Michigan",26027
+"1175","MI","Charlevoix",3011,"71.74%","Michigan",26029
+"1176","MI","Cheboygan",3124,"66.76%","Michigan",26031
+"1177","MI","Chippewa",767,"79.85%","Michigan",26033
+"1178","MI","Clare",2192,"76.12%","Michigan",26035
+"1179","MI","Clinton",1107,"78.83%","Michigan",26037
+"1180","MI","Crawford",264,"81.92%","Michigan",26039
+"1181","MI","Delta",3045,"71.12%","Michigan",26041
+"1182","MI","Dickinson",1541,"77.67%","Michigan",26043
+"1183","MI","Eaton",487,"80.84%","Michigan",26045
+"1184","MI","Emmet",2092,"76.35%","Michigan",26047
+"1185","MI","Genesee",2217,"76.06%","Michigan",26049
+"1186","MI","Gladwin",2898,"73.13%","Michigan",26051
+"1187","MI","Gogebic",2759,"74.05%","Michigan",26053
+"1188","MI","Grand Traverse",2884,"73.21%","Michigan",26055
+"1189","MI","Gratiot",2065,"76.42%","Michigan",26057
+"1190","MI","Hillsdale",1171,"78.66%","Michigan",26059
+"1191","MI","Houghton",3018,"71.58%","Michigan",26061
+"1192","MI","Huron",1089,"78.88%","Michigan",26063
+"1193","MI","Ingham",1138,"78.73%","Michigan",26065
+"1194","MI","Ionia",1343,"78.20%","Michigan",26067
+"1195","MI","Iosco",1259,"78.44%","Michigan",26069
+"1196","MI","Iron",1969,"76.63%","Michigan",26071
+"1197","MI","Isabella",2886,"73.18%","Michigan",26073
+"1198","MI","Jackson",1434,"77.96%","Michigan",26075
+"1199","MI","Kalamazoo",2558,"74.95%","Michigan",26077
+"1200","MI","Kalkaska",2264,"75.96%","Michigan",26079
+"1201","MI","Kent",2554,"74.96%","Michigan",26081
+"1202","MI","Keweenaw",2968,"72.42%","Michigan",26083
+"1203","MI","Lake",3091,"69.74%","Michigan",26085
+"1204","MI","Lapeer",506,"80.78%","Michigan",26087
+"1205","MI","Leelanau",2075,"76.39%","Michigan",26089
+"1206","MI","Lenawee",1822,"77.00%","Michigan",26091
+"1207","MI","Livingston",2535,"75.02%","Michigan",26093
+"1208","MI","Luce",1151,"78.71%","Michigan",26095
+"1209","MI","Mackinac",3087,"69.82%","Michigan",26097
+"1210","MI","Macomb",2310,"75.85%","Michigan",26099
+"1211","MI","Manistee",3038,"71.21%","Michigan",26101
+"1212","MI","Marquette",1485,"77.83%","Michigan",26103
+"1213","MI","Mason",2864,"73.30%","Michigan",26105
+"1214","MI","Mecosta",2841,"73.49%","Michigan",26107
+"1215","MI","Menominee",2615,"74.73%","Michigan",26109
+"1216","MI","Midland",2795,"73.76%","Michigan",26111
+"1217","MI","Missaukee",960,"79.27%","Michigan",26113
+"1218","MI","Monroe",1561,"77.63%","Michigan",26115
+"1219","MI","Montcalm",2790,"73.85%","Michigan",26117
+"1220","MI","Montmorency",2415,"75.43%","Michigan",26119
+"1221","MI","Muskegon",3111,"68.25%","Michigan",26121
+"1222","MI","Newaygo",2766,"73.99%","Michigan",26123
+"1223","MI","Oakland",2779,"73.93%","Michigan",26125
+"1224","MI","Oceana",3128,"66.10%","Michigan",26127
+"1225","MI","Ogemaw",2038,"76.47%","Michigan",26129
+"1226","MI","Ontonagon",3116,"67.94%","Michigan",26131
+"1227","MI","Osceola",2871,"73.27%","Michigan",26133
+"1228","MI","Oscoda",1673,"77.37%","Michigan",26135
+"1229","MI","Otsego",2565,"74.92%","Michigan",26137
+"1230","MI","Ottawa",3061,"70.50%","Michigan",26139
+"1231","MI","Presque Isle",2984,"72.16%","Michigan",26141
+"1232","MI","Roscommon",514,"80.74%","Michigan",26143
+"1233","MI","Saginaw",2080,"76.38%","Michigan",26145
+"1234","MI","Sanilac",2986,"72.15%","Michigan",26151
+"1235","MI","Schoolcraft",3109,"68.28%","Michigan",26153
+"1236","MI","Shiawassee",2402,"75.50%","Michigan",26155
+"1237","MI","Tuscola",2186,"76.14%","Michigan",26157
+"1238","MI","Van Buren",3060,"70.61%","Michigan",26159
+"1239","MI","Washtenaw",2773,"73.96%","Michigan",26161
+"1240","MI","Wayne",3017,"71.61%","Michigan",26163
+"1241","MI","Wexford",3067,"70.36%","Michigan",26165
+"1242","MN","Aitkin",1297,"78.33%","Minnesota",27001
+"1243","MN","Anoka",1035,"79.07%","Minnesota",27003
+"1244","MN","Becker",420,"81.10%","Minnesota",27005
+"1245","MN","Beltrami",108,"83.18%","Minnesota",27007
+"1246","MN","Benton",53,"84.15%","Minnesota",27009
+"1247","MN","Big Stone",416,"81.11%","Minnesota",27011
+"1248","MN","Blue Earth",272,"81.88%","Minnesota",27013
+"1249","MN","Brown",110,"83.17%","Minnesota",27015
+"1250","MN","Carlton",2584,"74.85%","Minnesota",27017
+"1251","MN","Carver",565,"80.49%","Minnesota",27019
+"1252","MN","Cass",64,"83.80%","Minnesota",27021
+"1253","MN","Chippewa",125,"83.03%","Minnesota",27023
+"1254","MN","Chisago",1522,"77.74%","Minnesota",27025
+"1255","MN","Clay",408,"81.14%","Minnesota",27027
+"1256","MN","Clearwater",295,"81.69%","Minnesota",27029
+"1257","MN","Cook",2809,"73.67%","Minnesota",27031
+"1258","MN","Cottonwood",95,"83.31%","Minnesota",27033
+"1259","MN","Crow Wing",43,"84.34%","Minnesota",27035
+"1260","MN","Dakota",1996,"76.57%","Minnesota",27037
+"1261","MN","Dodge",755,"79.88%","Minnesota",27039
+"1262","MN","Douglas",47,"84.26%","Minnesota",27041
+"1263","MN","Faribault",223,"82.18%","Minnesota",27043
+"1264","MN","Fillmore",560,"80.52%","Minnesota",27045
+"1265","MN","Freeborn",219,"82.21%","Minnesota",27047
+"1266","MN","Goodhue",2095,"76.34%","Minnesota",27049
+"1267","MN","Grant",318,"81.60%","Minnesota",27051
+"1268","MN","Hennepin",1024,"79.09%","Minnesota",27053
+"1269","MN","Houston",773,"79.83%","Minnesota",27055
+"1270","MN","Hubbard",72,"83.68%","Minnesota",27057
+"1271","MN","Isanti",842,"79.60%","Minnesota",27059
+"1272","MN","Itasca",195,"82.42%","Minnesota",27061
+"1273","MN","Jackson",78,"83.61%","Minnesota",27063
+"1274","MN","Kanabec",872,"79.52%","Minnesota",27065
+"1275","MN","Kandiyohi",31,"84.74%","Minnesota",27067
+"1276","MN","Kittson",1265,"78.44%","Minnesota",27069
+"1277","MN","Koochiching",105,"83.20%","Minnesota",27071
+"1278","MN","Lac Qui Parle",308,"81.63%","Minnesota",27073
+"1279","MN","Lake",2512,"75.09%","Minnesota",27075
+"1280","MN","Le Sueur",630,"80.30%","Minnesota",27079
+"1281","MN","Lincoln",709,"80.02%","Minnesota",27081
+"1282","MN","Lyon",351,"81.46%","Minnesota",27083
+"1283","MN","Mahnomen",288,"81.75%","Minnesota",27087
+"1284","MN","Marshall",464,"80.93%","Minnesota",27089
+"1285","MN","Martin",142,"82.80%","Minnesota",27091
+"1286","MN","Meeker",37,"84.51%","Minnesota",27093
+"1287","MN","Mille Lacs",241,"82.08%","Minnesota",27095
+"1288","MN","Morrison",7,"86.07%","Minnesota",27097
+"1289","MN","Mower",334,"81.53%","Minnesota",27099
+"1290","MN","Murray",265,"81.92%","Minnesota",27101
+"1291","MN","Nicollet",144,"82.78%","Minnesota",27103
+"1292","MN","Nobles",344,"81.51%","Minnesota",27105
+"1293","MN","Norman",365,"81.38%","Minnesota",27107
+"1294","MN","Olmsted",757,"79.87%","Minnesota",27109
+"1295","MN","Otter Tail",258,"81.95%","Minnesota",27111
+"1296","MN","Pennington",512,"80.75%","Minnesota",27113
+"1297","MN","Pine",1231,"78.50%","Minnesota",27115
+"1298","MN","Pipestone",419,"81.11%","Minnesota",27117
+"1299","MN","Polk",304,"81.65%","Minnesota",27119
+"1300","MN","Pope",39,"84.43%","Minnesota",27121
+"1301","MN","Ramsey",1636,"77.45%","Minnesota",27123
+"1302","MN","Red Lake",437,"81.04%","Minnesota",27125
+"1303","MN","Redwood",77,"83.61%","Minnesota",27127
+"1304","MN","Renville",71,"83.69%","Minnesota",27129
+"1305","MN","Rice",1090,"78.88%","Minnesota",27131
+"1306","MN","Rock",458,"80.96%","Minnesota",27133
+"1307","MN","Roseau",474,"80.88%","Minnesota",27135
+"1308","MN","Scott",1254,"78.46%","Minnesota",27139
+"1309","MN","Sherburne",269,"81.90%","Minnesota",27141
+"1310","MN","Sibley",215,"82.23%","Minnesota",27143
+"1311","MN","Stearns",18,"85.29%","Minnesota",27145
+"1312","MN","Steele",562,"80.51%","Minnesota",27147
+"1313","MN","Stevens",311,"81.62%","Minnesota",27149
+"1314","MN","Swift",171,"82.56%","Minnesota",27151
+"1315","MN","Todd",22,"85.18%","Minnesota",27153
+"1316","MN","Traverse",600,"80.39%","Minnesota",27155
+"1317","MN","Wabasha",1086,"78.89%","Minnesota",27157
+"1318","MN","Wadena",111,"83.16%","Minnesota",27159
+"1319","MN","Waseca",279,"81.79%","Minnesota",27161
+"1320","MN","Washington",1697,"77.30%","Minnesota",27163
+"1321","MN","Watonwan",100,"83.25%","Minnesota",27165
+"1322","MN","Wilkin",970,"79.25%","Minnesota",27167
+"1323","MN","Winona",771,"79.84%","Minnesota",27169
+"1324","MN","Wright",281,"81.78%","Minnesota",27171
+"1325","MN","Yellow Medicine",243,"82.06%","Minnesota",27173
+"1326","MO","Adair",1789,"77.08%","Missouri",29001
+"1327","MO","Andrew",1042,"79.06%","Missouri",29003
+"1328","MO","Atchison",1082,"78.90%","Missouri",29005
+"1329","MO","Audrain",1283,"78.39%","Missouri",29007
+"1330","MO","Barry",2471,"75.21%","Missouri",29009
+"1331","MO","Barton",2360,"75.69%","Missouri",29011
+"1332","MO","Bates",1918,"76.75%","Missouri",29013
+"1333","MO","Benton",1814,"77.02%","Missouri",29015
+"1334","MO","Bollinger",574,"80.45%","Missouri",29017
+"1335","MO","Boone",1648,"77.42%","Missouri",29019
+"1336","MO","Buchanan",699,"80.05%","Missouri",29021
+"1337","MO","Butler",1165,"78.67%","Missouri",29023
+"1338","MO","Caldwell",1140,"78.73%","Missouri",29025
+"1339","MO","Callaway",1011,"79.13%","Missouri",29027
+"1340","MO","Camden",2043,"76.46%","Missouri",29029
+"1341","MO","Cape Girardeau",686,"80.10%","Missouri",29031
+"1342","MO","Carroll",1724,"77.24%","Missouri",29033
+"1343","MO","Carter",1739,"77.21%","Missouri",29035
+"1344","MO","Cass",1309,"78.30%","Missouri",29037
+"1345","MO","Cedar",2303,"75.87%","Missouri",29039
+"1346","MO","Chariton",1911,"76.78%","Missouri",29041
+"1347","MO","Christian",2494,"75.15%","Missouri",29043
+"1348","MO","Clark",931,"79.35%","Missouri",29045
+"1349","MO","Clay",580,"80.43%","Missouri",29047
+"1350","MO","Clinton",659,"80.19%","Missouri",29049
+"1351","MO","Cole",1563,"77.62%","Missouri",29051
+"1352","MO","Cooper",2270,"75.95%","Missouri",29053
+"1353","MO","Crawford",1769,"77.14%","Missouri",29055
+"1354","MO","Dade",2491,"75.16%","Missouri",29057
+"1355","MO","Dallas",2249,"75.98%","Missouri",29059
+"1356","MO","Daviess",1440,"77.93%","Missouri",29061
+"1357","MO","Dent",1447,"77.91%","Missouri",29065
+"1358","MO","Douglas",2399,"75.51%","Missouri",29067
+"1359","MO","Dunklin",582,"80.42%","Missouri",29069
+"1360","MO","Franklin",1329,"78.26%","Missouri",29071
+"1361","MO","Gasconade",1232,"78.50%","Missouri",29073
+"1362","MO","Gentry",983,"79.23%","Missouri",29075
+"1363","MO","Greene",2669,"74.51%","Missouri",29077
+"1364","MO","Grundy",1539,"77.68%","Missouri",29079
+"1365","MO","Harrison",1273,"78.42%","Missouri",29081
+"1366","MO","Henry",1662,"77.40%","Missouri",29083
+"1367","MO","Hickory",2297,"75.88%","Missouri",29085
+"1368","MO","Holt",1284,"78.38%","Missouri",29087
+"1369","MO","Howard",1501,"77.77%","Missouri",29089
+"1370","MO","Howell",2087,"76.36%","Missouri",29091
+"1371","MO","Iron",2205,"76.09%","Missouri",29093
+"1372","MO","Jasper",2688,"74.44%","Missouri",29097
+"1373","MO","Jefferson",1744,"77.21%","Missouri",29099
+"1374","MO","Johnson",1228,"78.50%","Missouri",29101
+"1375","MO","Knox",1607,"77.51%","Missouri",29103
+"1376","MO","Laclede",2064,"76.42%","Missouri",29105
+"1377","MO","Lafayette",1405,"78.05%","Missouri",29107
+"1378","MO","Lawrence",2736,"74.21%","Missouri",29109
+"1379","MO","Lewis",1338,"78.21%","Missouri",29111
+"1380","MO","Lincoln",324,"81.58%","Missouri",29113
+"1381","MO","Linn",1895,"76.84%","Missouri",29115
+"1382","MO","Livingston",1326,"78.26%","Missouri",29117
+"1383","MO","Macon",2051,"76.44%","Missouri",29121
+"1384","MO","Madison",1124,"78.75%","Missouri",29123
+"1385","MO","Maries",1643,"77.44%","Missouri",29125
+"1386","MO","Marion",866,"79.54%","Missouri",29127
+"1387","MO","Mercer",1553,"77.64%","Missouri",29129
+"1388","MO","Miller",1707,"77.28%","Missouri",29131
+"1389","MO","Mississippi",1560,"77.63%","Missouri",29133
+"1390","MO","Moniteau",2099,"76.34%","Missouri",29135
+"1391","MO","Monroe",1420,"78.00%","Missouri",29137
+"1392","MO","Montgomery",592,"80.41%","Missouri",29139
+"1393","MO","Morgan",2004,"76.54%","Missouri",29141
+"1394","MO","New Madrid",1456,"77.90%","Missouri",29143
+"1395","MO","Newton",2723,"74.27%","Missouri",29145
+"1396","MO","Nodaway",887,"79.48%","Missouri",29147
+"1397","MO","Oregon",2460,"75.28%","Missouri",29149
+"1398","MO","Osage",920,"79.39%","Missouri",29151
+"1399","MO","Ozark",2054,"76.44%","Missouri",29153
+"1400","MO","Pemiscot",854,"79.56%","Missouri",29155
+"1401","MO","Perry",1121,"78.76%","Missouri",29157
+"1402","MO","Pettis",2012,"76.53%","Missouri",29159
+"1403","MO","Phelps",1300,"78.32%","Missouri",29161
+"1404","MO","Pike",225,"82.16%","Missouri",29163
+"1405","MO","Platte",482,"80.85%","Missouri",29165
+"1406","MO","Polk",2525,"75.05%","Missouri",29167
+"1407","MO","Pulaski",1811,"77.02%","Missouri",29169
+"1408","MO","Putnam",1748,"77.20%","Missouri",29171
+"1409","MO","Ralls",749,"79.90%","Missouri",29173
+"1410","MO","Randolph",1519,"77.74%","Missouri",29175
+"1411","MO","Ray",1135,"78.74%","Missouri",29177
+"1412","MO","Reynolds",1581,"77.59%","Missouri",29179
+"1413","MO","Ripley",1370,"78.14%","Missouri",29181
+"1414","MO","Saline",1889,"76.85%","Missouri",29195
+"1415","MO","Schuyler",1137,"78.73%","Missouri",29197
+"1416","MO","Scotland",756,"79.87%","Missouri",29199
+"1417","MO","Scott",1233,"78.50%","Missouri",29201
+"1418","MO","Shannon",2048,"76.45%","Missouri",29203
+"1419","MO","Shelby",1558,"77.63%","Missouri",29205
+"1420","MO","Stoddard",1127,"78.75%","Missouri",29207
+"1421","MO","Stone",2500,"75.14%","Missouri",29209
+"1422","MO","Sullivan",1589,"77.55%","Missouri",29211
+"1423","MO","Taney",2016,"76.52%","Missouri",29213
+"1424","MO","Texas",1825,"77.00%","Missouri",29215
+"1425","MO","Vernon",2307,"75.86%","Missouri",29217
+"1426","MO","Warren",463,"80.93%","Missouri",29219
+"1427","MO","Washington",2146,"76.22%","Missouri",29221
+"1428","MO","Wayne",381,"81.32%","Missouri",29223
+"1429","MO","Webster",2678,"74.47%","Missouri",29225
+"1430","MO","Worth",670,"80.14%","Missouri",29227
+"1431","MO","Wright",2421,"75.41%","Missouri",29229
+"1432","MS","Adams",1003,"79.15%","Mississippi",28001
+"1433","MS","Alcorn",2021,"76.51%","Mississippi",28003
+"1434","MS","Amite",1063,"78.98%","Mississippi",28005
+"1435","MS","Attala",2851,"73.41%","Mississippi",28007
+"1436","MS","Benton",1489,"77.81%","Mississippi",28009
+"1437","MS","Bolivar",2601,"74.79%","Mississippi",28011
+"1438","MS","Calhoun",1596,"77.54%","Mississippi",28013
+"1439","MS","Carroll",2830,"73.57%","Mississippi",28015
+"1440","MS","Chickasaw",2056,"76.44%","Mississippi",28017
+"1441","MS","Choctaw",2914,"73.02%","Mississippi",28019
+"1442","MS","Claiborne",1933,"76.72%","Mississippi",28021
+"1443","MS","Clarke",2810,"73.66%","Mississippi",28023
+"1444","MS","Clay",2115,"76.31%","Mississippi",28025
+"1445","MS","Coahoma",2288,"75.89%","Mississippi",28027
+"1446","MS","Copiah",1916,"76.76%","Mississippi",28029
+"1447","MS","Covington",2251,"75.98%","Mississippi",28031
+"1448","MS","Forrest",2724,"74.26%","Mississippi",28035
+"1449","MS","Franklin",1130,"78.75%","Mississippi",28037
+"1450","MS","George",2918,"72.97%","Mississippi",28039
+"1451","MS","Greene",2897,"73.14%","Mississippi",28041
+"1452","MS","Grenada",2331,"75.78%","Mississippi",28043
+"1453","MS","Hancock",1366,"78.15%","Mississippi",28045
+"1454","MS","Harrison",2495,"75.14%","Mississippi",28047
+"1455","MS","Hinds",2369,"75.64%","Mississippi",28049
+"1456","MS","Holmes",2907,"73.07%","Mississippi",28051
+"1457","MS","Humphreys",2598,"74.79%","Mississippi",28053
+"1458","MS","Issaquena",2138,"76.24%","Mississippi",28055
+"1459","MS","Itawamba",1762,"77.16%","Mississippi",28057
+"1460","MS","Jackson",2954,"72.55%","Mississippi",28059
+"1461","MS","Jasper",2787,"73.87%","Mississippi",28061
+"1462","MS","Jefferson",1257,"78.45%","Mississippi",28063
+"1463","MS","Jefferson Davis",1939,"76.71%","Mississippi",28065
+"1464","MS","Jones",2468,"75.23%","Mississippi",28067
+"1465","MS","Kemper",2603,"74.78%","Mississippi",28069
+"1466","MS","Lafayette",1390,"78.07%","Mississippi",28071
+"1467","MS","Lamar",2429,"75.38%","Mississippi",28073
+"1468","MS","Lauderdale",2634,"74.66%","Mississippi",28075
+"1469","MS","Lawrence",2100,"76.33%","Mississippi",28077
+"1470","MS","Leake",2925,"72.85%","Mississippi",28079
+"1471","MS","Lee",1637,"77.45%","Mississippi",28081
+"1472","MS","Leflore",2726,"74.26%","Mississippi",28083
+"1473","MS","Lincoln",1585,"77.57%","Mississippi",28085
+"1474","MS","Lowndes",2174,"76.16%","Mississippi",28087
+"1475","MS","Madison",2794,"73.79%","Mississippi",28089
+"1476","MS","Marion",1958,"76.66%","Mississippi",28091
+"1477","MS","Marshall",963,"79.26%","Mississippi",28093
+"1478","MS","Monroe",2163,"76.18%","Mississippi",28095
+"1479","MS","Montgomery",2813,"73.65%","Mississippi",28097
+"1480","MS","Neshoba",2929,"72.81%","Mississippi",28099
+"1481","MS","Newton",2869,"73.27%","Mississippi",28101
+"1482","MS","Noxubee",2262,"75.96%","Mississippi",28103
+"1483","MS","Oktibbeha",2549,"74.97%","Mississippi",28105
+"1484","MS","Panola",1565,"77.62%","Mississippi",28107
+"1485","MS","Pearl River",2244,"75.99%","Mississippi",28109
+"1486","MS","Perry",2483,"75.18%","Mississippi",28111
+"1487","MS","Pike",1481,"77.84%","Mississippi",28113
+"1488","MS","Pontotoc",1453,"77.90%","Mississippi",28115
+"1489","MS","Prentiss",2259,"75.97%","Mississippi",28117
+"1490","MS","Quitman",2014,"76.52%","Mississippi",28119
+"1491","MS","Rankin",2696,"74.39%","Mississippi",28121
+"1492","MS","Scott",2734,"74.22%","Mississippi",28123
+"1493","MS","Sharkey",2082,"76.37%","Mississippi",28125
+"1494","MS","Simpson",2261,"75.96%","Mississippi",28127
+"1495","MS","Smith",2559,"74.94%","Mississippi",28129
+"1496","MS","Stone",2124,"76.28%","Mississippi",28131
+"1497","MS","Sunflower",2659,"74.55%","Mississippi",28133
+"1498","MS","Tallahatchie",2072,"76.40%","Mississippi",28135
+"1499","MS","Tate",902,"79.44%","Mississippi",28137
+"1500","MS","Tippah",1634,"77.46%","Mississippi",28139
+"1501","MS","Tishomingo",2281,"75.92%","Mississippi",28141
+"1502","MS","Tunica",1773,"77.13%","Mississippi",28143
+"1503","MS","Union",1527,"77.72%","Mississippi",28145
+"1504","MS","Walthall",1162,"78.69%","Mississippi",28147
+"1505","MS","Warren",2327,"75.80%","Mississippi",28149
+"1506","MS","Washington",2441,"75.34%","Mississippi",28151
+"1507","MS","Wayne",2646,"74.59%","Mississippi",28153
+"1508","MS","Webster",2820,"73.61%","Mississippi",28155
+"1509","MS","Wilkinson",1040,"79.06%","Mississippi",28157
+"1510","MS","Winston",2924,"72.86%","Mississippi",28159
+"1511","MS","Yalobusha",1873,"76.90%","Mississippi",28161
+"1512","MS","Yazoo",2840,"73.51%","Mississippi",28163
+"1513","MT","Beaverhead",123,"83.08%","Montana",30001
+"1514","MT","Big Horn",1398,"78.06%","Montana",30003
+"1515","MT","Blaine",1026,"79.09%","Montana",30005
+"1516","MT","Broadwater",355,"81.43%","Montana",30007
+"1517","MT","Carbon",801,"79.74%","Montana",30009
+"1518","MT","Carter",987,"79.21%","Montana",30011
+"1519","MT","Cascade",775,"79.83%","Montana",30013
+"1520","MT","Chouteau",856,"79.56%","Montana",30015
+"1521","MT","Custer",1833,"76.98%","Montana",30017
+"1522","MT","Daniels",315,"81.61%","Montana",30019
+"1523","MT","Dawson",394,"81.22%","Montana",30021
+"1524","MT","Deer Lodge",90,"83.41%","Montana",30023
+"1525","MT","Fallon",691,"80.09%","Montana",30025
+"1526","MT","Fergus",1721,"77.25%","Montana",30027
+"1527","MT","Flathead",1319,"78.28%","Montana",30029
+"1528","MT","Gallatin",837,"79.61%","Montana",30031
+"1529","MT","Garfield",1601,"77.53%","Montana",30033
+"1530","MT","Glacier",940,"79.32%","Montana",30035
+"1531","MT","Golden Valley",1495,"77.80%","Montana",30037
+"1532","MT","Granite",36,"84.51%","Montana",30039
+"1533","MT","Hill",1112,"78.81%","Montana",30041
+"1534","MT","Jefferson",194,"82.42%","Montana",30043
+"1535","MT","Judith Basin",1571,"77.61%","Montana",30045
+"1536","MT","Lake",556,"80.53%","Montana",30047
+"1537","MT","Liberty",2079,"76.38%","Montana",30051
+"1538","MT","Lincoln",1205,"78.56%","Montana",30053
+"1539","MT","Madison",184,"82.46%","Montana",30057
+"1540","MT","Meagher",1066,"78.97%","Montana",30059
+"1541","MT","Mineral",58,"84.03%","Montana",30061
+"1542","MT","Missoula",50,"84.21%","Montana",30063
+"1543","MT","Musselshell",1482,"77.83%","Montana",30065
+"1544","MT","Park",728,"79.97%","Montana",30067
+"1545","MT","Petroleum",573,"80.46%","Montana",30069
+"1546","MT","Phillips",402,"81.16%","Montana",30071
+"1547","MT","Pondera",1059,"79.00%","Montana",30073
+"1548","MT","Powder River",848,"79.58%","Montana",30075
+"1549","MT","Powell",86,"83.47%","Montana",30077
+"1550","MT","Prairie",1191,"78.60%","Montana",30079
+"1551","MT","Ravalli",32,"84.62%","Montana",30081
+"1552","MT","Richland",81,"83.59%","Montana",30083
+"1553","MT","Roosevelt",242,"82.07%","Montana",30085
+"1554","MT","Rosebud",2116,"76.30%","Montana",30087
+"1555","MT","Sanders",567,"80.47%","Montana",30089
+"1556","MT","Sheridan",262,"81.92%","Montana",30091
+"1557","MT","Silver Bow",94,"83.36%","Montana",30093
+"1558","MT","Stillwater",954,"79.29%","Montana",30095
+"1559","MT","Sweet Grass",754,"79.88%","Montana",30097
+"1560","MT","Teton",672,"80.14%","Montana",30099
+"1561","MT","Toole",1556,"77.64%","Montana",30101
+"1562","MT","Treasure",1377,"78.12%","Montana",30103
+"1563","MT","Valley",376,"81.34%","Montana",30105
+"1564","MT","Wheatland",1714,"77.26%","Montana",30107
+"1565","MT","Wibaux",333,"81.53%","Montana",30109
+"1566","MT","Yellowstone",1218,"78.52%","Montana",30111
+"1567","NC","Alamance",1965,"76.64%","North Carolina",37001
+"1568","NC","Alexander",1036,"79.07%","North Carolina",37003
+"1569","NC","Alleghany",1025,"79.09%","North Carolina",37005
+"1570","NC","Anson",2202,"76.09%","North Carolina",37007
+"1571","NC","Ashe",1367,"78.15%","North Carolina",37009
+"1572","NC","Avery",1572,"77.61%","North Carolina",37011
+"1573","NC","Beaufort",1755,"77.18%","North Carolina",37013
+"1574","NC","Bertie",2921,"72.94%","North Carolina",37015
+"1575","NC","Bladen",2166,"76.17%","North Carolina",37017
+"1576","NC","Brunswick",777,"79.82%","North Carolina",37019
+"1577","NC","Buncombe",2133,"76.25%","North Carolina",37021
+"1578","NC","Burke",2155,"76.20%","North Carolina",37023
+"1579","NC","Cabarrus",1786,"77.10%","North Carolina",37025
+"1580","NC","Caldwell",1567,"77.61%","North Carolina",37027
+"1581","NC","Camden",852,"79.56%","North Carolina",37029
+"1582","NC","Carteret",727,"79.97%","North Carolina",37031
+"1583","NC","Caswell",1357,"78.16%","North Carolina",37033
+"1584","NC","Catawba",1505,"77.77%","North Carolina",37035
+"1585","NC","Chatham",2407,"75.47%","North Carolina",37037
+"1586","NC","Cherokee",2374,"75.63%","North Carolina",37039
+"1587","NC","Chowan",2401,"75.51%","North Carolina",37041
+"1588","NC","Clay",2448,"75.31%","North Carolina",37043
+"1589","NC","Cleveland",2814,"73.65%","North Carolina",37045
+"1590","NC","Columbus",1719,"77.25%","North Carolina",37047
+"1591","NC","Craven",1387,"78.08%","North Carolina",37049
+"1592","NC","Cumberland",2113,"76.31%","North Carolina",37051
+"1593","NC","Currituck",1034,"79.07%","North Carolina",37053
+"1594","NC","Dare",256,"81.97%","North Carolina",37055
+"1595","NC","Davidson",1018,"79.10%","North Carolina",37057
+"1596","NC","Davie",234,"82.11%","North Carolina",37059
+"1597","NC","Duplin",434,"81.04%","North Carolina",37061
+"1598","NC","Durham",1506,"77.76%","North Carolina",37063
+"1599","NC","Edgecombe",2747,"74.14%","North Carolina",37065
+"1600","NC","Forsyth",218,"82.21%","North Carolina",37067
+"1601","NC","Franklin",2639,"74.64%","North Carolina",37069
+"1602","NC","Gaston",2492,"75.16%","North Carolina",37071
+"1603","NC","Gates",1186,"78.61%","North Carolina",37073
+"1604","NC","Graham",2225,"76.03%","North Carolina",37075
+"1605","NC","Granville",1729,"77.23%","North Carolina",37077
+"1606","NC","Greene",2913,"73.04%","North Carolina",37079
+"1607","NC","Guilford",553,"80.54%","North Carolina",37081
+"1608","NC","Halifax",1877,"76.88%","North Carolina",37083
+"1609","NC","Harnett",1837,"76.98%","North Carolina",37085
+"1610","NC","Haywood",2015,"76.52%","North Carolina",37087
+"1611","NC","Henderson",2862,"73.33%","North Carolina",37089
+"1612","NC","Hertford",2472,"75.21%","North Carolina",37091
+"1613","NC","Hoke",2377,"75.61%","North Carolina",37093
+"1614","NC","Hyde",1960,"76.65%","North Carolina",37095
+"1615","NC","Iredell",739,"79.94%","North Carolina",37097
+"1616","NC","Jackson",2213,"76.07%","North Carolina",37099
+"1617","NC","Johnston",1294,"78.36%","North Carolina",37101
+"1618","NC","Jones",1531,"77.71%","North Carolina",37103
+"1619","NC","Lee",2445,"75.32%","North Carolina",37105
+"1620","NC","Lenoir",2699,"74.37%","North Carolina",37107
+"1621","NC","Lincoln",2348,"75.73%","North Carolina",37109
+"1622","NC","Macon",2439,"75.34%","North Carolina",37113
+"1623","NC","Madison",2346,"75.73%","North Carolina",37115
+"1624","NC","Martin",2872,"73.26%","North Carolina",37117
+"1625","NC","Mecklenburg",2451,"75.30%","North Carolina",37119
+"1626","NC","Mitchell",1689,"77.33%","North Carolina",37121
+"1627","NC","Montgomery",2519,"75.06%","North Carolina",37123
+"1628","NC","Moore",2764,"73.99%","North Carolina",37125
+"1629","NC","Nash",2387,"75.56%","North Carolina",37127
+"1630","NC","New Hanover",1310,"78.30%","North Carolina",37129
+"1631","NC","Northampton",1119,"78.77%","North Carolina",37131
+"1632","NC","Onslow",396,"81.21%","North Carolina",37133
+"1633","NC","Orange",1345,"78.20%","North Carolina",37135
+"1634","NC","Pamlico",719,"79.99%","North Carolina",37137
+"1635","NC","Pasquotank",479,"80.86%","North Carolina",37139
+"1636","NC","Pender",855,"79.56%","North Carolina",37141
+"1637","NC","Perquimans",1220,"78.52%","North Carolina",37143
+"1638","NC","Person",1142,"78.73%","North Carolina",37145
+"1639","NC","Pitt",3090,"69.74%","North Carolina",37147
+"1640","NC","Polk",3020,"71.55%","North Carolina",37149
+"1641","NC","Randolph",1877,"76.88%","North Carolina",37151
+"1642","NC","Richmond",2354,"75.71%","North Carolina",37153
+"1643","NC","Robeson",988,"79.21%","North Carolina",37155
+"1644","NC","Rockingham",650,"80.23%","North Carolina",37157
+"1645","NC","Rowan",1432,"77.96%","North Carolina",37159
+"1646","NC","Rutherford",2905,"73.08%","North Carolina",37161
+"1647","NC","Sampson",1622,"77.48%","North Carolina",37163
+"1648","NC","Scotland",2479,"75.20%","North Carolina",37165
+"1649","NC","Stanly",2344,"75.74%","North Carolina",37167
+"1650","NC","Stokes",868,"79.53%","North Carolina",37169
+"1651","NC","Surry",1154,"78.70%","North Carolina",37171
+"1652","NC","Swain",1266,"78.43%","North Carolina",37173
+"1653","NC","Transylvania",2916,"72.99%","North Carolina",37175
+"1654","NC","Tyrrell",1277,"78.41%","North Carolina",37177
+"1655","NC","Union",2557,"74.95%","North Carolina",37179
+"1656","NC","Vance",1771,"77.13%","North Carolina",37181
+"1657","NC","Wake",2120,"76.30%","North Carolina",37183
+"1658","NC","Warren",1666,"77.39%","North Carolina",37185
+"1659","NC","Washington",2412,"75.44%","North Carolina",37187
+"1660","NC","Watauga",1451,"77.90%","North Carolina",37189
+"1661","NC","Wayne",2625,"74.70%","North Carolina",37191
+"1662","NC","Wilkes",587,"80.41%","North Carolina",37193
+"1663","NC","Wilson",2649,"74.58%","North Carolina",37195
+"1664","NC","Yadkin",341,"81.51%","North Carolina",37197
+"1665","NC","Yancey",1945,"76.69%","North Carolina",37199
+"1666","ND","Adams",616,"80.35%","North Dakota",38001
+"1667","ND","Barnes",711,"80.01%","North Dakota",38003
+"1668","ND","Benson",980,"79.24%","North Dakota",38005
+"1669","ND","Billings",238,"82.10%","North Dakota",38007
+"1670","ND","Bottineau",298,"81.68%","North Dakota",38009
+"1671","ND","Bowman",609,"80.37%","North Dakota",38011
+"1672","ND","Burke",82,"83.54%","North Dakota",38013
+"1673","ND","Burleigh",1134,"78.74%","North Dakota",38015
+"1674","ND","Cass",706,"80.02%","North Dakota",38017
+"1675","ND","Cavalier",378,"81.33%","North Dakota",38019
+"1676","ND","Dickey",430,"81.06%","North Dakota",38021
+"1677","ND","Divide",106,"83.20%","North Dakota",38023
+"1678","ND","Dunn",116,"83.11%","North Dakota",38025
+"1679","ND","Eddy",607,"80.37%","North Dakota",38027
+"1680","ND","Emmons",622,"80.33%","North Dakota",38029
+"1681","ND","Foster",710,"80.01%","North Dakota",38031
+"1682","ND","Golden Valley",236,"82.10%","North Dakota",38033
+"1683","ND","Grand Forks",98,"83.27%","North Dakota",38035
+"1684","ND","Grant",469,"80.91%","North Dakota",38037
+"1685","ND","Griggs",358,"81.42%","North Dakota",38039
+"1686","ND","Hettinger",525,"80.67%","North Dakota",38041
+"1687","ND","Kidder",1292,"78.37%","North Dakota",38043
+"1688","ND","Logan",823,"79.65%","North Dakota",38047
+"1689","ND","Mercer",386,"81.27%","North Dakota",38057
+"1690","ND","Morton",716,"79.99%","North Dakota",38059
+"1691","ND","Mountrail",170,"82.56%","North Dakota",38061
+"1692","ND","Nelson",415,"81.12%","North Dakota",38063
+"1693","ND","Oliver",890,"79.47%","North Dakota",38065
+"1694","ND","Pembina",1020,"79.10%","North Dakota",38067
+"1695","ND","Pierce",1173,"78.65%","North Dakota",38069
+"1696","ND","Ramsey",835,"79.62%","North Dakota",38071
+"1697","ND","Ransom",712,"80.00%","North Dakota",38073
+"1698","ND","Renville",113,"83.14%","North Dakota",38075
+"1699","ND","Richland",989,"79.21%","North Dakota",38077
+"1700","ND","Rolette",380,"81.32%","North Dakota",38079
+"1701","ND","Sargent",522,"80.70%","North Dakota",38081
+"1702","ND","Sheridan",1470,"77.86%","North Dakota",38083
+"1703","ND","Sioux",453,"80.97%","North Dakota",38085
+"1704","ND","Slope",452,"80.99%","North Dakota",38087
+"1705","ND","Stark",301,"81.67%","North Dakota",38089
+"1706","ND","Steele",182,"82.47%","North Dakota",38091
+"1707","ND","Stutsman",1227,"78.50%","North Dakota",38093
+"1708","ND","Towner",500,"80.80%","North Dakota",38095
+"1709","ND","Traill",266,"81.91%","North Dakota",38097
+"1710","ND","Walsh",287,"81.76%","North Dakota",38099
+"1711","ND","Ward",235,"82.10%","North Dakota",38101
+"1712","ND","Wells",1853,"76.94%","North Dakota",38103
+"1713","ND","Williams",48,"84.21%","North Dakota",38105
+"1714","NE","Adams",1270,"78.43%","Nebraska",31001
+"1715","NE","Antelope",942,"79.32%","Nebraska",31003
+"1716","NE","Arthur",1747,"77.20%","Nebraska",31005
+"1717","NE","Banner",1362,"78.16%","Nebraska",31007
+"1718","NE","Blaine",1280,"78.40%","Nebraska",31009
+"1719","NE","Boone",1578,"77.60%","Nebraska",31011
+"1720","NE","Box Butte",935,"79.33%","Nebraska",31013
+"1721","NE","Boyd",1352,"78.18%","Nebraska",31015
+"1722","NE","Brown",665,"80.16%","Nebraska",31017
+"1723","NE","Buffalo",808,"79.70%","Nebraska",31019
+"1724","NE","Burt",1528,"77.72%","Nebraska",31021
+"1725","NE","Butler",2826,"73.58%","Nebraska",31023
+"1726","NE","Cass",684,"80.10%","Nebraska",31025
+"1727","NE","Cedar",1428,"77.97%","Nebraska",31027
+"1728","NE","Chase",117,"83.11%","Nebraska",31029
+"1729","NE","Cherry",122,"83.08%","Nebraska",31031
+"1730","NE","Cheyenne",1421,"78.00%","Nebraska",31033
+"1731","NE","Clay",1009,"79.13%","Nebraska",31035
+"1732","NE","Colfax",2922,"72.91%","Nebraska",31037
+"1733","NE","Cuming",2240,"76.00%","Nebraska",31039
+"1734","NE","Custer",783,"79.80%","Nebraska",31041
+"1735","NE","Dakota",1004,"79.15%","Nebraska",31043
+"1736","NE","Dawes",317,"81.60%","Nebraska",31045
+"1737","NE","Dawson",330,"81.54%","Nebraska",31047
+"1738","NE","Deuel",539,"80.60%","Nebraska",31049
+"1739","NE","Dixon",1516,"77.75%","Nebraska",31051
+"1740","NE","Dodge",2843,"73.46%","Nebraska",31053
+"1741","NE","Douglas",732,"79.96%","Nebraska",31055
+"1742","NE","Dundy",121,"83.10%","Nebraska",31057
+"1743","NE","Fillmore",906,"79.43%","Nebraska",31059
+"1744","NE","Franklin",1546,"77.66%","Nebraska",31061
+"1745","NE","Frontier",319,"81.59%","Nebraska",31063
+"1746","NE","Furnas",1449,"77.91%","Nebraska",31065
+"1747","NE","Gage",439,"81.03%","Nebraska",31067
+"1748","NE","Garden",1577,"77.60%","Nebraska",31069
+"1749","NE","Garfield",1194,"78.59%","Nebraska",31071
+"1750","NE","Gosper",638,"80.28%","Nebraska",31073
+"1751","NE","Grant",1149,"78.71%","Nebraska",31075
+"1752","NE","Greeley",975,"79.24%","Nebraska",31077
+"1753","NE","Hall",1544,"77.66%","Nebraska",31079
+"1754","NE","Hamilton",2262,"75.96%","Nebraska",31081
+"1755","NE","Harlan",1169,"78.67%","Nebraska",31083
+"1756","NE","Hayes",211,"82.26%","Nebraska",31085
+"1757","NE","Hitchcock",278,"81.79%","Nebraska",31087
+"1758","NE","Holt",1483,"77.83%","Nebraska",31089
+"1759","NE","Hooker",760,"79.86%","Nebraska",31091
+"1760","NE","Howard",1650,"77.41%","Nebraska",31093
+"1761","NE","Jefferson",559,"80.52%","Nebraska",31095
+"1762","NE","Johnson",597,"80.39%","Nebraska",31097
+"1763","NE","Kearney",1496,"77.79%","Nebraska",31099
+"1764","NE","Keith",991,"79.20%","Nebraska",31101
+"1765","NE","Keya Paha",277,"81.80%","Nebraska",31103
+"1766","NE","Kimball",1048,"79.03%","Nebraska",31105
+"1767","NE","Knox",1242,"78.48%","Nebraska",31107
+"1768","NE","Lancaster",821,"79.66%","Nebraska",31109
+"1769","NE","Lincoln",508,"80.77%","Nebraska",31111
+"1770","NE","Logan",870,"79.53%","Nebraska",31113
+"1771","NE","Loup",874,"79.52%","Nebraska",31115
+"1772","NE","Madison",1540,"77.68%","Nebraska",31119
+"1773","NE","Merrick",2370,"75.64%","Nebraska",31121
+"1774","NE","Morrill",1584,"77.58%","Nebraska",31123
+"1775","NE","Nance",1836,"76.98%","Nebraska",31125
+"1776","NE","Nemaha",828,"79.65%","Nebraska",31127
+"1777","NE","Nuckolls",1178,"78.64%","Nebraska",31129
+"1778","NE","Otoe",698,"80.05%","Nebraska",31131
+"1779","NE","Pawnee",678,"80.12%","Nebraska",31133
+"1780","NE","Perkins",132,"82.92%","Nebraska",31135
+"1781","NE","Phelps",971,"79.25%","Nebraska",31137
+"1782","NE","Pierce",1013,"79.12%","Nebraska",31139
+"1783","NE","Platte",2542,"74.99%","Nebraska",31141
+"1784","NE","Polk",2477,"75.20%","Nebraska",31143
+"1785","NE","Red Willow",748,"79.91%","Nebraska",31145
+"1786","NE","Richardson",1041,"79.06%","Nebraska",31147
+"1787","NE","Rock",1543,"77.67%","Nebraska",31149
+"1788","NE","Saline",548,"80.55%","Nebraska",31151
+"1789","NE","Sarpy",692,"80.09%","Nebraska",31153
+"1790","NE","Saunders",1760,"77.16%","Nebraska",31155
+"1791","NE","Scotts Bluff",1628,"77.47%","Nebraska",31157
+"1792","NE","Seward",1826,"77.00%","Nebraska",31159
+"1793","NE","Sheridan",357,"81.42%","Nebraska",31161
+"1794","NE","Sherman",1592,"77.54%","Nebraska",31163
+"1795","NE","Sioux",566,"80.49%","Nebraska",31165
+"1796","NE","Stanton",1981,"76.61%","Nebraska",31167
+"1797","NE","Thayer",996,"79.17%","Nebraska",31169
+"1798","NE","Thomas",830,"79.65%","Nebraska",31171
+"1799","NE","Thurston",1325,"78.26%","Nebraska",31173
+"1800","NE","Valley",1365,"78.15%","Nebraska",31175
+"1801","NE","Washington",1433,"77.96%","Nebraska",31177
+"1802","NE","Wayne",1632,"77.46%","Nebraska",31179
+"1803","NE","Webster",1821,"77.00%","Nebraska",31181
+"1804","NE","Wheeler",1177,"78.64%","Nebraska",31183
+"1805","NE","York",1694,"77.31%","Nebraska",31185
+"1806","NH","Belknap",65,"83.76%","New Hampshire",33001
+"1807","NH","Carroll",115,"83.11%","New Hampshire",33003
+"1808","NH","Cheshire",1663,"77.40%","New Hampshire",33005
+"1809","NH","Coos",327,"81.55%","New Hampshire",33007
+"1810","NH","Grafton",202,"82.31%","New Hampshire",33009
+"1811","NH","Hillsborough",140,"82.82%","New Hampshire",33011
+"1812","NH","Merrimack",33,"84.61%","New Hampshire",33013
+"1813","NH","Rockingham",147,"82.76%","New Hampshire",33015
+"1814","NH","Strafford",159,"82.62%","New Hampshire",33017
+"1815","NH","Sullivan",475,"80.88%","New Hampshire",33019
+"1816","NJ","Atlantic",417,"81.11%","New Jersey",34001
+"1817","NJ","Bergen",3114,"67.99%","New Jersey",34003
+"1818","NJ","Burlington",1606,"77.52%","New Jersey",34005
+"1819","NJ","Camden",3072,"70.23%","New Jersey",34007
+"1820","NJ","Cape May",914,"79.40%","New Jersey",34009
+"1821","NJ","Cumberland",2962,"72.50%","New Jersey",34011
+"1822","NJ","Essex",3130,"65.62%","New Jersey",34013
+"1823","NJ","Gloucester",3134,"64.09%","New Jersey",34015
+"1824","NJ","Hudson",3132,"65.46%","New Jersey",34017
+"1825","NJ","Hunterdon",2372,"75.63%","New Jersey",34019
+"1826","NJ","Mercer",2756,"74.06%","New Jersey",34021
+"1827","NJ","Middlesex",2866,"73.29%","New Jersey",34023
+"1828","NJ","Monmouth",2958,"72.53%","New Jersey",34025
+"1829","NJ","Morris",3100,"68.92%","New Jersey",34027
+"1830","NJ","Ocean",2210,"76.07%","New Jersey",34029
+"1831","NJ","Passaic",3081,"70.04%","New Jersey",34031
+"1832","NJ","Salem",3125,"66.66%","New Jersey",34033
+"1833","NJ","Somerset",2847,"73.43%","New Jersey",34035
+"1834","NJ","Sussex",2989,"72.10%","New Jersey",34037
+"1835","NJ","Union",3122,"66.87%","New Jersey",34039
+"1836","NJ","Warren",2028,"76.49%","New Jersey",34041
+"1837","NM","Bernalillo",2588,"74.83%","New Mexico",35001
+"1838","NM","Catron",2267,"75.95%","New Mexico",35003
+"1839","NM","Chaves",2874,"73.26%","New Mexico",35005
+"1840","NM","Cibola",2599,"74.79%","New Mexico",35006
+"1841","NM","Colfax",1403,"78.05%","New Mexico",35007
+"1842","NM","Curry",2868,"73.28%","New Mexico",35009
+"1843","NM","De Baca",2861,"73.33%","New Mexico",35011
+"1844","NM","Eddy",2276,"75.94%","New Mexico",35015
+"1845","NM","Grant",1263,"78.44%","New Mexico",35017
+"1846","NM","Guadalupe",1642,"77.44%","New Mexico",35019
+"1847","NM","Harding",2156,"76.19%","New Mexico",35021
+"1848","NM","Hidalgo",953,"79.30%","New Mexico",35023
+"1849","NM","Lea",2828,"73.57%","New Mexico",35025
+"1850","NM","Lincoln",2891,"73.16%","New Mexico",35027
+"1851","NM","Los Alamos",1320,"78.28%","New Mexico",35028
+"1852","NM","Luna",929,"79.36%","New Mexico",35029
+"1853","NM","Mora",604,"80.38%","New Mexico",35033
+"1854","NM","Otero",2332,"75.78%","New Mexico",35035
+"1855","NM","Quay",1461,"77.89%","New Mexico",35037
+"1856","NM","Rio Arriba",885,"79.48%","New Mexico",35039
+"1857","NM","Roosevelt",2849,"73.42%","New Mexico",35041
+"1858","NM","San Juan",1590,"77.55%","New Mexico",35045
+"1859","NM","San Miguel",956,"79.29%","New Mexico",35047
+"1860","NM","Sandoval",1868,"76.92%","New Mexico",35043
+"1861","NM","Santa Fe",1624,"77.47%","New Mexico",35049
+"1862","NM","Sierra",2024,"76.50%","New Mexico",35051
+"1863","NM","Socorro",2486,"75.17%","New Mexico",35053
+"1864","NM","Taos",841,"79.61%","New Mexico",35055
+"1865","NM","Torrance",2716,"74.29%","New Mexico",35057
+"1866","NM","Union",2110,"76.32%","New Mexico",35059
+"1867","NM","Valencia",2596,"74.80%","New Mexico",35061
+"1868","NV","Churchill",1093,"78.86%","Nevada",32001
+"1869","NV","Clark",1765,"77.15%","Nevada",32003
+"1870","NV","Douglas",1133,"78.74%","Nevada",32005
+"1871","NV","Elko",148,"82.74%","Nevada",32007
+"1872","NV","Esmeralda",662,"80.17%","Nevada",32009
+"1873","NV","Eureka",114,"83.11%","Nevada",32011
+"1874","NV","Humboldt",196,"82.41%","Nevada",32013
+"1875","NV","Lander",126,"83.02%","Nevada",32015
+"1876","NV","Lincoln",2231,"76.02%","Nevada",32017
+"1877","NV","Lyon",1940,"76.71%","Nevada",32019
+"1878","NV","Mineral",1630,"77.47%","Nevada",32021
+"1879","NV","Nye",425,"81.09%","Nevada",32023
+"1880","NV","Pershing",557,"80.53%","Nevada",32027
+"1881","NV","Storey",1712,"77.26%","Nevada",32029
+"1882","NV","Washoe",1443,"77.93%","Nevada",32031
+"1883","NV","White Pine",379,"81.32%","Nevada",32033
+"1884","NY","Albany",2510,"75.09%","New York",36001
+"1885","NY","Allegany",1709,"77.27%","New York",36003
+"1886","NY","Bronx",3113,"68.09%","New York",36005
+"1887","NY","Broome",134,"82.88%","New York",36007
+"1888","NY","Cattaraugus",1929,"76.73%","New York",36009
+"1889","NY","Cayuga",1587,"77.56%","New York",36011
+"1890","NY","Chautauqua",2476,"75.20%","New York",36013
+"1891","NY","Chemung",781,"79.80%","New York",36015
+"1892","NY","Chenango",761,"79.86%","New York",36017
+"1893","NY","Clinton",1948,"76.69%","New York",36019
+"1894","NY","Columbia",2786,"73.89%","New York",36021
+"1895","NY","Cortland",1303,"78.31%","New York",36023
+"1896","NY","Delaware",1061,"78.99%","New York",36025
+"1897","NY","Dutchess",992,"79.20%","New York",36027
+"1898","NY","Erie",933,"79.34%","New York",36029
+"1899","NY","Essex",2393,"75.54%","New York",36031
+"1900","NY","Franklin",3041,"71.18%","New York",36033
+"1901","NY","Fulton",2610,"74.74%","New York",36035
+"1902","NY","Genesee",1946,"76.69%","New York",36037
+"1903","NY","Greene",1355,"78.17%","New York",36039
+"1904","NY","Hamilton",1167,"78.67%","New York",36041
+"1905","NY","Herkimer",1250,"78.46%","New York",36043
+"1906","NY","Jefferson",939,"79.33%","New York",36045
+"1907","NY","Kings",3127,"66.33%","New York",36047
+"1908","NY","Lewis",936,"79.33%","New York",36049
+"1909","NY","Livingston",2457,"75.29%","New York",36051
+"1910","NY","Madison",718,"79.99%","New York",36053
+"1911","NY","Monroe",1467,"77.87%","New York",36055
+"1912","NY","Montgomery",2169,"76.17%","New York",36057
+"1913","NY","Nassau",1599,"77.53%","New York",36059
+"1914","NY","New York",3126,"66.34%","New York",36061
+"1915","NY","Niagara",2637,"74.65%","New York",36063
+"1916","NY","Oneida",787,"79.79%","New York",36065
+"1917","NY","Onondaga",919,"79.39%","New York",36067
+"1918","NY","Ontario",1816,"77.01%","New York",36069
+"1919","NY","Orange",2404,"75.48%","New York",36071
+"1920","NY","Orleans",1667,"77.39%","New York",36073
+"1921","NY","Oswego",2326,"75.80%","New York",36075
+"1922","NY","Otsego",1484,"77.83%","New York",36077
+"1923","NY","Putnam",819,"79.67%","New York",36079
+"1924","NY","Queens",3131,"65.49%","New York",36081
+"1925","NY","Rensselaer",2937,"72.77%","New York",36083
+"1926","NY","Richmond",3110,"68.28%","New York",36085
+"1927","NY","Rockland",2920,"72.95%","New York",36087
+"1928","NY","Saratoga",2755,"74.09%","New York",36091
+"1929","NY","Schenectady",2096,"76.34%","New York",36093
+"1930","NY","Schoharie",1498,"77.78%","New York",36095
+"1931","NY","Schuyler",2239,"76.00%","New York",36097
+"1932","NY","Seneca",1767,"77.14%","New York",36099
+"1933","NY","Steuben",2362,"75.68%","New York",36101
+"1934","NY","Suffolk",74,"83.65%","New York",36103
+"1935","NY","Sullivan",1055,"79.00%","New York",36105
+"1936","NY","Tioga",391,"81.23%","New York",36107
+"1937","NY","Tompkins",1051,"79.02%","New York",36109
+"1938","NY","Ulster",657,"80.20%","New York",36111
+"1939","NY","Warren",2713,"74.30%","New York",36113
+"1940","NY","Washington",2788,"73.86%","New York",36115
+"1941","NY","Wayne",2770,"73.97%","New York",36117
+"1942","NY","Westchester",2358,"75.69%","New York",36119
+"1943","NY","Wyoming",1521,"77.74%","New York",36121
+"1944","NY","Yates",2333,"75.77%","New York",36123
+"1945","OH","Adams",271,"81.88%","Ohio",39001
+"1946","OH","Allen",2044,"76.46%","Ohio",39003
+"1947","OH","Ashland",2396,"75.52%","Ohio",39005
+"1948","OH","Ashtabula",1905,"76.79%","Ohio",39007
+"1949","OH","Athens",247,"82.05%","Ohio",39009
+"1950","OH","Auglaize",1901,"76.81%","Ohio",39011
+"1951","OH","Belmont",528,"80.66%","Ohio",39013
+"1952","OH","Brown",216,"82.23%","Ohio",39015
+"1953","OH","Butler",1631,"77.46%","Ohio",39017
+"1954","OH","Carroll",1582,"77.59%","Ohio",39019
+"1955","OH","Champaign",1509,"77.76%","Ohio",39021
+"1956","OH","Clark",833,"79.63%","Ohio",39023
+"1957","OH","Clermont",472,"80.89%","Ohio",39025
+"1958","OH","Clinton",426,"81.08%","Ohio",39027
+"1959","OH","Columbiana",944,"79.32%","Ohio",39029
+"1960","OH","Coshocton",2145,"76.22%","Ohio",39031
+"1961","OH","Crawford",2877,"73.26%","Ohio",39033
+"1962","OH","Cuyahoga",546,"80.58%","Ohio",39035
+"1963","OH","Darke",1557,"77.63%","Ohio",39037
+"1964","OH","Defiance",1669,"77.38%","Ohio",39039
+"1965","OH","Delaware",2182,"76.15%","Ohio",39041
+"1966","OH","Erie",2527,"75.04%","Ohio",39043
+"1967","OH","Fairfield",1064,"78.97%","Ohio",39045
+"1968","OH","Fayette",593,"80.41%","Ohio",39047
+"1969","OH","Franklin",1633,"77.46%","Ohio",39049
+"1970","OH","Fulton",1890,"76.85%","Ohio",39051
+"1971","OH","Gallia",793,"79.77%","Ohio",39053
+"1972","OH","Geauga",2224,"76.03%","Ohio",39055
+"1973","OH","Greene",643,"80.26%","Ohio",39057
+"1974","OH","Guernsey",661,"80.18%","Ohio",39059
+"1975","OH","Hamilton",1732,"77.23%","Ohio",39061
+"1976","OH","Hancock",2800,"73.73%","Ohio",39063
+"1977","OH","Hardin",2465,"75.24%","Ohio",39065
+"1978","OH","Harrison",618,"80.35%","Ohio",39067
+"1979","OH","Henry",2035,"76.47%","Ohio",39069
+"1980","OH","Highland",449,"81.00%","Ohio",39071
+"1981","OH","Hocking",502,"80.80%","Ohio",39073
+"1982","OH","Holmes",2822,"73.60%","Ohio",39075
+"1983","OH","Huron",2846,"73.44%","Ohio",39077
+"1984","OH","Jackson",703,"80.02%","Ohio",39079
+"1985","OH","Jefferson",384,"81.29%","Ohio",39081
+"1986","OH","Knox",1675,"77.37%","Ohio",39083
+"1987","OH","Lake",486,"80.85%","Ohio",39085
+"1988","OH","Lawrence",356,"81.42%","Ohio",39087
+"1989","OH","Licking",1591,"77.54%","Ohio",39089
+"1990","OH","Logan",2378,"75.60%","Ohio",39091
+"1991","OH","Lorain",1763,"77.15%","Ohio",39093
+"1992","OH","Lucas",1809,"77.03%","Ohio",39095
+"1993","OH","Madison",915,"79.40%","Ohio",39097
+"1994","OH","Mahoning",1132,"78.74%","Ohio",39099
+"1995","OH","Marion",2836,"73.54%","Ohio",39101
+"1996","OH","Medina",1207,"78.55%","Ohio",39103
+"1997","OH","Meigs",323,"81.58%","Ohio",39105
+"1998","OH","Mercer",2102,"76.33%","Ohio",39107
+"1999","OH","Miami",912,"79.41%","Ohio",39109
+"2000","OH","Monroe",371,"81.35%","Ohio",39111
+"2001","OH","Montgomery",1075,"78.93%","Ohio",39113
+"2002","OH","Morgan",309,"81.62%","Ohio",39115
+"2003","OH","Morrow",2304,"75.87%","Ohio",39117
+"2004","OH","Muskingum",952,"79.30%","Ohio",39119
+"2005","OH","Noble",507,"80.77%","Ohio",39121
+"2006","OH","Ottawa",2384,"75.56%","Ohio",39123
+"2007","OH","Paulding",1475,"77.85%","Ohio",39125
+"2008","OH","Perry",605,"80.38%","Ohio",39127
+"2009","OH","Pickaway",889,"79.47%","Ohio",39129
+"2010","OH","Pike",540,"80.60%","Ohio",39131
+"2011","OH","Portage",2212,"76.07%","Ohio",39133
+"2012","OH","Preble",1731,"77.23%","Ohio",39135
+"2013","OH","Putnam",1907,"76.78%","Ohio",39137
+"2014","OH","Richland",2345,"75.74%","Ohio",39139
+"2015","OH","Ross",697,"80.05%","Ohio",39141
+"2016","OH","Sandusky",2706,"74.36%","Ohio",39143
+"2017","OH","Scioto",549,"80.55%","Ohio",39145
+"2018","OH","Seneca",2974,"72.37%","Ohio",39147
+"2019","OH","Shelby",1730,"77.23%","Ohio",39149
+"2020","OH","Stark",2698,"74.38%","Ohio",39151
+"2021","OH","Summit",2411,"75.44%","Ohio",39153
+"2022","OH","Trumbull",1536,"77.69%","Ohio",39155
+"2023","OH","Tuscarawas",2573,"74.89%","Ohio",39157
+"2024","OH","Union",2195,"76.12%","Ohio",39159
+"2025","OH","Van Wert",1278,"78.41%","Ohio",39161
+"2026","OH","Vinton",520,"80.72%","Ohio",39163
+"2027","OH","Warren",655,"80.20%","Ohio",39165
+"2028","OH","Washington",249,"82.04%","Ohio",39167
+"2029","OH","Wayne",2462,"75.26%","Ohio",39169
+"2030","OH","Williams",1260,"78.44%","Ohio",39171
+"2031","OH","Wood",2274,"75.94%","Ohio",39173
+"2032","OH","Wyandot",2769,"73.98%","Ohio",39175
+"2033","OK","Adair",1339,"78.21%","Oklahoma",40001
+"2034","OK","Alfalfa",976,"79.24%","Oklahoma",40003
+"2035","OK","Atoka",2083,"76.37%","Oklahoma",40005
+"2036","OK","Beaver",1356,"78.17%","Oklahoma",40007
+"2037","OK","Beckham",1400,"78.06%","Oklahoma",40009
+"2038","OK","Blaine",1979,"76.61%","Oklahoma",40011
+"2039","OK","Bryan",1975,"76.62%","Oklahoma",40013
+"2040","OK","Caddo",1858,"76.94%","Oklahoma",40015
+"2041","OK","Canadian",2027,"76.49%","Oklahoma",40017
+"2042","OK","Carter",2581,"74.86%","Oklahoma",40019
+"2043","OK","Cherokee",1573,"77.61%","Oklahoma",40021
+"2044","OK","Choctaw",1998,"76.57%","Oklahoma",40023
+"2045","OK","Cimarron",2951,"72.58%","Oklahoma",40025
+"2046","OK","Cleveland",2060,"76.43%","Oklahoma",40027
+"2047","OK","Coal",1974,"76.62%","Oklahoma",40029
+"2048","OK","Comanche",1586,"77.57%","Oklahoma",40031
+"2049","OK","Cotton",1778,"77.11%","Oklahoma",40033
+"2050","OK","Craig",2219,"76.05%","Oklahoma",40035
+"2051","OK","Creek",2301,"75.87%","Oklahoma",40037
+"2052","OK","Custer",1820,"77.01%","Oklahoma",40039
+"2053","OK","Delaware",1870,"76.91%","Oklahoma",40041
+"2054","OK","Dewey",1598,"77.53%","Oklahoma",40043
+"2055","OK","Ellis",1693,"77.31%","Oklahoma",40045
+"2056","OK","Garfield",1601,"77.53%","Oklahoma",40047
+"2057","OK","Garvin",2106,"76.32%","Oklahoma",40049
+"2058","OK","Grady",2025,"76.50%","Oklahoma",40051
+"2059","OK","Grant",569,"80.46%","Oklahoma",40053
+"2060","OK","Greer",1414,"78.02%","Oklahoma",40055
+"2061","OK","Harmon",1054,"79.01%","Oklahoma",40057
+"2062","OK","Harper",1101,"78.84%","Oklahoma",40059
+"2063","OK","Haskell",2246,"75.99%","Oklahoma",40061
+"2064","OK","Hughes",2161,"76.18%","Oklahoma",40063
+"2065","OK","Jackson",1070,"78.94%","Oklahoma",40065
+"2066","OK","Jefferson",2545,"74.99%","Oklahoma",40067
+"2067","OK","Johnston",2253,"75.97%","Oklahoma",40069
+"2068","OK","Kay",926,"79.37%","Oklahoma",40071
+"2069","OK","Kingfisher",1846,"76.95%","Oklahoma",40073
+"2070","OK","Kiowa",1321,"78.28%","Oklahoma",40075
+"2071","OK","Latimer",1829,"76.99%","Oklahoma",40077
+"2072","OK","Le Flore",1832,"76.99%","Oklahoma",40079
+"2073","OK","Lincoln",2373,"75.63%","Oklahoma",40081
+"2074","OK","Logan",1967,"76.64%","Oklahoma",40083
+"2075","OK","Love",2330,"75.79%","Oklahoma",40085
+"2076","OK","Major",1597,"77.53%","Oklahoma",40093
+"2077","OK","Marshall",2347,"75.73%","Oklahoma",40095
+"2078","OK","Mayes",1515,"77.75%","Oklahoma",40097
+"2079","OK","Murray",2071,"76.40%","Oklahoma",40099
+"2080","OK","Muskogee",2168,"76.17%","Oklahoma",40101
+"2081","OK","Noble",1566,"77.61%","Oklahoma",40103
+"2082","OK","Nowata",2204,"76.09%","Oklahoma",40105
+"2083","OK","Okfuskee",2029,"76.49%","Oklahoma",40107
+"2084","OK","Oklahoma",1961,"76.65%","Oklahoma",40109
+"2085","OK","Okmulgee",1925,"76.74%","Oklahoma",40111
+"2086","OK","Osage",1439,"77.93%","Oklahoma",40113
+"2087","OK","Ottawa",2568,"74.91%","Oklahoma",40115
+"2088","OK","Pawnee",2107,"76.32%","Oklahoma",40117
+"2089","OK","Payne",2183,"76.14%","Oklahoma",40119
+"2090","OK","Pittsburg",1547,"77.65%","Oklahoma",40121
+"2091","OK","Pontotoc",2271,"75.94%","Oklahoma",40123
+"2092","OK","Pottawatomie",2356,"75.70%","Oklahoma",40125
+"2093","OK","Pushmataha",1681,"77.35%","Oklahoma",40127
+"2094","OK","Roger Mills",1156,"78.69%","Oklahoma",40129
+"2095","OK","Rogers",1726,"77.24%","Oklahoma",40131
+"2096","OK","Seminole",2177,"76.15%","Oklahoma",40133
+"2097","OK","Sequoyah",1849,"76.95%","Oklahoma",40135
+"2098","OK","Stephens",2171,"76.17%","Oklahoma",40137
+"2099","OK","Texas",2097,"76.34%","Oklahoma",40139
+"2100","OK","Tillman",1047,"79.04%","Oklahoma",40141
+"2101","OK","Tulsa",1953,"76.68%","Oklahoma",40143
+"2102","OK","Wagoner",1843,"76.96%","Oklahoma",40145
+"2103","OK","Washington",1912,"76.78%","Oklahoma",40147
+"2104","OK","Washita",1507,"77.76%","Oklahoma",40149
+"2105","OK","Woods",1168,"78.67%","Oklahoma",40151
+"2106","OK","Woodward",1153,"78.70%","Oklahoma",40153
+"2107","OR","Baker",161,"82.60%","Oregon",41001
+"2108","OR","Benton",485,"80.85%","Oregon",41003
+"2109","OR","Clackamas",1872,"76.90%","Oregon",41005
+"2110","OR","Clatsop",255,"81.97%","Oregon",41007
+"2111","OR","Columbia",832,"79.64%","Oregon",41009
+"2112","OR","Coos",180,"82.50%","Oregon",41011
+"2113","OR","Crook",1146,"78.72%","Oregon",41013
+"2114","OR","Curry",3,"86.62%","Oregon",41015
+"2115","OR","Deschutes",1076,"78.93%","Oregon",41017
+"2116","OR","Douglas",158,"82.62%","Oregon",41019
+"2117","OR","Gilliam",967,"79.26%","Oregon",41021
+"2118","OR","Grant",1741,"77.21%","Oregon",41023
+"2119","OR","Harney",1418,"78.01%","Oregon",41025
+"2120","OR","Hood River",2423,"75.40%","Oregon",41027
+"2121","OR","Jackson",197,"82.41%","Oregon",41029
+"2122","OR","Jefferson",627,"80.31%","Oregon",41031
+"2123","OR","Josephine",226,"82.16%","Oregon",41033
+"2124","OR","Klamath",306,"81.64%","Oregon",41035
+"2125","OR","Lake",1092,"78.87%","Oregon",41037
+"2126","OR","Lane",102,"83.22%","Oregon",41039
+"2127","OR","Lincoln",112,"83.14%","Oregon",41041
+"2128","OR","Linn",491,"80.82%","Oregon",41043
+"2129","OR","Malheur",554,"80.53%","Oregon",41045
+"2130","OR","Marion",897,"79.46%","Oregon",41047
+"2131","OR","Morrow",1301,"78.32%","Oregon",41049
+"2132","OR","Multnomah",2518,"75.07%","Oregon",41051
+"2133","OR","Polk",701,"80.04%","Oregon",41053
+"2134","OR","Sherman",836,"79.61%","Oregon",41055
+"2135","OR","Tillamook",137,"82.84%","Oregon",41057
+"2136","OR","Umatilla",858,"79.55%","Oregon",41059
+"2137","OR","Union",99,"83.27%","Oregon",41061
+"2138","OR","Wallowa",76,"83.63%","Oregon",41063
+"2139","OR","Wasco",1463,"77.89%","Oregon",41065
+"2140","OR","Washington",2768,"73.99%","Oregon",41067
+"2141","OR","Wheeler",1255,"78.46%","Oregon",41069
+"2142","OR","Yamhill",2666,"74.52%","Oregon",41071
+"2143","PA","Adams",675,"80.13%","Pennsylvania",42001
+"2144","PA","Allegheny",705,"80.02%","Pennsylvania",42003
+"2145","PA","Armstrong",490,"80.82%","Pennsylvania",42005
+"2146","PA","Beaver",680,"80.11%","Pennsylvania",42007
+"2147","PA","Bedford",1158,"78.69%","Pennsylvania",42009
+"2148","PA","Berks",1733,"77.22%","Pennsylvania",42011
+"2149","PA","Blair",1392,"78.07%","Pennsylvania",42013
+"2150","PA","Bradford",214,"82.24%","Pennsylvania",42015
+"2151","PA","Bucks",2675,"74.48%","Pennsylvania",42017
+"2152","PA","Butler",995,"79.18%","Pennsylvania",42019
+"2153","PA","Cambria",1237,"78.49%","Pennsylvania",42021
+"2154","PA","Cameron",1946,"76.69%","Pennsylvania",42023
+"2155","PA","Carbon",250,"82.04%","Pennsylvania",42025
+"2156","PA","Centre",1623,"77.48%","Pennsylvania",42027
+"2157","PA","Chester",2834,"73.55%","Pennsylvania",42029
+"2158","PA","Clarion",1164,"78.67%","Pennsylvania",42031
+"2159","PA","Clearfield",1661,"77.40%","Pennsylvania",42033
+"2160","PA","Clinton",1419,"78.00%","Pennsylvania",42035
+"2161","PA","Columbia",69,"83.72%","Pennsylvania",42037
+"2162","PA","Crawford",863,"79.54%","Pennsylvania",42039
+"2163","PA","Cumberland",438,"81.03%","Pennsylvania",42041
+"2164","PA","Dauphin",610,"80.37%","Pennsylvania",42043
+"2165","PA","Delaware",3105,"68.44%","Pennsylvania",42045
+"2166","PA","Elk",2185,"76.14%","Pennsylvania",42047
+"2167","PA","Erie",1029,"79.09%","Pennsylvania",42049
+"2168","PA","Fayette",2010,"76.53%","Pennsylvania",42051
+"2169","PA","Forest",1926,"76.73%","Pennsylvania",42053
+"2170","PA","Franklin",1192,"78.60%","Pennsylvania",42055
+"2171","PA","Fulton",1827,"77.00%","Pennsylvania",42057
+"2172","PA","Greene",1010,"79.13%","Pennsylvania",42059
+"2173","PA","Huntingdon",1404,"78.05%","Pennsylvania",42061
+"2174","PA","Indiana",932,"79.34%","Pennsylvania",42063
+"2175","PA","Jefferson",2063,"76.42%","Pennsylvania",42065
+"2176","PA","Juniata",934,"79.33%","Pennsylvania",42067
+"2177","PA","Lackawanna",296,"81.69%","Pennsylvania",42069
+"2178","PA","Lancaster",2381,"75.58%","Pennsylvania",42071
+"2179","PA","Lawrence",409,"81.14%","Pennsylvania",42073
+"2180","PA","Lebanon",1251,"78.46%","Pennsylvania",42075
+"2181","PA","Lehigh",1104,"78.84%","Pennsylvania",42077
+"2182","PA","Luzerne",118,"83.11%","Pennsylvania",42079
+"2183","PA","Lycoming",261,"81.93%","Pennsylvania",42081
+"2184","PA","Mercer",360,"81.40%","Pennsylvania",42085
+"2185","PA","Mifflin",1415,"78.02%","Pennsylvania",42087
+"2186","PA","Monroe",688,"80.10%","Pennsylvania",42089
+"2187","PA","Montgomery",2780,"73.93%","Pennsylvania",42091
+"2188","PA","Montour",152,"82.70%","Pennsylvania",42093
+"2189","PA","Northampton",1023,"79.09%","Pennsylvania",42095
+"2190","PA","Northumberland",189,"82.43%","Pennsylvania",42097
+"2191","PA","Perry",601,"80.39%","Pennsylvania",42099
+"2192","PA","Philadelphia",3066,"70.37%","Pennsylvania",42101
+"2193","PA","Pike",1713,"77.26%","Pennsylvania",42103
+"2194","PA","Potter",2681,"74.47%","Pennsylvania",42105
+"2195","PA","Schuylkill",307,"81.64%","Pennsylvania",42107
+"2196","PA","Snyder",454,"80.97%","Pennsylvania",42109
+"2197","PA","Somerset",1524,"77.73%","Pennsylvania",42111
+"2198","PA","Sullivan",62,"83.88%","Pennsylvania",42113
+"2199","PA","Susquehanna",163,"82.60%","Pennsylvania",42115
+"2200","PA","Tioga",900,"79.46%","Pennsylvania",42117
+"2201","PA","Union",733,"79.96%","Pennsylvania",42119
+"2202","PA","Venango",516,"80.73%","Pennsylvania",42121
+"2203","PA","Warren",2184,"76.14%","Pennsylvania",42123
+"2204","PA","Washington",796,"79.76%","Pennsylvania",42125
+"2205","PA","Wayne",401,"81.17%","Pennsylvania",42127
+"2206","PA","Westmoreland",1305,"78.31%","Pennsylvania",42129
+"2207","PA","Wyoming",75,"83.64%","Pennsylvania",42131
+"2208","PA","York",1044,"79.04%","Pennsylvania",42133
+"2209","RI","Bristol",2126,"76.27%","Rhode Island",44001
+"2210","RI","Kent",1375,"78.12%","Rhode Island",44003
+"2211","RI","Newport",2775,"73.96%","Rhode Island",44005
+"2212","RI","Providence",1900,"76.81%","Rhode Island",44007
+"2213","RI","Washington",442,"81.01%","Rhode Island",44009
+"2214","SC","Abbeville",3027,"71.42%","South Carolina",45001
+"2215","SC","Aiken",1603,"77.53%","South Carolina",45003
+"2216","SC","Allendale",2318,"75.84%","South Carolina",45005
+"2217","SC","Anderson",3096,"69.44%","South Carolina",45007
+"2218","SC","Bamberg",1240,"78.49%","South Carolina",45009
+"2219","SC","Barnwell",1445,"77.92%","South Carolina",45011
+"2220","SC","Beaufort",1354,"78.17%","South Carolina",45013
+"2221","SC","Berkeley",2982,"72.18%","South Carolina",45015
+"2222","SC","Calhoun",1019,"79.10%","South Carolina",45017
+"2223","SC","Charleston",3065,"70.39%","South Carolina",45019
+"2224","SC","Cherokee",2936,"72.77%","South Carolina",45021
+"2225","SC","Chester",2893,"73.15%","South Carolina",45023
+"2226","SC","Chesterfield",2289,"75.89%","South Carolina",45025
+"2227","SC","Clarendon",745,"79.92%","South Carolina",45027
+"2228","SC","Colleton",2686,"74.45%","South Carolina",45029
+"2229","SC","Darlington",2241,"76.00%","South Carolina",45031
+"2230","SC","Dillon",1206,"78.56%","South Carolina",45033
+"2231","SC","Dorchester",2993,"72.00%","South Carolina",45035
+"2232","SC","Edgefield",1637,"77.45%","South Carolina",45037
+"2233","SC","Fairfield",2425,"75.40%","South Carolina",45039
+"2234","SC","Florence",2292,"75.89%","South Carolina",45041
+"2235","SC","Georgetown",349,"81.47%","South Carolina",45043
+"2236","SC","Greenville",3101,"68.86%","South Carolina",45045
+"2237","SC","Greenwood",2824,"73.59%","South Carolina",45047
+"2238","SC","Hampton",2640,"74.63%","South Carolina",45049
+"2239","SC","Horry",880,"79.50%","South Carolina",45051
+"2240","SC","Jasper",3071,"70.25%","South Carolina",45053
+"2241","SC","Kershaw",1537,"77.69%","South Carolina",45055
+"2242","SC","Lancaster",2804,"73.69%","South Carolina",45057
+"2243","SC","Laurens",3085,"69.92%","South Carolina",45059
+"2244","SC","Lee",1200,"78.56%","South Carolina",45061
+"2245","SC","Lexington",1552,"77.64%","South Carolina",45063
+"2246","SC","Marion",2286,"75.90%","South Carolina",45067
+"2247","SC","Marlboro",1780,"77.11%","South Carolina",45069
+"2248","SC","Newberry",2708,"74.34%","South Carolina",45071
+"2249","SC","Oconee",2946,"72.64%","South Carolina",45073
+"2250","SC","Orangeburg",1378,"78.11%","South Carolina",45075
+"2251","SC","Pickens",3074,"70.19%","South Carolina",45077
+"2252","SC","Richland",1779,"77.11%","South Carolina",45079
+"2253","SC","Saluda",1738,"77.22%","South Carolina",45081
+"2254","SC","Spartanburg",3084,"69.95%","South Carolina",45083
+"2255","SC","Sumter",901,"79.45%","South Carolina",45085
+"2256","SC","Union",3046,"71.10%","South Carolina",45087
+"2257","SC","Williamsburg",654,"80.20%","South Carolina",45089
+"2258","SC","York",2691,"74.41%","South Carolina",45091
+"2259","SD","Aurora",647,"80.23%","South Dakota",46003
+"2260","SD","Beadle",387,"81.26%","South Dakota",46005
+"2261","SD","Bennett",15,"85.42%","South Dakota",46007
+"2262","SD","Bon Homme",994,"79.19%","South Dakota",46009
+"2263","SD","Brookings",549,"80.55%","South Dakota",46011
+"2264","SD","Brown",270,"81.90%","South Dakota",46013
+"2265","SD","Brule",431,"81.05%","South Dakota",46015
+"2266","SD","Buffalo",337,"81.52%","South Dakota",46017
+"2267","SD","Butte",784,"79.80%","South Dakota",46019
+"2268","SD","Campbell",478,"80.87%","South Dakota",46021
+"2269","SD","Charles Mix",1053,"79.01%","South Dakota",46023
+"2270","SD","Clark",435,"81.04%","South Dakota",46025
+"2271","SD","Clay",917,"79.39%","South Dakota",46027
+"2272","SD","Codington",666,"80.15%","South Dakota",46029
+"2273","SD","Corson",589,"80.41%","South Dakota",46031
+"2274","SD","Custer",335,"81.52%","South Dakota",46033
+"2275","SD","Davison",1454,"77.90%","South Dakota",46035
+"2276","SD","Day",726,"79.98%","South Dakota",46037
+"2277","SD","Deuel",791,"79.77%","South Dakota",46039
+"2278","SD","Dewey",521,"80.71%","South Dakota",46041
+"2279","SD","Douglas",1313,"78.29%","South Dakota",46043
+"2280","SD","Edmunds",178,"82.51%","South Dakota",46045
+"2281","SD","Fall River",188,"82.44%","South Dakota",46047
+"2282","SD","Faulk",286,"81.76%","South Dakota",46049
+"2283","SD","Grant",702,"80.03%","South Dakota",46051
+"2284","SD","Gregory",759,"79.87%","South Dakota",46053
+"2285","SD","Haakon",263,"81.92%","South Dakota",46055
+"2286","SD","Hamlin",782,"79.80%","South Dakota",46057
+"2287","SD","Hand",199,"82.34%","South Dakota",46059
+"2288","SD","Hanson",1216,"78.52%","South Dakota",46061
+"2289","SD","Harding",1202,"78.56%","South Dakota",46063
+"2290","SD","Hughes",612,"80.36%","South Dakota",46065
+"2291","SD","Hutchinson",1243,"78.48%","South Dakota",46067
+"2292","SD","Hyde",220,"82.21%","South Dakota",46069
+"2293","SD","Jackson",26,"85.01%","South Dakota",46071
+"2294","SD","Jerauld",293,"81.70%","South Dakota",46073
+"2295","SD","Jones",67,"83.74%","South Dakota",46075
+"2296","SD","Kingsbury",1007,"79.14%","South Dakota",46077
+"2297","SD","Lake",794,"79.76%","South Dakota",46079
+"2298","SD","Lawrence",496,"80.81%","South Dakota",46081
+"2299","SD","Lincoln",918,"79.39%","South Dakota",46083
+"2300","SD","Lyman",326,"81.55%","South Dakota",46085
+"2301","SD","Marshall",907,"79.43%","South Dakota",46091
+"2302","SD","Meade",608,"80.37%","South Dakota",46093
+"2303","SD","Mellette",12,"85.57%","South Dakota",46095
+"2304","SD","Miner",1123,"78.76%","South Dakota",46097
+"2305","SD","Minnehaha",876,"79.51%","South Dakota",46099
+"2306","SD","Moody",714,"80.00%","South Dakota",46101
+"2307","SD","Pennington",683,"80.11%","South Dakota",46103
+"2308","SD","Perkins",1108,"78.83%","South Dakota",46105
+"2309","SD","Potter",623,"80.32%","South Dakota",46107
+"2310","SD","Roberts",708,"80.02%","South Dakota",46109
+"2311","SD","Sanborn",811,"79.69%","South Dakota",46111
+"2312","SD","Spink",332,"81.53%","South Dakota",46115
+"2313","SD","Stanley",325,"81.58%","South Dakota",46117
+"2314","SD","Sully",648,"80.23%","South Dakota",46119
+"2315","SD","Todd",46,"84.27%","South Dakota",46121
+"2316","SD","Tripp",320,"81.59%","South Dakota",46123
+"2317","SD","Turner",1057,"79.00%","South Dakota",46125
+"2318","SD","Union",534,"80.63%","South Dakota",46127
+"2319","SD","Walworth",429,"81.06%","South Dakota",46129
+"2320","SD","Yankton",1091,"78.87%","South Dakota",46135
+"2321","SD","Ziebach",465,"80.93%","South Dakota",46137
+"2322","TN","Anderson",2480,"75.20%","Tennessee",47001
+"2323","TN","Bedford",3019,"71.58%","Tennessee",47003
+"2324","TN","Benton",2165,"76.17%","Tennessee",47005
+"2325","TN","Bledsoe",1290,"78.37%","Tennessee",47007
+"2326","TN","Blount",1672,"77.38%","Tennessee",47009
+"2327","TN","Bradley",2066,"76.42%","Tennessee",47011
+"2328","TN","Campbell",2798,"73.76%","Tennessee",47013
+"2329","TN","Cannon",2643,"74.60%","Tennessee",47015
+"2330","TN","Carroll",2580,"74.87%","Tennessee",47017
+"2331","TN","Carter",1758,"77.17%","Tennessee",47019
+"2332","TN","Cheatham",2888,"73.17%","Tennessee",47021
+"2333","TN","Chester",2521,"75.05%","Tennessee",47023
+"2334","TN","Claiborne",2357,"75.70%","Tennessee",47025
+"2335","TN","Clay",3095,"69.69%","Tennessee",47027
+"2336","TN","Cocke",1962,"76.65%","Tennessee",47029
+"2337","TN","Coffee",2887,"73.18%","Tennessee",47031
+"2338","TN","Crockett",2230,"76.02%","Tennessee",47033
+"2339","TN","Cumberland",1576,"77.60%","Tennessee",47035
+"2340","TN","Davidson",3070,"70.27%","Tennessee",47037
+"2341","TN","Decatur",1992,"76.58%","Tennessee",47039
+"2342","TN","Dickson",2676,"74.48%","Tennessee",47043
+"2343","TN","Dyer",1644,"77.44%","Tennessee",47045
+"2344","TN","Fayette",1364,"78.15%","Tennessee",47047
+"2345","TN","Fentress",3015,"71.70%","Tennessee",47049
+"2346","TN","Franklin",2867,"73.28%","Tennessee",47051
+"2347","TN","Gibson",2612,"74.74%","Tennessee",47053
+"2348","TN","Giles",2940,"72.71%","Tennessee",47055
+"2349","TN","Grainger",1813,"77.02%","Tennessee",47057
+"2350","TN","Greene",2513,"75.08%","Tennessee",47059
+"2351","TN","Grundy",2398,"75.52%","Tennessee",47061
+"2352","TN","Hamblen",1754,"77.18%","Tennessee",47063
+"2353","TN","Hamilton",2287,"75.90%","Tennessee",47065
+"2354","TN","Hancock",2408,"75.45%","Tennessee",47067
+"2355","TN","Hardeman",1535,"77.69%","Tennessee",47069
+"2356","TN","Hardin",2201,"76.09%","Tennessee",47071
+"2357","TN","Hawkins",2689,"74.43%","Tennessee",47073
+"2358","TN","Haywood",1665,"77.40%","Tennessee",47075
+"2359","TN","Henderson",2449,"75.30%","Tennessee",47077
+"2360","TN","Henry",2467,"75.23%","Tennessee",47079
+"2361","TN","Hickman",1903,"76.81%","Tennessee",47081
+"2362","TN","Houston",2222,"76.05%","Tennessee",47083
+"2363","TN","Humphreys",2050,"76.45%","Tennessee",47085
+"2364","TN","Jackson",2998,"71.93%","Tennessee",47087
+"2365","TN","Jefferson",1917,"76.75%","Tennessee",47089
+"2366","TN","Johnson",1379,"78.11%","Tennessee",47091
+"2367","TN","Knox",2069,"76.41%","Tennessee",47093
+"2368","TN","Lake",1823,"77.00%","Tennessee",47095
+"2369","TN","Lauderdale",985,"79.22%","Tennessee",47097
+"2370","TN","Lawrence",2732,"74.23%","Tennessee",47099
+"2371","TN","Lewis",2313,"75.84%","Tennessee",47101
+"2372","TN","Lincoln",2904,"73.09%","Tennessee",47103
+"2373","TN","Loudon",1717,"77.26%","Tennessee",47105
+"2374","TN","Macon",3078,"70.07%","Tennessee",47111
+"2375","TN","Madison",2604,"74.77%","Tennessee",47113
+"2376","TN","Marion",2352,"75.71%","Tennessee",47115
+"2377","TN","Marshall",3016,"71.66%","Tennessee",47117
+"2378","TN","Maury",2966,"72.42%","Tennessee",47119
+"2379","TN","Meigs",1388,"78.08%","Tennessee",47121
+"2380","TN","Monroe",1394,"78.07%","Tennessee",47123
+"2381","TN","Montgomery",2728,"74.25%","Tennessee",47125
+"2382","TN","Moore",2990,"72.06%","Tennessee",47127
+"2383","TN","Morgan",2621,"74.71%","Tennessee",47129
+"2384","TN","Obion",2553,"74.96%","Tennessee",47131
+"2385","TN","Overton",2950,"72.58%","Tennessee",47133
+"2386","TN","Perry",1807,"77.03%","Tennessee",47135
+"2387","TN","Pickett",3092,"69.74%","Tennessee",47137
+"2388","TN","Polk",2498,"75.14%","Tennessee",47139
+"2389","TN","Putnam",2623,"74.71%","Tennessee",47141
+"2390","TN","Rhea",1136,"78.73%","Tennessee",47143
+"2391","TN","Roane",2131,"76.25%","Tennessee",47145
+"2392","TN","Robertson",2992,"72.00%","Tennessee",47147
+"2393","TN","Rutherford",2979,"72.23%","Tennessee",47149
+"2394","TN","Scott",2870,"73.27%","Tennessee",47151
+"2395","TN","Sequatchie",1562,"77.63%","Tennessee",47153
+"2396","TN","Sevier",1276,"78.41%","Tennessee",47155
+"2397","TN","Shelby",913,"79.41%","Tennessee",47157
+"2398","TN","Smith",2928,"72.81%","Tennessee",47159
+"2399","TN","Stewart",1796,"77.05%","Tennessee",47161
+"2400","TN","Sullivan",2243,"76.00%","Tennessee",47163
+"2401","TN","Sumner",3062,"70.47%","Tennessee",47165
+"2402","TN","Tipton",765,"79.86%","Tennessee",47167
+"2403","TN","Trousdale",3080,"70.05%","Tennessee",47169
+"2404","TN","Unicoi",2382,"75.58%","Tennessee",47171
+"2405","TN","Union",2579,"74.87%","Tennessee",47173
+"2406","TN","Van Buren",2320,"75.84%","Tennessee",47175
+"2407","TN","Warren",2380,"75.58%","Tennessee",47177
+"2408","TN","Washington",2136,"76.24%","Tennessee",47179
+"2409","TN","Wayne",2059,"76.43%","Tennessee",47181
+"2410","TN","Weakley",2703,"74.36%","Tennessee",47183
+"2411","TN","White",2058,"76.43%","Tennessee",47185
+"2412","TN","Williamson",3043,"71.14%","Tennessee",47187
+"2413","TN","Wilson",2927,"72.82%","Tennessee",47189
+"2414","TX","Anderson",1727,"77.24%","Texas",48001
+"2415","TX","Andrews",2511,"75.09%","Texas",48003
+"2416","TX","Angelina",2190,"76.13%","Texas",48005
+"2417","TX","Aransas",802,"79.72%","Texas",48007
+"2418","TX","Archer",891,"79.46%","Texas",48009
+"2419","TX","Armstrong",1867,"76.92%","Texas",48011
+"2420","TX","Atascosa",2074,"76.39%","Texas",48013
+"2421","TX","Austin",2896,"73.14%","Texas",48015
+"2422","TX","Bailey",2760,"74.04%","Texas",48017
+"2423","TX","Bandera",1983,"76.59%","Texas",48019
+"2424","TX","Bastrop",1736,"77.22%","Texas",48021
+"2425","TX","Baylor",598,"80.39%","Texas",48023
+"2426","TX","Bee",1936,"76.72%","Texas",48025
+"2427","TX","Bell",2416,"75.42%","Texas",48027
+"2428","TX","Bexar",1615,"77.50%","Texas",48029
+"2429","TX","Blanco",1840,"76.96%","Texas",48031
+"2430","TX","Borden",1369,"78.14%","Texas",48033
+"2431","TX","Bosque",2329,"75.79%","Texas",48035
+"2432","TX","Bowie",2959,"72.52%","Texas",48037
+"2433","TX","Brazoria",595,"80.40%","Texas",48039
+"2434","TX","Brazos",2955,"72.54%","Texas",48041
+"2435","TX","Brewster",1810,"77.02%","Texas",48043
+"2436","TX","Briscoe",1942,"76.70%","Texas",48045
+"2437","TX","Brooks",377,"81.33%","Texas",48047
+"2438","TX","Brown",2389,"75.56%","Texas",48049
+"2439","TX","Burleson",2690,"74.43%","Texas",48051
+"2440","TX","Burnet",2630,"74.68%","Texas",48053
+"2441","TX","Caldwell",1534,"77.70%","Texas",48055
+"2442","TX","Calhoun",1499,"77.78%","Texas",48057
+"2443","TX","Callahan",1402,"78.05%","Texas",48059
+"2444","TX","Cameron",209,"82.28%","Texas",48061
+"2445","TX","Camp",2191,"76.12%","Texas",48063
+"2446","TX","Carson",1750,"77.20%","Texas",48065
+"2447","TX","Cass",2782,"73.92%","Texas",48067
+"2448","TX","Castro",2808,"73.67%","Texas",48069
+"2449","TX","Chambers",1529,"77.72%","Texas",48071
+"2450","TX","Cherokee",2202,"76.09%","Texas",48073
+"2451","TX","Childress",1039,"79.06%","Texas",48075
+"2452","TX","Clay",1401,"78.05%","Texas",48077
+"2453","TX","Cochran",2781,"73.92%","Texas",48079
+"2454","TX","Coke",1605,"77.52%","Texas",48081
+"2455","TX","Coleman",2001,"76.56%","Texas",48083
+"2456","TX","Collin",1745,"77.21%","Texas",48085
+"2457","TX","Collingsworth",899,"79.46%","Texas",48087
+"2458","TX","Colorado",2309,"75.85%","Texas",48089
+"2459","TX","Comal",1472,"77.86%","Texas",48091
+"2460","TX","Comanche",1805,"77.03%","Texas",48093
+"2461","TX","Concho",2299,"75.88%","Texas",48095
+"2462","TX","Cooke",1915,"76.77%","Texas",48097
+"2463","TX","Coryell",2341,"75.74%","Texas",48099
+"2464","TX","Cottle",1148,"78.71%","Texas",48101
+"2465","TX","Crane",1710,"77.27%","Texas",48103
+"2466","TX","Crockett",2055,"76.44%","Texas",48105
+"2467","TX","Crosby",1617,"77.49%","Texas",48107
+"2468","TX","Culberson",2018,"76.52%","Texas",48109
+"2469","TX","Dallam",2367,"75.65%","Texas",48111
+"2470","TX","Dallas",1316,"78.29%","Texas",48113
+"2471","TX","Dawson",1959,"76.65%","Texas",48115
+"2472","TX","Deaf Smith",2178,"76.15%","Texas",48117
+"2473","TX","Delta",2128,"76.26%","Texas",48119
+"2474","TX","Denton",1411,"78.03%","Texas",48121
+"2475","TX","Dickens",780,"79.81%","Texas",48125
+"2476","TX","Dimmit",2322,"75.83%","Texas",48127
+"2477","TX","Donley",1510,"77.76%","Texas",48129
+"2478","TX","Duval",1333,"78.24%","Texas",48131
+"2479","TX","Eastland",1677,"77.37%","Texas",48133
+"2480","TX","Ector",1902,"76.81%","Texas",48135
+"2481","TX","Edwards",2537,"75.02%","Texas",48137
+"2482","TX","El Paso",1395,"78.07%","Texas",48141
+"2483","TX","Ellis",1711,"77.27%","Texas",48139
+"2484","TX","Erath",1262,"78.44%","Texas",48143
+"2485","TX","Falls",2633,"74.67%","Texas",48145
+"2486","TX","Fannin",1716,"77.26%","Texas",48147
+"2487","TX","Fayette",1863,"76.93%","Texas",48149
+"2488","TX","Fisher",644,"80.24%","Texas",48151
+"2489","TX","Floyd",1950,"76.69%","Texas",48153
+"2490","TX","Foard",1163,"78.68%","Texas",48155
+"2491","TX","Fort Bend",2889,"73.17%","Texas",48157
+"2492","TX","Franklin",1898,"76.82%","Texas",48159
+"2493","TX","Freestone",2154,"76.20%","Texas",48161
+"2494","TX","Frio",2474,"75.21%","Texas",48163
+"2495","TX","Gaines",2721,"74.27%","Texas",48165
+"2496","TX","Galveston",1655,"77.41%","Texas",48167
+"2497","TX","Garza",1555,"77.64%","Texas",48169
+"2498","TX","Gillespie",2683,"74.46%","Texas",48171
+"2499","TX","Glasscock",1430,"77.97%","Texas",48173
+"2500","TX","Goliad",524,"80.68%","Texas",48175
+"2501","TX","Gonzales",1094,"78.86%","Texas",48177
+"2502","TX","Gray",1513,"77.76%","Texas",48179
+"2503","TX","Grayson",2167,"76.17%","Texas",48181
+"2504","TX","Gregg",1952,"76.68%","Texas",48183
+"2505","TX","Grimes",2952,"72.57%","Texas",48185
+"2506","TX","Guadalupe",1081,"78.90%","Texas",48187
+"2507","TX","Hale",2419,"75.42%","Texas",48189
+"2508","TX","Hall",1155,"78.70%","Texas",48191
+"2509","TX","Hamilton",2363,"75.67%","Texas",48193
+"2510","TX","Hansford",2094,"76.35%","Texas",48195
+"2511","TX","Hardeman",1195,"78.59%","Texas",48197
+"2512","TX","Hardin",1988,"76.59%","Texas",48199
+"2513","TX","Harris",2752,"74.11%","Texas",48201
+"2514","TX","Harrison",2218,"76.06%","Texas",48203
+"2515","TX","Hartley",1913,"76.77%","Texas",48205
+"2516","TX","Haskell",405,"81.16%","Texas",48207
+"2517","TX","Hays",1322,"78.27%","Texas",48209
+"2518","TX","Hemphill",1464,"77.88%","Texas",48211
+"2519","TX","Henderson",827,"79.65%","Texas",48213
+"2520","TX","Hidalgo",403,"81.16%","Texas",48215
+"2521","TX","Hill",2104,"76.33%","Texas",48217
+"2522","TX","Hockley",2499,"75.14%","Texas",48219
+"2523","TX","Hood",1269,"78.43%","Texas",48221
+"2524","TX","Hopkins",1781,"77.11%","Texas",48223
+"2525","TX","Houston",2522,"75.05%","Texas",48225
+"2526","TX","Howard",1385,"78.08%","Texas",48227
+"2527","TX","Hudspeth",2125,"76.28%","Texas",48229
+"2528","TX","Hunt",1396,"78.06%","Texas",48231
+"2529","TX","Hutchinson",1888,"76.85%","Texas",48233
+"2530","TX","Irion",1879,"76.88%","Texas",48235
+"2531","TX","Jack",974,"79.24%","Texas",48237
+"2532","TX","Jackson",602,"80.39%","Texas",48239
+"2533","TX","Jasper",2744,"74.16%","Texas",48241
+"2534","TX","Jeff Davis",1881,"76.87%","Texas",48243
+"2535","TX","Jefferson",1106,"78.83%","Texas",48245
+"2536","TX","Jim Hogg",276,"81.82%","Texas",48247
+"2537","TX","Jim Wells",2295,"75.88%","Texas",48249
+"2538","TX","Johnson",1620,"77.49%","Texas",48251
+"2539","TX","Jones",501,"80.80%","Texas",48253
+"2540","TX","Karnes",1337,"78.22%","Texas",48255
+"2541","TX","Kaufman",1288,"78.37%","Texas",48257
+"2542","TX","Kendall",1783,"77.10%","Texas",48259
+"2543","TX","Kenedy",373,"81.35%","Texas",48261
+"2544","TX","Kent",742,"79.93%","Texas",48263
+"2545","TX","Kerr",2420,"75.41%","Texas",48265
+"2546","TX","Kimble",2671,"74.51%","Texas",48267
+"2547","TX","King",1030,"79.08%","Texas",48269
+"2548","TX","Kinney",2371,"75.64%","Texas",48271
+"2549","TX","Kleberg",1347,"78.20%","Texas",48273
+"2550","TX","Knox",882,"79.49%","Texas",48275
+"2551","TX","La Salle",1704,"77.28%","Texas",48283
+"2552","TX","Lamar",2003,"76.55%","Texas",48277
+"2553","TX","Lamb",2729,"74.25%","Texas",48279
+"2554","TX","Lampasas",2397,"75.52%","Texas",48281
+"2555","TX","Lavaca",877,"79.51%","Texas",48285
+"2556","TX","Lee",2539,"75.01%","Texas",48287
+"2557","TX","Leon",2516,"75.08%","Texas",48289
+"2558","TX","Liberty",1170,"78.66%","Texas",48291
+"2559","TX","Limestone",2250,"75.98%","Texas",48293
+"2560","TX","Lipscomb",2047,"76.45%","Texas",48295
+"2561","TX","Live Oak",2022,"76.51%","Texas",48297
+"2562","TX","Llano",2792,"73.83%","Texas",48299
+"2563","TX","Loving",2127,"76.26%","Texas",48301
+"2564","TX","Lubbock",2392,"75.54%","Texas",48303
+"2565","TX","Lynn",2216,"76.06%","Texas",48305
+"2566","TX","Madison",2818,"73.63%","Texas",48313
+"2567","TX","Marion",2463,"75.26%","Texas",48315
+"2568","TX","Martin",1612,"77.50%","Texas",48317
+"2569","TX","Mason",2605,"74.77%","Texas",48319
+"2570","TX","Matagorda",273,"81.87%","Texas",48321
+"2571","TX","Maverick",2046,"76.45%","Texas",48323
+"2572","TX","Medina",2061,"76.43%","Texas",48325
+"2573","TX","Menard",2526,"75.04%","Texas",48327
+"2574","TX","Midland",1854,"76.94%","Texas",48329
+"2575","TX","Milam",2622,"74.71%","Texas",48331
+"2576","TX","Mills",2328,"75.79%","Texas",48333
+"2577","TX","Mitchell",1444,"77.93%","Texas",48335
+"2578","TX","Montague",1819,"77.01%","Texas",48337
+"2579","TX","Montgomery",2677,"74.48%","Texas",48339
+"2580","TX","Moore",1692,"77.31%","Texas",48341
+"2581","TX","Morris",2711,"74.31%","Texas",48343
+"2582","TX","Motley",1152,"78.71%","Texas",48345
+"2583","TX","Nacogdoches",2265,"75.96%","Texas",48347
+"2584","TX","Navarro",2073,"76.39%","Texas",48349
+"2585","TX","Newton",2944,"72.67%","Texas",48351
+"2586","TX","Nolan",1099,"78.85%","Texas",48353
+"2587","TX","Nueces",1909,"76.78%","Texas",48355
+"2588","TX","Ochiltree",1116,"78.81%","Texas",48357
+"2589","TX","Oldham",2078,"76.38%","Texas",48359
+"2590","TX","Orange",2306,"75.86%","Texas",48361
+"2591","TX","Palo Pinto",921,"79.39%","Texas",48363
+"2592","TX","Panola",2567,"74.91%","Texas",48365
+"2593","TX","Parker",968,"79.25%","Texas",48367
+"2594","TX","Parmer",2745,"74.15%","Texas",48369
+"2595","TX","Pecos",1427,"77.97%","Texas",48371
+"2596","TX","Polk",2672,"74.50%","Texas",48373
+"2597","TX","Potter",2141,"76.23%","Texas",48375
+"2598","TX","Presidio",1770,"77.14%","Texas",48377
+"2599","TX","Rains",1742,"77.21%","Texas",48379
+"2600","TX","Randall",2461,"75.26%","Texas",48381
+"2601","TX","Reagan",1797,"77.05%","Texas",48383
+"2602","TX","Real",2426,"75.39%","Texas",48385
+"2603","TX","Red River",2062,"76.43%","Texas",48387
+"2604","TX","Reeves",1679,"77.36%","Texas",48389
+"2605","TX","Refugio",938,"79.33%","Texas",48391
+"2606","TX","Roberts",1118,"78.80%","Texas",48393
+"2607","TX","Robertson",2909,"73.07%","Texas",48395
+"2608","TX","Rockwall",1480,"77.84%","Texas",48397
+"2609","TX","Runnels",1883,"76.87%","Texas",48399
+"2610","TX","Rusk",2524,"75.05%","Texas",48401
+"2611","TX","Sabine",2748,"74.14%","Texas",48403
+"2612","TX","San Augustine",2631,"74.67%","Texas",48405
+"2613","TX","San Jacinto",1768,"77.14%","Texas",48407
+"2614","TX","San Patricio",2302,"75.87%","Texas",48409
+"2615","TX","San Saba",2657,"74.56%","Texas",48411
+"2616","TX","Schleicher",2570,"74.90%","Texas",48413
+"2617","TX","Scurry",1073,"78.93%","Texas",48415
+"2618","TX","Shackelford",504,"80.78%","Texas",48417
+"2619","TX","Shelby",2670,"74.51%","Texas",48419
+"2620","TX","Sherman",2582,"74.86%","Texas",48421
+"2621","TX","Smith",1908,"76.78%","Texas",48423
+"2622","TX","Somervell",1407,"78.05%","Texas",48425
+"2623","TX","Starr",658,"80.20%","Texas",48427
+"2624","TX","Stephens",722,"79.98%","Texas",48429
+"2625","TX","Sterling",1476,"77.85%","Texas",48431
+"2626","TX","Stonewall",571,"80.46%","Texas",48433
+"2627","TX","Sutton",2577,"74.88%","Texas",48435
+"2628","TX","Swisher",2606,"74.77%","Texas",48437
+"2629","TX","Tarrant",1196,"78.58%","Texas",48439
+"2630","TX","Taylor",1391,"78.07%","Texas",48441
+"2631","TX","Terrell",1608,"77.51%","Texas",48443
+"2632","TX","Terry",2618,"74.73%","Texas",48445
+"2633","TX","Throckmorton",620,"80.34%","Texas",48447
+"2634","TX","Titus",2529,"75.04%","Texas",48449
+"2635","TX","Tom Green",1944,"76.69%","Texas",48451
+"2636","TX","Travis",1884,"76.87%","Texas",48453
+"2637","TX","Trinity",2343,"75.74%","Texas",48455
+"2638","TX","Tyler",2256,"75.97%","Texas",48457
+"2639","TX","Upshur",1995,"76.57%","Texas",48459
+"2640","TX","Upton",1674,"77.37%","Texas",48461
+"2641","TX","Uvalde",2162,"76.18%","Texas",48463
+"2642","TX","Val Verde",2176,"76.15%","Texas",48465
+"2643","TX","Van Zandt",1282,"78.40%","Texas",48467
+"2644","TX","Victoria",738,"79.95%","Texas",48469
+"2645","TX","Walker",2709,"74.33%","Texas",48471
+"2646","TX","Waller",2926,"72.82%","Texas",48473
+"2647","TX","Ward",1545,"77.66%","Texas",48475
+"2648","TX","Washington",2825,"73.58%","Texas",48477
+"2649","TX","Webb",1033,"79.07%","Texas",48479
+"2650","TX","Wharton",945,"79.31%","Texas",48481
+"2651","TX","Wheeler",1382,"78.10%","Texas",48483
+"2652","TX","Wichita",1417,"78.01%","Texas",48485
+"2653","TX","Wilbarger",1103,"78.84%","Texas",48487
+"2654","TX","Willacy",291,"81.73%","Texas",48489
+"2655","TX","Williamson",2447,"75.31%","Texas",48491
+"2656","TX","Wilson",1696,"77.30%","Texas",48493
+"2657","TX","Winkler",1866,"76.92%","Texas",48495
+"2658","TX","Wise",850,"79.56%","Texas",48497
+"2659","TX","Wood",1800,"77.05%","Texas",48499
+"2660","TX","Yoakum",2873,"73.26%","Texas",48501
+"2661","TX","Young",634,"80.29%","Texas",48503
+"2662","TX","Zapata",1005,"79.14%","Texas",48505
+"2663","TX","Zavala",2293,"75.89%","Texas",48507
+"2664","UT","Beaver",2876,"73.26%","Utah",49001
+"2665","UT","Box Elder",2538,"75.01%","Utah",49003
+"2666","UT","Cache",2911,"73.06%","Utah",49005
+"2667","UT","Carbon",1871,"76.91%","Utah",49007
+"2668","UT","Daggett",762,"79.86%","Utah",49009
+"2669","UT","Davis",2791,"73.84%","Utah",49011
+"2670","UT","Duchesne",1471,"77.86%","Utah",49013
+"2671","UT","Emery",2515,"75.08%","Utah",49015
+"2672","UT","Garfield",1204,"78.56%","Utah",49017
+"2673","UT","Grand",1759,"77.16%","Utah",49019
+"2674","UT","Iron",2793,"73.81%","Utah",49021
+"2675","UT","Juab",2749,"74.13%","Utah",49023
+"2676","UT","Kane",1347,"78.20%","Utah",49025
+"2677","UT","Millard",2391,"75.55%","Utah",49027
+"2678","UT","Morgan",2616,"74.73%","Utah",49029
+"2679","UT","Piute",2765,"73.99%","Utah",49031
+"2680","UT","Rich",2410,"75.45%","Utah",49033
+"2681","UT","Salt Lake",2714,"74.30%","Utah",49035
+"2682","UT","San Juan",2693,"74.40%","Utah",49037
+"2683","UT","Sanpete",2705,"74.36%","Utah",49039
+"2684","UT","Sevier",2831,"73.56%","Utah",49041
+"2685","UT","Summit",1887,"76.86%","Utah",49043
+"2686","UT","Tooele",1977,"76.61%","Utah",49045
+"2687","UT","Uintah",1625,"77.47%","Utah",49047
+"2688","UT","Utah",2953,"72.55%","Utah",49049
+"2689","UT","Wasatch",2602,"74.79%","Utah",49051
+"2690","UT","Washington",2034,"76.48%","Utah",49053
+"2691","UT","Wayne",2754,"74.09%","Utah",49055
+"2692","UT","Weber",2667,"74.52%","Utah",49057
+"2693","VA","Accomack",2532,"75.04%","Virginia",51001
+"2694","VA","Albemarle",1751,"77.20%","Virginia",51003
+"2695","VA","Alleghany",2963,"72.47%","Virginia",51005
+"2696","VA","Amelia",2821,"73.60%","Virginia",51007
+"2697","VA","Amherst",1777,"77.12%","Virginia",51009
+"2698","VA","Appomattox",2137,"76.24%","Virginia",51011
+"2699","VA","Arlington",1442,"77.93%","Virginia",51013
+"2700","VA","Augusta",2776,"73.94%","Virginia",51015
+"2701","VA","Bath",3076,"70.10%","Virginia",51017
+"2702","VA","Bedford",1008,"79.13%","Virginia",51019
+"2703","VA","Bland",1295,"78.35%","Virginia",51021
+"2704","VA","Botetourt",2305,"75.86%","Virginia",51023
+"2705","VA","Brunswick",2007,"76.53%","Virginia",51025
+"2706","VA","Buchanan",1930,"76.73%","Virginia",51027
+"2707","VA","Buckingham",2607,"74.76%","Virginia",51029
+"2708","VA","Campbell",1331,"78.25%","Virginia",51031
+"2709","VA","Caroline",689,"80.10%","Virginia",51033
+"2710","VA","Carroll",1452,"77.90%","Virginia",51035
+"2711","VA","Charles City",2772,"73.96%","Virginia",51036
+"2712","VA","Charlotte",2242,"76.00%","Virginia",51037
+"2713","VA","Chesterfield",2833,"73.55%","Virginia",51041
+"2714","VA","Clarke",1525,"77.73%","Virginia",51043
+"2715","VA","Craig",2506,"75.10%","Virginia",51045
+"2716","VA","Culpeper",1285,"78.38%","Virginia",51047
+"2717","VA","Cumberland",2965,"72.42%","Virginia",51049
+"2718","VA","Dickenson",1980,"76.61%","Virginia",51051
+"2719","VA","Dinwiddie",1298,"78.32%","Virginia",51053
+"2720","VA","Essex",803,"79.72%","Virginia",51057
+"2721","VA","Fairfax",1372,"78.13%","Virginia",51059
+"2722","VA","Fauquier",1264,"78.44%","Virginia",51061
+"2723","VA","Floyd",2949,"72.59%","Virginia",51063
+"2724","VA","Fluvanna",2583,"74.85%","Virginia",51065
+"2725","VA","Franklin",700,"80.04%","Virginia",51067
+"2726","VA","Frederick",2314,"75.84%","Virginia",51069
+"2727","VA","Giles",1804,"77.03%","Virginia",51071
+"2728","VA","Gloucester",1097,"78.85%","Virginia",51073
+"2729","VA","Goochland",2855,"73.38%","Virginia",51075
+"2730","VA","Grayson",862,"79.54%","Virginia",51077
+"2731","VA","Greene",1882,"76.87%","Virginia",51079
+"2732","VA","Greensville",1593,"77.54%","Virginia",51081
+"2733","VA","Halifax",1459,"77.89%","Virginia",51083
+"2734","VA","Hanover",2674,"74.48%","Virginia",51085
+"2735","VA","Henrico",2482,"75.19%","Virginia",51087
+"2736","VA","Henry",1409,"78.04%","Virginia",51089
+"2737","VA","Highland",3054,"70.94%","Virginia",51091
+"2738","VA","James City",2654,"74.56%","Virginia",51095
+"2739","VA","King George",366,"81.38%","Virginia",51099
+"2740","VA","King William",2053,"76.44%","Virginia",51101
+"2741","VA","Lancaster",1060,"78.99%","Virginia",51103
+"2742","VA","Lee",2656,"74.56%","Virginia",51105
+"2743","VA","Loudoun",2338,"75.75%","Virginia",51107
+"2744","VA","Louisa",2385,"75.56%","Virginia",51109
+"2745","VA","Lunenburg",2832,"73.56%","Virginia",51111
+"2746","VA","Madison",1413,"78.03%","Virginia",51113
+"2747","VA","Mecklenburg",1969,"76.63%","Virginia",51117
+"2748","VA","Middlesex",986,"79.22%","Virginia",51119
+"2749","VA","Montgomery",2774,"73.96%","Virginia",51121
+"2750","VA","Nelson",1682,"77.35%","Virginia",51125
+"2751","VA","New Kent",2433,"75.37%","Virginia",51127
+"2752","VA","Northampton",535,"80.63%","Virginia",51131
+"2753","VA","Northumberland",1658,"77.41%","Virginia",51133
+"2754","VA","Nottoway",2720,"74.28%","Virginia",51135
+"2755","VA","Orange",1249,"78.47%","Virginia",51137
+"2756","VA","Page",1341,"78.21%","Virginia",51139
+"2757","VA","Patrick",2520,"75.05%","Virginia",51141
+"2758","VA","Pittsylvania",532,"80.64%","Virginia",51143
+"2759","VA","Powhatan",2956,"72.53%","Virginia",51145
+"2760","VA","Prince Edward",2895,"73.15%","Virginia",51147
+"2761","VA","Prince George",1718,"77.26%","Virginia",51149
+"2762","VA","Prince William",1065,"78.97%","Virginia",51153
+"2763","VA","Pulaski",1963,"76.65%","Virginia",51155
+"2764","VA","Rappahannock",1548,"77.65%","Virginia",51157
+"2765","VA","Richmond",499,"80.80%","Virginia",51159
+"2766","VA","Roanoke",2394,"75.52%","Virginia",51161
+"2767","VA","Rockbridge",2735,"74.22%","Virginia",51163
+"2768","VA","Rockingham",1966,"76.64%","Virginia",51165
+"2769","VA","Russell",1722,"77.25%","Virginia",51167
+"2770","VA","Scott",2590,"74.82%","Virginia",51169
+"2771","VA","Shenandoah",1949,"76.69%","Virginia",51171
+"2772","VA","Smyth",1423,"77.99%","Virginia",51173
+"2773","VA","Southampton",1799,"77.05%","Virginia",51175
+"2774","VA","Spotsylvania",1027,"79.09%","Virginia",51177
+"2775","VA","Stafford",517,"80.72%","Virginia",51179
+"2776","VA","Surry",2975,"72.35%","Virginia",51181
+"2777","VA","Sussex",2117,"76.30%","Virginia",51183
+"2778","VA","Tazewell",1299,"78.32%","Virginia",51185
+"2779","VA","Warren",2019,"76.51%","Virginia",51187
+"2780","VA","Washington",1569,"77.61%","Virginia",51191
+"2781","VA","Westmoreland",268,"81.91%","Virginia",51193
+"2782","VA","Wise",2431,"75.37%","Virginia",51195
+"2783","VA","Wythe",903,"79.44%","Virginia",51197
+"2784","VA","York",1802,"77.04%","Virginia",51199
+"2785","VT","Addison",2741,"74.17%","Vermont",50001
+"2786","VT","Bennington",2197,"76.10%","Vermont",50003
+"2787","VT","Caledonia",737,"79.95%","Vermont",50005
+"2788","VT","Chittenden",2586,"74.84%","Vermont",50007
+"2789","VT","Essex",1261,"78.44%","Vermont",50009
+"2790","VT","Franklin",2509,"75.09%","Vermont",50011
+"2791","VT","Grand Isle",1815,"77.02%","Vermont",50013
+"2792","VT","Lamoille",2180,"76.15%","Vermont",50015
+"2793","VT","Orange",1224,"78.51%","Vermont",50017
+"2794","VT","Orleans",1286,"78.38%","Vermont",50019
+"2795","VT","Rutland",2742,"74.17%","Vermont",50021
+"2796","VT","Washington",2033,"76.48%","Vermont",50023
+"2797","VT","Windham",1639,"77.45%","Vermont",50025
+"2798","VT","Windsor",1244,"78.47%","Vermont",50027
+"2799","WA","Adams",459,"80.96%","Washington",53001
+"2800","WA","Asotin",51,"84.20%","Washington",53003
+"2801","WA","Benton",614,"80.35%","Washington",53005
+"2802","WA","Chelan",717,"79.99%","Washington",53007
+"2803","WA","Clallam",73,"83.66%","Washington",53009
+"2804","WA","Clark",3050,"71.05%","Washington",53011
+"2805","WA","Columbia",498,"80.81%","Washington",53013
+"2806","WA","Cowlitz",260,"81.93%","Washington",53015
+"2807","WA","Douglas",186,"82.45%","Washington",53017
+"2808","WA","Ferry",54,"84.12%","Washington",53019
+"2809","WA","Franklin",626,"80.31%","Washington",53021
+"2810","WA","Garfield",237,"82.10%","Washington",53023
+"2811","WA","Grant",399,"81.18%","Washington",53025
+"2812","WA","Grays Harbor",456,"80.97%","Washington",53027
+"2813","WA","Island",869,"79.53%","Washington",53029
+"2814","WA","Jefferson",1122,"78.76%","Washington",53031
+"2815","WA","King",2806,"73.67%","Washington",53033
+"2816","WA","Kitsap",400,"81.17%","Washington",53035
+"2817","WA","Kittitas",865,"79.54%","Washington",53037
+"2818","WA","Klickitat",826,"79.65%","Washington",53039
+"2819","WA","Lewis",1955,"76.67%","Washington",53041
+"2820","WA","Lincoln",203,"82.30%","Washington",53043
+"2821","WA","Mason",1131,"78.75%","Washington",53045
+"2822","WA","Okanogan",185,"82.45%","Washington",53047
+"2823","WA","Pacific",564,"80.50%","Washington",53049
+"2824","WA","Pend Oreille",345,"81.49%","Washington",53051
+"2825","WA","Pierce",2662,"74.54%","Washington",53053
+"2826","WA","San Juan",690,"80.09%","Washington",53055
+"2827","WA","Skagit",664,"80.16%","Washington",53057
+"2828","WA","Skamania",2544,"74.99%","Washington",53059
+"2829","WA","Snohomish",641,"80.27%","Washington",53061
+"2830","WA","Spokane",393,"81.23%","Washington",53063
+"2831","WA","Stevens",151,"82.72%","Washington",53065
+"2832","WA","Thurston",2626,"74.70%","Washington",53067
+"2833","WA","Wahkiakum",193,"82.42%","Washington",53069
+"2834","WA","Walla Walla",804,"79.72%","Washington",53071
+"2835","WA","Whatcom",1791,"77.07%","Washington",53073
+"2836","WA","Whitman",280,"81.78%","Washington",53075
+"2837","WA","Yakima",1627,"77.47%","Washington",53077
+"2838","WI","Adams",163,"82.60%","Wisconsin",55001
+"2839","WI","Ashland",715,"80.00%","Wisconsin",55003
+"2840","WI","Barron",2902,"73.11%","Wisconsin",55005
+"2841","WI","Bayfield",1757,"77.17%","Wisconsin",55007
+"2842","WI","Brown",1604,"77.52%","Wisconsin",55009
+"2843","WI","Buffalo",1100,"78.85%","Wisconsin",55011
+"2844","WI","Burnett",2564,"74.92%","Wisconsin",55013
+"2845","WI","Calumet",1460,"77.89%","Wisconsin",55015
+"2846","WI","Chippewa",1324,"78.27%","Wisconsin",55017
+"2847","WI","Clark",156,"82.65%","Wisconsin",55019
+"2848","WI","Columbia",713,"80.00%","Wisconsin",55021
+"2849","WI","Crawford",1045,"79.04%","Wisconsin",55023
+"2850","WI","Dane",1293,"78.36%","Wisconsin",55025
+"2851","WI","Dodge",1335,"78.23%","Wisconsin",55027
+"2852","WI","Door",3108,"68.30%","Wisconsin",55029
+"2853","WI","Douglas",2999,"71.90%","Wisconsin",55031
+"2854","WI","Dunn",2215,"76.07%","Wisconsin",55033
+"2855","WI","Eau Claire",445,"81.00%","Wisconsin",55035
+"2856","WI","Florence",1446,"77.92%","Wisconsin",55037
+"2857","WI","Forest",946,"79.31%","Wisconsin",55041
+"2858","WI","Grant",418,"81.11%","Wisconsin",55043
+"2859","WI","Green",1793,"77.07%","Wisconsin",55045
+"2860","WI","Green Lake",875,"79.51%","Wisconsin",55047
+"2861","WI","Iowa",2417,"75.42%","Wisconsin",55049
+"2862","WI","Iron",603,"80.38%","Wisconsin",55051
+"2863","WI","Jackson",56,"84.10%","Wisconsin",55053
+"2864","WI","Jefferson",1116,"78.81%","Wisconsin",55055
+"2865","WI","Juneau",541,"80.60%","Wisconsin",55057
+"2866","WI","Kenosha",3129,"65.85%","Wisconsin",55059
+"2867","WI","Kewaunee",2797,"73.76%","Wisconsin",55061
+"2868","WI","La Crosse",493,"80.82%","Wisconsin",55063
+"2869","WI","Lafayette",1234,"78.49%","Wisconsin",55065
+"2870","WI","Langlade",427,"81.08%","Wisconsin",55067
+"2871","WI","Lincoln",789,"79.78%","Wisconsin",55069
+"2872","WI","Manitowoc",2523,"75.05%","Wisconsin",55071
+"2873","WI","Marathon",579,"80.44%","Wisconsin",55073
+"2874","WI","Marinette",1734,"77.22%","Wisconsin",55075
+"2875","WI","Marquette",372,"81.35%","Wisconsin",55077
+"2876","WI","Menominee",168,"82.59%","Wisconsin",55078
+"2877","WI","Milwaukee",3010,"71.74%","Wisconsin",55079
+"2878","WI","Monroe",481,"80.86%","Wisconsin",55081
+"2879","WI","Oconto",725,"79.98%","Wisconsin",55083
+"2880","WI","Oneida",736,"79.96%","Wisconsin",55085
+"2881","WI","Outagamie",1187,"78.61%","Wisconsin",55087
+"2882","WI","Ozaukee",3121,"66.99%","Wisconsin",55089
+"2883","WI","Pepin",1315,"78.29%","Wisconsin",55091
+"2884","WI","Pierce",2466,"75.24%","Wisconsin",55093
+"2885","WI","Polk",2430,"75.38%","Wisconsin",55095
+"2886","WI","Portage",244,"82.06%","Wisconsin",55097
+"2887","WI","Price",2300,"75.88%","Wisconsin",55099
+"2888","WI","Racine",3098,"69.16%","Wisconsin",55101
+"2889","WI","Richland",1818,"77.01%","Wisconsin",55103
+"2890","WI","Rock",1702,"77.29%","Wisconsin",55105
+"2891","WI","Rusk",2811,"73.66%","Wisconsin",55107
+"2892","WI","Sauk",2179,"76.15%","Wisconsin",55111
+"2893","WI","Sawyer",3036,"71.22%","Wisconsin",55113
+"2894","WI","Shawano",552,"80.54%","Wisconsin",55115
+"2895","WI","Sheboygan",2856,"73.37%","Wisconsin",55117
+"2896","WI","Taylor",2130,"76.25%","Wisconsin",55119
+"2897","WI","Trempealeau",505,"80.78%","Wisconsin",55121
+"2898","WI","Vernon",1422,"77.99%","Wisconsin",55123
+"2899","WI","Vilas",1083,"78.90%","Wisconsin",55125
+"2900","WI","Walworth",1274,"78.42%","Wisconsin",55127
+"2901","WI","Washburn",3075,"70.14%","Wisconsin",55129
+"2902","WI","Washington",3089,"69.75%","Wisconsin",55131
+"2903","WI","Waukesha",2268,"75.95%","Wisconsin",55133
+"2904","WI","Waupaca",1416,"78.01%","Wisconsin",55135
+"2905","WI","Waushara",412,"81.14%","Wisconsin",55137
+"2906","WI","Winnebago",1381,"78.11%","Wisconsin",55139
+"2907","WI","Wood",97,"83.28%","Wisconsin",55141
+"2908","WV","Barbour",2335,"75.76%","West Virginia",54001
+"2909","WV","Berkeley",2273,"75.94%","West Virginia",54003
+"2910","WV","Boone",723,"79.98%","West Virginia",54005
+"2911","WV","Braxton",977,"79.24%","West Virginia",54007
+"2912","WV","Brooke",390,"81.23%","West Virginia",54009
+"2913","WV","Cabell",704,"80.02%","West Virginia",54011
+"2914","WV","Calhoun",809,"79.70%","West Virginia",54013
+"2915","WV","Clay",1245,"78.47%","West Virginia",54015
+"2916","WV","Doddridge",1014,"79.11%","West Virginia",54017
+"2917","WV","Fayette",1664,"77.40%","West Virginia",54019
+"2918","WV","Gilmer",551,"80.55%","West Virginia",54021
+"2919","WV","Grant",3014,"71.71%","West Virginia",54023
+"2920","WV","Greenbrier",2413,"75.44%","West Virginia",54025
+"2921","WV","Hampshire",2852,"73.41%","West Virginia",54027
+"2922","WV","Hancock",518,"80.72%","West Virginia",54029
+"2923","WV","Hardy",2658,"74.55%","West Virginia",54031
+"2924","WV","Harrison",1503,"77.77%","West Virginia",54033
+"2925","WV","Jackson",947,"79.31%","West Virginia",54035
+"2926","WV","Jefferson",1951,"76.69%","West Virginia",54037
+"2927","WV","Kanawha",774,"79.83%","West Virginia",54039
+"2928","WV","Lewis",1336,"78.22%","West Virginia",54041
+"2929","WV","Lincoln",1248,"78.47%","West Virginia",54043
+"2930","WV","Logan",950,"79.30%","West Virginia",54045
+"2931","WV","Marion",1487,"77.82%","West Virginia",54049
+"2932","WV","Marshall",210,"82.26%","West Virginia",54051
+"2933","WV","Mason",695,"80.06%","West Virginia",54053
+"2934","WV","Mercer",1078,"78.91%","West Virginia",54055
+"2935","WV","Mineral",2942,"72.68%","West Virginia",54057
+"2936","WV","Mingo",1575,"77.60%","West Virginia",54059
+"2937","WV","Monongalia",1749,"77.20%","West Virginia",54061
+"2938","WV","Monroe",2746,"74.15%","West Virginia",54063
+"2939","WV","Morgan",2257,"75.97%","West Virginia",54065
+"2940","WV","Nicholas",1957,"76.66%","West Virginia",54067
+"2941","WV","Ohio",348,"81.48%","West Virginia",54069
+"2942","WV","Pendleton",2957,"72.53%","West Virginia",54071
+"2943","WV","Pleasants",347,"81.48%","West Virginia",54073
+"2944","WV","Pocahontas",2679,"74.47%","West Virginia",54075
+"2945","WV","Preston",2875,"73.26%","West Virginia",54077
+"2946","WV","Putnam",894,"79.46%","West Virginia",54079
+"2947","WV","Raleigh",674,"80.13%","West Virginia",54081
+"2948","WV","Randolph",2151,"76.20%","West Virginia",54083
+"2949","WV","Ritchie",527,"80.67%","West Virginia",54085
+"2950","WV","Roane",834,"79.63%","West Virginia",54087
+"2951","WV","Summers",2561,"74.94%","West Virginia",54089
+"2952","WV","Taylor",2437,"75.35%","West Virginia",54091
+"2953","WV","Tucker",2763,"74.00%","West Virginia",54093
+"2954","WV","Tyler",588,"80.41%","West Virginia",54095
+"2955","WV","Upshur",1774,"77.13%","West Virginia",54097
+"2956","WV","Wayne",1497,"77.79%","West Virginia",54099
+"2957","WV","Webster",1690,"77.33%","West Virginia",54101
+"2958","WV","Wetzel",536,"80.62%","West Virginia",54103
+"2959","WV","Wirt",810,"79.70%","West Virginia",54105
+"2960","WV","Wood",450,"81.00%","West Virginia",54107
+"2961","WV","Wyoming",1056,"79.00%","West Virginia",54109
+"2962","WY","Albany",849,"79.56%","Wyoming",56001
+"2963","WY","Big Horn",1146,"78.72%","Wyoming",56003
+"2964","WY","Campbell",575,"80.45%","Wyoming",56005
+"2965","WY","Carbon",1258,"78.45%","Wyoming",56007
+"2966","WY","Converse",204,"82.30%","Wyoming",56009
+"2967","WY","Crook",667,"80.14%","Wyoming",56011
+"2968","WY","Fremont",1184,"78.62%","Wyoming",56013
+"2969","WY","Goshen",584,"80.42%","Wyoming",56015
+"2970","WY","Hot Springs",1538,"77.68%","Wyoming",56017
+"2971","WY","Johnson",310,"81.62%","Wyoming",56019
+"2972","WY","Laramie",867,"79.53%","Wyoming",56021
+"2973","WY","Lincoln",1798,"77.05%","Wyoming",56023
+"2974","WY","Natrona",523,"80.70%","Wyoming",56025
+"2975","WY","Niobrara",222,"82.18%","Wyoming",56027
+"2976","WY","Park",892,"79.46%","Wyoming",56029
+"2977","WY","Platte",568,"80.47%","Wyoming",56031
+"2978","WY","Sheridan",1311,"78.30%","Wyoming",56033
+"2979","WY","Sublette",884,"79.48%","Wyoming",56035
+"2980","WY","Sweetwater",909,"79.42%","Wyoming",56037
+"2981","WY","Teton",2026,"76.50%","Wyoming",56039
+"2982","WY","Uinta",1084,"78.89%","Wyoming",56041
+"2983","WY","Washakie",731,"79.96%","Wyoming",56043
+"2984","WY","Weston",436,"81.04%","Wyoming",56045
