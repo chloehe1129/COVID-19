@@ -1,0 +1,176 @@
+---
+title: "Georgetown_covid"
+author: "Shan He"
+date: "4/19/2020"
+output: slidy_presentation
+---
+
+```{r}
+df = read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv") # extract the most updated cases information
+
+df = df[,-c(1:4,8)]
+df = df[,-c(4:6)]
+
+df =melt(setDT(df), id.vars = c("FIPS","Admin2","Province_State"), variable.name = "Date")
+colnames(df) = c("FIPS","Countynames","State","Date","Test")
+df$Date = as.character(df$Date)
+df$year = 0
+df$month = 0
+df$day = 0
+df$year = "2020"
+library(qdapRegex)
+df$month = rm_between(df$Date, "X", ".", extract=TRUE)
+df$day = rm_between(df$Date, ".", ".", extract=TRUE)
+df$date1 = paste0(df$year,"-",df$month,"-",df$day)
+df$date1 = as.Date(df$date1,format = "%Y-%m-%d")
+df = df[,-c(4,6,7,8)]
+cases = df
+colnames(cases) = c("FIPS","county","state","case","date")
+```
+
+
+```{r}
+library(zoo)
+library(ggplot2)
+setwd("~/Desktop/georgetown_project")
+#cases = read.csv("us-states copy.txt")
+SD = read.csv("~/Desktop/georgetown_project/USstatesCov19distancingpolicy.txt")
+lockdown = read.csv("~/Desktop/georgetown_project/lockdown_us copy.txt")
+```
+
+```{r}
+lockdown = lockdown[lockdown$County=="",]
+lockdown$Type = ifelse(lockdown$Type=="Shelter in place"|lockdown$Type=="Stay at home",1,0)
+colnames(lockdown) = c("country","state","county","date","Type")
+lockdown$date = as.Date(lockdown$date,format = "%m/%d/%y")
+#cases$date = as.Date(cases$date,format = "%m/%d/%y")
+
+cases$lock_down = 0
+df = merge(lockdown,cases,by=c("state","date"),all=TRUE)
+df = df[,-c(3:4)]
+colnames(df)[3]="lock_down"
+df$lock_down[is.na(df$lock_down)] <- 0
+
+SD1 = SD[,c(4,5,8)]
+colnames(SD1) = c("state","policy","date")
+SD1$date1 = as.character(SD1$date)
+SD1$date1 = sub("(.{4})(-*)", "\\1-\\2", SD1$date1)
+SD1$date1 = sub("(.{7})(-*)", "\\1-\\2", SD1$date1)
+SD1$date2 = as.Date(SD1$date1, origin = "1970-01-01")
+SD_new = SD1[,c(1,2,5)]
+colnames(SD_new) = c("state","policy","date")
+
+data = merge(SD_new,df,by=c("state","date"),all=TRUE)
+data = data[,-8]
+```
+
+# Create "Gather" variable: categorize gathering policy 
+```{r}
+data$Gather = data$policy
+data$Gather = as.character(data$Gather)
+data[-grep('Gath',data$Gather),]$Gather = 0
+data[grep('Recom',data$Gather),]$Gather = 0
+#data[grep('Gath',data$policy),]$Gather = 1
+data$Gather = ifelse(data$Gather=="GathRestrict1000",1,data$Gather)
+data$Gather = ifelse(data$Gather=="GathRestrict500",2,data$Gather)
+data$Gather = ifelse(data$Gather=="GathRestrict250",3,data$Gather)
+data$Gather = ifelse(data$Gather=="GathRestrict100",4,data$Gather)
+data$Gather = ifelse(data$Gather=="GathRestrict50",5,data$Gather)
+data$Gather = ifelse(data$Gather=="GathRestrict25",6,data$Gather)
+data$Gather = ifelse(data$Gather=="GathRestrict10",7,data$Gather)
+data$Gather = ifelse(data$Gather=="GathRestrict5",8,data$Gather)
+data$Gather = ifelse(data$Gather=="GathRestrictAny",9,data$Gather)
+```
+
+# Align policy (LD and Gathering) with time
+```{r}
+number_of_states = length(unique(data$state))
+data$Gather0 = 0
+
+for (i in (1:number_of_states)){
+  data[data$state==unique(data$state)[i],]$Gather[data[data$state==unique(data$state)[i],]$Gather==0] <- NA
+  data[data$state==unique(data$state)[i],]$Gather0 = na.locf(data[data$state==unique(data$state)[i],]$Gather,fromLast=FALSE,na.rm=FALSE)
+}
+
+data$lock_down0 = 0
+for (i in (1:number_of_states)){
+  data[data$state==unique(data$state)[i],]$lock_down[data[data$state==unique(data$state)[i],]$lock_down==0] <- NA
+  data[data$state==unique(data$state)[i],]$lock_down0 = na.locf(data[data$state==unique(data$state)[i],]$lock_down,fromLast=FALSE,na.rm=FALSE)
+}
+
+data[which(is.na(data$Gather0)),]$Gather0 = 0
+data[which(is.na(data$lock_down0)),]$lock_down0 = 0
+
+data = data[,-c(4,8)]
+
+#unique(data$state)[1]
+#plot(data[which(data$state==unique(data$state)[1]),]$date,data[which(data$state==unique(data$state)[1]),]$cases)
+
+
+#ggplot(data[which(data$state==unique(data$state)[1]),],aes(x = data[which(data$state==unique(data$state)[1]),]$date, y = data[which(data$state==unique(data$state)[1]),]$cases)) +
+#  geom_line() +
+#  geom_point() +
+#  xlab("Date") +
+#  ylab("Number of COVID-19 Cases") +
+#  ggtitle("COVID-19 cases over time")
+
+```
+
+```{r}
+data$school_close = 0
+data$school_close0 = 0
+data[which(data$policy=="SchoolClose"),]$school_close = 1
+for (i in (1:number_of_states)){  data[data$state==unique(data$state)[i],]$school_close[data[data$state==unique(data$state)[i],]$school_close==0] <- NA
+  data[data$state==unique(data$state)[i],]$school_close = na.locf(data[data$state==unique(data$state)[i],]$school_close,fromLast=FALSE,na.rm=FALSE)
+}
+data[which(is.na(data$school_close)),]$school_close = 0
+data=data[,-10]
+
+
+data$business_close = 0
+data[which(data$policy=="OtherBusinessClose" |data$policy=="NEBusinessClose"),]$business_close = 1
+for (i in (1:number_of_states)){  data[data$state==unique(data$state)[i],]$business_close[data[data$state==unique(data$state)[i],]$business_close==0] <- NA
+  data[data$state==unique(data$state)[i],]$business_close = na.locf(data[data$state==unique(data$state)[i],]$business_close,fromLast=FALSE,na.rm=FALSE)
+}
+data[which(is.na(data$business_close)),]$business_close = 0
+
+data$restaurant_close = 0
+data[which(data$policy=="RestaurantRestrict"),]$restaurant_close = 1
+for (i in (1:number_of_states)){  data[data$state==unique(data$state)[i],]$restaurant_close[data[data$state==unique(data$state)[i],]$restaurant_close==0] <- NA
+  data[data$state==unique(data$state)[i],]$restaurant_close = na.locf(data[data$state==unique(data$state)[i],]$restaurant_close,fromLast=FALSE,na.rm=FALSE)
+}
+data[which(is.na(data$restaurant_close)),]$restaurant_close = 0
+
+data$quarantine = 0
+data[which(data$policy=="Quarantine"),]$quarantine = 1
+for (i in (1:number_of_states)){  data[data$state==unique(data$state)[i],]$quarantine[data[data$state==unique(data$state)[i],]$quarantine==0] <- NA
+  data[data$state==unique(data$state)[i],]$quarantine = na.locf(data[data$state==unique(data$state)[i],]$quarantine,fromLast=FALSE,na.rm=FALSE)
+}
+data[which(is.na(data$quarantine)),]$quarantine = 0
+
+data$curfew = 0
+data[which(data$policy=="StateCurfew"),]$curfew = 1
+for (i in (1:number_of_states)){  data[data$state==unique(data$state)[i],]$curfew[data[data$state==unique(data$state)[i],]$curfew==0] <- NA
+  data[data$state==unique(data$state)[i],]$curfew = na.locf(data[data$state==unique(data$state)[i],]$curfew,fromLast=FALSE,na.rm=FALSE)
+}
+data[which(is.na(data$curfew)),]$curfew = 0
+
+data$emergdec = 0
+data[which(data$policy=="EmergDec"),]$emergdec = 1
+for (i in (1:number_of_states)){  data[data$state==unique(data$state)[i],]$emergdec[data[data$state==unique(data$state)[i],]$emergdec==0] <- NA
+  data[data$state==unique(data$state)[i],]$emergdec = na.locf(data[data$state==unique(data$state)[i],]$emergdec,fromLast=FALSE,na.rm=FALSE)
+}
+data[which(is.na(data$emergdec)),]$emergdec = 0
+
+data$travel = 0
+data[which(data$policy=="TravelRestrictIntra"|data$policy=="TravelRestrictEntry"|data$policy=="TravelRestrictExit"),]$travel = 1
+for (i in (1:number_of_states)){  data[data$state==unique(data$state)[i],]$travel[data[data$state==unique(data$state)[i],]$travel==0] <- NA
+  data[data$state==unique(data$state)[i],]$travel = na.locf(data[data$state==unique(data$state)[i],]$travel,fromLast=FALSE,na.rm=FALSE)
+}
+data[which(is.na(data$travel)),]$travel = 0
+
+write.csv(data,"~/Desktop/COVID-19/clean_cases/clean_policy.csv")
+```
+
+
+
