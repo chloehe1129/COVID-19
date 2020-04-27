@@ -1,0 +1,167 @@
+---
+title: "Untitled"
+author: "Shan He"
+date: "4/26/2020"
+output: html_document
+---
+
+```{r}
+library(lubridate)
+setwd("~/Desktop/COVID-19/clean_cases")
+county_cases_truncated = read.csv(paste0("~/Desktop/COVID-19/clean_cases/county_case_with_TWdailyR0_truncate05",Sys.Date(),".csv"))
+
+number_of_counties = length(unique(county_cases_truncated$FIPS))
+
+number_of_measurements = array(0,number_of_counties)
+for (i in 1:number_of_counties){
+  number_of_measurements[i] = 
+    length(county_cases_truncated[which(county_cases_truncated$FIPS==unique(county_cases_truncated$FIPS)[i]),]$date)
+}
+hist(number_of_measurements)
+number_of_counties
+```
+
+
+```{r}
+demographic = read.csv("~/Desktop/COVID-19/clean_demo/demographic_clean.csv")
+cases_and_fixed = merge(demographic,county_cases_truncated,by="FIPS") # dataset: fixed variables and R0
+cases_and_fixed$AvgHumid = as.numeric(sub("%", "", cases_and_fixed$AvgHumid))
+cases_and_fixed$AvgHumid = cases_and_fixed$AvgHumid/100
+cases_and_fixed$date = mdy(cases_and_fixed$date)
+cases_and_fixed = cases_and_fixed[order(cases_and_fixed$FIPS,cases_and_fixed$date),]
+```
+
+Create proportion of susceptibles daily
+```{r}
+cases_and_fixed$cum_cases = 0
+for (i in (1:number_of_counties)){
+  cases_and_fixed[which(cases_and_fixed$FIPS==unique(cases_and_fixed$FIPS)[i]),]$cum_cases = 
+    cumsum(cases_and_fixed[which(cases_and_fixed$FIPS==unique(cases_and_fixed$FIPS)[i]),]$case)
+}
+cases_and_fixed$susceptible_perc = (cases_and_fixed$Population-cases_and_fixed$cum_cases)/cases_and_fixed$Population
+```
+
+Run the model including only time-independent variables first. Stratifying by county and not stratifying by county.
+```{r}
+# not stratifed by county
+simple_log = lm(log(daily_r)~log(susceptible_perc)+log(density)+log(withHS)+log(Poverty_percentage)+
+              log(AfriAm_perc)+log(older_perc)+log(AvgHumid),data=cases_and_fixed)
+summary(simple_log)
+
+# stratifed by county
+simple_log_strat = lm(log(daily_r)~log(susceptible_perc)+log(density)+log(withHS)+log(Poverty_percentage)+
+              log(AfriAm_perc)+log(older_perc)+log(AvgHumid)+Countynames,data=cases_and_fixed)
+summary(simple_log_strat)
+
+# LME: random intercept for each county
+simple_lme = lme(log(daily_r) ~ log(susceptible_perc)+log(withHS)+log(Poverty_percentage)+
+              log(AfriAm_perc)+log(older_perc)+log(AvgHumid), 
+              data=cases_and_fixed, 
+              random = list(FIPS=~1))
+summary(simple_lme)
+
+```
+
+# add one more time varying covariates (# testing)
+```{r}
+testing = read.csv("~/Desktop/COVID-19/clean_cases/clean_testing.csv")
+testing$Date = ymd(testing$Date)
+testing=testing[order(testing$State,testing$Date),]
+testing = testing[,-1]
+colnames(testing) = c("date","State_abbrev","tests")
+
+population= read.csv("~/Desktop/COVID-19/clean_demo/population.csv")
+population_state = aggregate(population$Population,by=list(population$State,population$Code),FUN=sum)
+colnames(population_state) = c("State","State_abbrev","population")
+test = merge(population_state,testing,by="State_abbrev")
+test$relative_test = test$tests/(test$population/1000)
+
+cases_fixed_test = merge(cases_and_fixed,test,by=c("date","State_abbrev"))
+cases_fixed_test = cases_fixed_test[,-4]
+cases_fixed_test = cases_fixed_test[,-c(22,23)]
+cases_fixed_test = cases_fixed_test[,-c(26,27)]
+cases_fixed_test = cases_fixed_test[,-c(26)]
+cases_fixed_test = cases_fixed_test[order(cases_fixed_test$FIPS,cases_fixed_test$Countynames,cases_fixed_test$date),]
+```
+
+# going back days (1 to 10 days)
+```{r}
+cases_fixed_test$days_ago9 = 0
+for(i in (1:number_of_counties)){
+  dates_before = cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date-9
+  ind = match(dates_before,cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date)
+  cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),]$days_ago9=cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),][ind,]$relative_test
+}
+
+cases_fixed_test$days_ago8 = 0
+for(i in (1:number_of_counties)){
+  dates_before = cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date-8
+  ind = match(dates_before,cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date)
+  cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),]$days_ago8=cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),][ind,]$relative_test
+}
+
+cases_fixed_test$days_ago7 = 0
+for(i in (1:number_of_counties)){
+  dates_before = cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date-7
+  ind = match(dates_before,cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date)
+  cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),]$days_ago7=cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),][ind,]$relative_test
+}
+
+cases_fixed_test$days_ago6 = 0
+for(i in (1:number_of_counties)){
+  dates_before = cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date-6
+  ind = match(dates_before,cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date)
+  cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),]$days_ago6=cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),][ind,]$relative_test
+}
+
+cases_fixed_test$days_ago5 = 0
+for(i in (1:number_of_counties)){
+  dates_before = cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date-5
+  ind = match(dates_before,cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date)
+  cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),]$days_ago5=cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),][ind,]$relative_test
+}
+
+cases_fixed_test$days_ago4 = 0
+for(i in (1:number_of_counties)){
+  dates_before = cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date-4
+  ind = match(dates_before,cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date)
+  cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),]$days_ago4=cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),][ind,]$relative_test
+}
+
+cases_fixed_test$days_ago3 = 0
+for(i in (1:number_of_counties)){
+  dates_before = cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date-3
+  ind = match(dates_before,cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date)
+  cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),]$days_ago3=cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),][ind,]$relative_test
+}
+
+cases_fixed_test$days_ago2 = 0
+for(i in (1:number_of_counties)){
+  dates_before = cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date-2
+  ind = match(dates_before,cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date)
+  cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),]$days_ago2=cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),][ind,]$relative_test
+}
+
+cases_fixed_test$days_ago1 = 0
+for(i in (1:number_of_counties)){
+  dates_before = cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date-1
+  ind = match(dates_before,cases_fixed_test[which(cases_fixed_test$FIPS == unique(cases_fixed_test$FIPS)[i]),]$date)
+  cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),]$days_ago1=cases_fixed_test[which(cases_fixed_test$FIPS==unique(cases_fixed_test$FIPS)[i]),][ind,]$relative_test
+}
+
+```
+
+```{r}
+test_log5 = lm(log(daily_r)~log(susceptible_perc)+log(density)+log(withHS)+log(Poverty_percentage)+
+              log(AfriAm_perc)+log(older_perc)+log(AvgHumid)+log(relative_test)+
+              log(days_ago4)+log(days_ago3)+log(days_ago2)+log(days_ago1),data=cases_fixed_test)
+summary(test_log5)
+
+test_log10 = lm(log(daily_r)~log(susceptible_perc)+log(density)+log(withHS)+log(Poverty_percentage)+
+              log(AfriAm_perc)+log(older_perc)+log(AvgHumid)+log(relative_test)+
+              log(days_ago9)+log(days_ago8)+log(days_ago7)+log(days_ago6)+log(days_ago5)+
+              log(days_ago4)+log(days_ago3)+log(days_ago2)+log(days_ago1),data=cases_fixed_test)
+summary(test_log10)
+```
+
+
