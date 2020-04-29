@@ -1,0 +1,161 @@
+---
+title: "Spline"
+author: "Shan He"
+date: "4/28/2020"
+output: html_document
+---
+```{r}
+library(rms)
+library(splines)
+# load datasets for modeling
+```
+
+# Restricted Cubic Spline
+Fixed and one time-varying covariates
+```{r}
+# Go back 5 days 
+options(na.action="na.delete")
+spline_test5 = ols(log(daily_r)~log(winter_tmmx)+log(winter_rmax)+log(susceptible_perc)+log(density)+log(withHS)
+                  +log(Poverty_percentage)+log(AfriAm_perc)+log(older_perc)
+                  +rcs(log(relative_test), quantile(log(relative_test), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(design_matrix[,4]), quantile(log(design_matrix[,4]), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(design_matrix[,3]), quantile(log(design_matrix[,3]), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(design_matrix[,2]), quantile(log(design_matrix[,2]), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(design_matrix[,1]), quantile(log(design_matrix[,1]), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE)),
+                  data=cases_fixed_test)
+spline_test5 
+
+# Go back 10 days 
+spline_test10 = ols(log(daily_r)~log(winter_tmmx)+log(winter_rmax)+log(susceptible_perc)+log(density)+log(withHS)
+                  +log(Poverty_percentage)+log(AfriAm_perc)+log(older_perc)
+                  +rcs(log(relative_test), quantile(log(relative_test), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(days_ago9), quantile(log(days_ago9), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(days_ago8), quantile(log(days_ago8), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(days_ago7), quantile(log(days_ago7), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(days_ago6), quantile(log(days_ago6), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(days_ago5), quantile(log(days_ago5), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(days_ago4), quantile(log(days_ago4), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(days_ago3), quantile(log(days_ago3), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(days_ago2), quantile(log(days_ago2), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE))
+                  +rcs(log(days_ago1), quantile(log(days_ago1), c(0, .1, .35, .65, .90, 1),include.lowest=TRUE)),
+                  na.action = na.delete, data=cases_fixed_test)
+spline_test10
+```
+
+# Natural Cubic Spline
+## Parameters set up
+```{r}
+go_back = 10
+df = 4
+test_value_extract = c("relative_test","days_ago1","days_ago2","days_ago3","days_ago4","days_ago5",
+                       "days_ago6","days_ago7","days_ago8","days_ago9","days_ago10")
+SD_value_extract = c("Social_Distancing","SD_days_ago1","SD_days_ago2","SD_days_ago3","SD_days_ago4","SD_days_ago5",
+                     "SD_days_ago6","SD_days_ago7","SD_days_ago8","SD_days_ago9","SD_days_ago10")
+M_value_extract = c("Mask","M_days_ago1","M_days_ago2","M_days_ago3","M_days_ago4","M_days_ago5",
+                    "M_days_ago6","M_days_ago7","M_days_ago8","M_days_ago9","M_days_ago10")
+```
+
+## Testing go back 5 days
+```{r}
+B = ns(seq(0, go_back), df=df,Boundary.knots=c(0,go_back)) # Basis matrix: go back 5 days, 4 internal knots
+df = cases_fixed_test[,c("relative_test","days_ago1","days_ago2","days_ago3","days_ago4","days_ago5")] # get the values 
+df = as.matrix(df) 
+design_matrix = df%*%B  # multiply Basis and Value ===> # obs * # knots (reduce dimension??)
+data = cbind(cases_fixed_test,design_matrix)
+
+spline_test5 = lm(log(daily_r)~log(winter_tmmx)+log(winter_rmax)+log(susceptible_perc)+log(density)+log(withHS)
+                   +log(Poverty_percentage)+log(AfriAm_perc)+log(older_perc)
+                   +data[,48]+data[,49]+data[,50]+data[,51],data=data)  # estimate the 4 phi_s for each knot
+
+summary(spline_test5)
+```
+
+## Testing go back 10 days
+```{r}
+B = ns(seq(0, go_back), df=df,Boundary.knots=c(0,go_back)) # Basis matrix: go back 10 days, 4 internal knots
+df = cases_fixed_test[,c("relative_test","days_ago1","days_ago2","days_ago3","days_ago4","days_ago5",
+                       "days_ago10","days_ago9","days_ago8","days_ago7","days_ago6")] # get the values for today and all the way to 10 days ago 
+df = as.matrix(df) 
+design_matrix = df%*%B  # multiply Basis and Value ===> # obs * # knots 
+data = cbind(cases_fixed_test,design_matrix)
+
+spline_test10 = lm(log(daily_r)~log(winter_tmmx)+log(winter_rmax)+log(susceptible_perc)+log(density)+log(withHS)
+                   +log(Poverty_percentage)+log(AfriAm_perc)+log(older_perc)
+                  +data[,48]+data[,49]+data[,50]+data[,51],data=data)  # estimate the 4 phi_s for each knot
+
+summary(spline_test10)
+```
+
+## All 3 go back 5 days
+```{r}
+B1 = ns(seq(0, go_back), df=df,Boundary.knots=c(0,go_back)) # Basis matrix: go back 5 days, 4 internal knots
+dat = cases_fixed_test_SD_Mask[,c(test_value_extract)]       # get the values 
+dat = as.matrix(dat) 
+design_matrix1 = dat%*%B1                                    # multiply Basis and Value ===> # obs * # knots 
+
+B2 = ns(seq(0, go_back), df=df,Boundary.knots=c(0,go_back)) # Basis matrix: go back 5 days, 4 internal knots
+dat = cases_fixed_test_SD_Mask[,c(SD_value_extract)]         # get the values 
+dat = as.matrix(dat) 
+design_matrix2 = dat%*%B2                                    # multiply Basis and Value ===> # obs * # knots 
+
+B3 = ns(seq(0, go_back), df=df,Boundary.knots=c(0,go_back)) # Basis matrix: go back 5 days, 4 internal knots
+dat = cases_fixed_test_SD_Mask[,c(M_value_extract)]          # get the values 
+dat = as.matrix(dat) 
+design_matrix3 = dat%*%B3                                     # multiply Basis and Value ===> # obs * # knots 
+
+data = cbind(cases_fixed_test_SD_Mask,design_matrix1,design_matrix2,design_matrix3)
+
+spline_all5 = lm(log(daily_r)~log(winter_tmmx)+log(winter_rmax)+log(susceptible_perc)+log(density)+log(withHS)
+                   +log(Poverty_percentage)+log(AfriAm_perc)+log(older_perc)
+                   +data[,73]+data[,74]+data[,75]+data[,76]
+                   +data[,77]+data[,78]+data[,79]+data[,80]
+                   +data[,81]+data[,82]+data[,83]+data[,84],data=data)  # estimate the 4 phi_s for each knot
+
+summary(spline_all5)
+```
+
+## All 3 go back 10 days
+```{r}
+B1 = ns(seq(0, go_back), df=df,Boundary.knots=c(0,go_back)) # Basis matrix: go back 5 days, 4 internal knots
+dat = cases_fixed_test_SD_Mask[,c(test_value_extract)]       # get the values 
+dat = as.matrix(dat) 
+design_matrix1 = dat%*%B1                                    # multiply Basis and Value ===> # obs * # knots 
+
+B2 = ns(seq(0, go_back), df=df,Boundary.knots=c(0,go_back)) # Basis matrix: go back 5 days, 4 internal knots
+dat = cases_fixed_test_SD_Mask[,c(SD_value_extract)]         # get the values 
+dat = as.matrix(dat) 
+design_matrix2 = dat%*%B2                                    # multiply Basis and Value ===> # obs * # knots 
+
+B3 = ns(seq(0, go_back), df=df,Boundary.knots=c(0,go_back)) # Basis matrix: go back 5 days, 4 internal knots
+dat = cases_fixed_test_SD_Mask[,c(M_value_extract)]          # get the values 
+dat = as.matrix(dat) 
+design_matrix3 = dat%*%B3                                     # multiply Basis and Value ===> # obs * # knots
+```
+
+
+```{r}
+data = cbind(cases_fixed_test_SD_Mask,design_matrix1,design_matrix2,design_matrix3)
+
+spline_all10 = lm(log(daily_r)~log(winter_tmmx)+log(winter_rmax)+log(susceptible_perc)+log(density)+log(withHS)
+                   +log(Poverty_percentage)+log(AfriAm_perc)+log(older_perc)
+                   +data[,73]+data[,74]+data[,75]+data[,76]
+                   +data[,77]+data[,78]+data[,79]+data[,80]
+                   +data[,81]+data[,82]+data[,83]+data[,84],data=data)  # estimate the 4 phi_s for each knot
+
+summary(spline_all10)
+```
+
+# Visualizing Splines (10 days ago, 4 knots)
+```{r}
+phi = as.vector(summary(spline_all10)$coef[10:13,1])
+plot(B1[1:11,1:4]%*%phi,ylab = "phi",xlab="t-bj",main="testing") #
+
+pi = as.vector(summary(spline_all10)$coef[14:17,1])
+plot(B2[1:11,1:4]%*%pi,ylab = "pi",xlab="t-bj",main="social distancing") #
+
+psi = as.vector(summary(spline_all10)$coef[17:20,1])
+plot(B3[1:11,1:4]%*%phi,ylab = "psi",xlab="t-bj",main="Mask wearing") #
+
+```
+
+
