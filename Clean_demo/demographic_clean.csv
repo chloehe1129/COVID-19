@@ -1,4 +1,4 @@
-FIPS,summer_tmmx,summer_rmax,winter_tmmx,winter_rmax,State,Countynames.x,State_Abbrev,young_perc,median_perc,old_perc,lowerthan_HS,with_HS,with_BS,BS_higher,poverty_perc,Median_HH_income,Population,black_perc,latino_perc,area,density
+FIPS,summer_tmmx,summer_rmax,winter_tmmx,winter_rmax,state,Countynames,State_Abbrev,young_perc,median_perc,old_perc,lowerthan_HS,with_HS,with_BS,BS_higher,poverty_perc,Median_HH_income,Population,black_perc,latino_perc,area,density
 1001,93.01853937,97.46153544,61.33559842,86.49314281,Alabama,Autauga ,AL,0.191885038,0.134359094,0.077813349,0.113,0.326,0.284,0.277,0.138,59338,111202,0.206,0.03,595.97,186.589929
 1003,89.67087895,98.56998822,64.12382188,87.72376285,Alabama,Baldwin ,AL,0.141910632,0.114348761,0.08478571,0.097,0.276,0.313,0.313,0.098,57588,436044,0.097,0.046,1596.35,273.1506249
 1005,92.65556843,98.47574525,63.47640814,87.35207323,Alabama,Barbour ,AL,0.113120533,0.077723585,0.058334943,0.27,0.357,0.251,0.122,0.309,34382,49762,0.493,0.043,884.9,56.23460278
