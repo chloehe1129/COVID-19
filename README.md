@@ -1,8 +1,8 @@
 # COVID-19 Project
 
-## LHS_state.R: JHU github data regarding county-level daily cumulative death and confirmed COVID-19 cases.
+## LHS_state.R: 
 
-(1) https://github.com/CSSEGISandData/COVID-19
+(1) https://github.com/CSSEGISandData/COVID-19 (JHU github data regarding county-level daily cumulative death and confirmed COVID-19 cases)
 
 ## RHS_state.R: 
 
@@ -17,4 +17,14 @@ cleaned_version: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/u
 
 (4) Age group: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/demographic_clean_state.csv
 
+## prepare_state_data_for_analysis.R:
 
+(1) State-level Testing: https://raw.githubusercontent.com/COVID19Tracking/covid-tracking-data/master/data/states_daily_4pm_et.csv
+
+(2) Population: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/Clean_demo/population.csv
+
+(3) Match File: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/match_file.csv
+
+(4) State-level policies cleaned: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/Clean_cases/clean_policies.csv
+
+(5) Google community movement Data: https://www.google.com/covid19/mobility
