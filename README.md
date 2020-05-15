@@ -8,6 +8,7 @@
 
 (0) Basic Demographic Variables:  https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles
 cleaned_version: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/us_state.csv
+cleaned_code: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/Code/Demographic_data_processing.R
 
 (1) Hospital bed data: https://opendata.arcgis.com/datasets/6ac5e325468c4cb9b905f1728d6fbf0f_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 
@@ -26,5 +27,6 @@ cleaned_version: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/u
 (3) Match File: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/match_file.csv
 
 (4) State-level policies cleaned: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/Clean_cases/clean_policies.csv
+cleaned_code: https://raw.githubusercontent.com/chloehe1129/COVID-19/master/Code/Policy_processing_and_testing_update.R
 
 (5) Google community movement Data: https://www.google.com/covid19/mobility
